@@ -28,8 +28,10 @@ $redirect_url = rtrim($domain, '/') . '/index.html' . $query_params;
 // Helper: normalize and build absolute URL
 // Convierte backslashes, elimina barras dobles y codifica cada segmento
 // del path (espacios, acentos, etc.) para que la URL sea válida en redes sociales.
-function build_absolute_url($domain, $path) {
-    if (empty($path)) return '';
+function build_absolute_url($domain, $path)
+{
+    if (empty($path))
+        return '';
 
     // 1. Normalizar separadores: backslash Windows → forward slash
     $path = str_replace('\\', '/', $path);
@@ -44,8 +46,8 @@ function build_absolute_url($domain, $path) {
     //    rawurlencode() convierte espacios en %20, acentos, paréntesis, etc.
     //    NO se usa urlencode() porque este convierte espacios en + (inválido en rutas)
     $segments = explode('/', $path);
-    $encoded  = array_map('rawurlencode', $segments);
-    $path     = implode('/', $encoded);
+    $encoded = array_map('rawurlencode', $segments);
+    $path = implode('/', $encoded);
 
     return rtrim($domain, '/') . '/' . $path;
 }
@@ -53,8 +55,10 @@ function build_absolute_url($domain, $path) {
 // Helper: genera URL de og-image.php para imágenes de producto.
 // og-image.php centra la imagen en un canvas 1200×630 sin recortar nada.
 // Solo se usa para imágenes de producto (no banners ni fallback).
-function build_og_image_url($domain, $raw_path) {
-    if (empty($raw_path)) return '';
+function build_og_image_url($domain, $raw_path)
+{
+    if (empty($raw_path))
+        return '';
 
     // Normalizar separadores
     $raw_path = str_replace('\\', '/', $raw_path);
@@ -66,16 +70,19 @@ function build_og_image_url($domain, $raw_path) {
 }
 
 // Helper: format price
-function format_price($price_val) {
+function format_price($price_val)
+{
     if (is_numeric($price_val)) {
-        return '$' . number_format((float)$price_val, 2, ',', '.');
+        return '$' . number_format((float) $price_val, 2, ',', '.');
     }
     return $price_val;
 }
 
 // Helper: clean description
-function clean_description($desc) {
-    if (empty($desc)) return '';
+function clean_description($desc)
+{
+    if (empty($desc))
+        return '';
     $desc = strip_tags($desc);
     $desc = str_replace(array("\r", "\n"), ' ', $desc);
     $desc = preg_replace('/\s+/', ' ', $desc);
@@ -87,14 +94,73 @@ function clean_description($desc) {
 }
 
 // Helper: slugify
-function get_slug($text) {
+function get_slug($text)
+{
     $unwanted_array = array(
-        'Š'=>'S', 'š'=>'s', 'Ž'=>'Z', 'ž'=>'z', 'À'=>'A', 'Á'=>'A', 'Â'=>'A', 'Ã'=>'A', 'Ä'=>'A', 'Å'=>'A', 'Æ'=>'A', 'Ç'=>'C',
-        'È'=>'E', 'É'=>'E', 'Ê'=>'E', 'Ë'=>'E', 'Ì'=>'I', 'Í'=>'I', 'Î'=>'I', 'Ï'=>'I', 'Ñ'=>'N', 'Ò'=>'O', 'Ó'=>'O', 'Ô'=>'O',
-        'Õ'=>'O', 'Ö'=>'O', 'Ø'=>'O', 'Ù'=>'U', 'Ú'=>'U', 'Û'=>'U', 'Ü'=>'U', 'Ý'=>'Y', 'Þ'=>'B', 'ß'=>'Ss', 'à'=>'a', 'á'=>'a',
-        'â'=>'a', 'ã'=>'a', 'ä'=>'a', 'å'=>'a', 'æ'=>'a', 'ç'=>'c', 'è'=>'e', 'é'=>'e', 'ê'=>'e', 'ë'=>'e', 'ì'=>'i', 'í'=>'i',
-        'î'=>'i', 'ï'=>'i', 'ð'=>'o', 'ñ'=>'n', 'ò'=>'o', 'ó'=>'o', 'ô'=>'o', 'õ'=>'o', 'ö'=>'o', 'ø'=>'o', 'ù'=>'u', 'ú'=>'u',
-        'û'=>'u', 'ý'=>'y', 'þ'=>'b', 'ÿ'=>'y'
+        'Š' => 'S',
+        'š' => 's',
+        'Ž' => 'Z',
+        'ž' => 'z',
+        'À' => 'A',
+        'Á' => 'A',
+        'Â' => 'A',
+        'Ã' => 'A',
+        'Ä' => 'A',
+        'Å' => 'A',
+        'Æ' => 'A',
+        'Ç' => 'C',
+        'È' => 'E',
+        'É' => 'E',
+        'Ê' => 'E',
+        'Ë' => 'E',
+        'Ì' => 'I',
+        'Í' => 'I',
+        'Î' => 'I',
+        'Ï' => 'I',
+        'Ñ' => 'N',
+        'Ò' => 'O',
+        'Ó' => 'O',
+        'Ô' => 'O',
+        'Õ' => 'O',
+        'Ö' => 'O',
+        'Ø' => 'O',
+        'Ù' => 'U',
+        'Ú' => 'U',
+        'Û' => 'U',
+        'Ü' => 'U',
+        'Ý' => 'Y',
+        'Þ' => 'B',
+        'ß' => 'Ss',
+        'à' => 'a',
+        'á' => 'a',
+        'â' => 'a',
+        'ã' => 'a',
+        'ä' => 'a',
+        'å' => 'a',
+        'æ' => 'a',
+        'ç' => 'c',
+        'è' => 'e',
+        'é' => 'e',
+        'ê' => 'e',
+        'ë' => 'e',
+        'ì' => 'i',
+        'í' => 'i',
+        'î' => 'i',
+        'ï' => 'i',
+        'ð' => 'o',
+        'ñ' => 'n',
+        'ò' => 'o',
+        'ó' => 'o',
+        'ô' => 'o',
+        'õ' => 'o',
+        'ö' => 'o',
+        'ø' => 'o',
+        'ù' => 'u',
+        'ú' => 'u',
+        'û' => 'u',
+        'ý' => 'y',
+        'þ' => 'b',
+        'ÿ' => 'y'
     );
     $text = strtr($text, $unwanted_array);
     $text = mb_strtolower($text, 'UTF-8');
@@ -121,7 +187,7 @@ if (isset($_GET['producto'])) {
     // Normalizar el valor recibido:
     // urldecode() cubre casos donde Apache pasa %2D en vez de - etc.
     $producto_query = trim(urldecode($_GET['producto']));
-    $found_product  = null;
+    $found_product = null;
 
     if ($producto_query !== '') {
 
@@ -158,18 +224,28 @@ if (isset($_GET['producto'])) {
                     foreach ($products_data as $p) {
 
                         // Saltar entradas que no sean arrays válidos
-                        if (!is_array($p)) continue;
+                        if (!is_array($p))
+                            continue;
 
-                        $p_id         = isset($p['id'])    ? trim((string)$p['id'])    : '';
-                        $p_slug       = isset($p['slug'])  ? trim((string)$p['slug'])  : '';
-                        $p_title_slug = isset($p['title']) ? get_slug($p['title'])      : '';
+                        $p_id = isset($p['id']) ? trim((string) $p['id']) : '';
+                        $p_slug = isset($p['slug']) ? trim((string) $p['slug']) : '';
+                        $p_title_slug = isset($p['title']) ? get_slug($p['title']) : '';
 
                         // COINCIDENCIA TRIPLE — insensible a mayúsculas/minúsculas
-                        $match_id         = ($p_id   !== '' && strcasecmp($p_id,   $producto_query)      === 0);
-                        $match_slug       = ($p_slug !== '' && strcasecmp($p_slug, $producto_query)      === 0);
+                        // Normalizamos guiones y puntos para máxima compatibilidad
+                        $p_id_norm = str_replace(['-', '.'], '', $p_id);
+                        $p_slug_norm = str_replace(['-', '.'], '', $p_slug);
+                        $p_title_slug_norm = str_replace(['-', '.'], '', $p_title_slug);
+                        $query_norm = str_replace(['-', '.'], '', $producto_query);
+                        $query_slug_norm = str_replace(['-', '.'], '', $producto_query_slug);
+
+                        $match_id = ($p_id !== '' && (strcasecmp($p_id, $producto_query) === 0 || strcasecmp($p_id_norm, $query_norm) === 0));
+                        $match_slug = ($p_slug !== '' && (strcasecmp($p_slug, $producto_query) === 0 || strcasecmp($p_slug_norm, $query_norm) === 0));
                         $match_title_slug = ($p_title_slug !== '' && (
-                            strcasecmp($p_title_slug, $producto_query)      === 0 ||
-                            strcasecmp($p_title_slug, $producto_query_slug) === 0
+                            strcasecmp($p_title_slug, $producto_query) === 0 ||
+                            strcasecmp($p_title_slug, $producto_query_slug) === 0 ||
+                            strcasecmp($p_title_slug_norm, $query_norm) === 0 ||
+                            strcasecmp($p_title_slug_norm, $query_slug_norm) === 0
                         ));
 
                         if ($match_id || $match_slug || $match_title_slug) {
@@ -186,32 +262,28 @@ if (isset($_GET['producto'])) {
 
         $p_title = isset($found_product['title']) ? trim($found_product['title']) : '';
 
-        // --- Extracción de precio con cascada robusta ---
-        // priceNum puede venir como String "8500" o Number 8500
-        $price_val = null;
-
-        if (isset($found_product['price'])
-            && is_numeric($found_product['price'])
-            && (float)$found_product['price'] > 0) {
-            $price_val = (float)$found_product['price'];
-
-        } elseif (isset($found_product['priceNum'])
-            && $found_product['priceNum'] !== ''
-            && $found_product['priceNum'] !== null
-            && is_numeric($found_product['priceNum'])
-            && (float)$found_product['priceNum'] > 0) {
-            $price_val = (float)$found_product['priceNum'];
+        // --- Extracción de precio con método de seguridad total ---
+        $price_val = 0;
+        
+        // Prioridad absoluta a priceLocal
+        if (isset($found_product['priceLocal']) && $found_product['priceLocal'] != 0) {
+            // Limpiamos el valor de cualquier cosa que no sea número
+            $price_raw = preg_replace('/[^0-9]/', '', (string)$found_product['priceLocal']);
+            $price_val = (float)$price_raw;
+        } elseif (isset($found_product['cashPrice']) && $found_product['cashPrice'] != 0) {
+            $price_raw = preg_replace('/[^0-9]/', '', (string)$found_product['cashPrice']);
+            $price_val = (float)$price_raw;
         }
 
-        if ($price_val !== null) {
-            $formatted_price = format_price($price_val);
+        if ($price_val > 0) {
+            $formatted_price = '$' . number_format($price_val, 0, '', '.');
         } elseif (!empty($found_product['priceVisible'])) {
             $formatted_price = trim((string)$found_product['priceVisible']);
         } else {
             $formatted_price = '';
         }
 
-        // og:title
+        // og:title - Formato premium restaurado (ahora que el bug del $ está arreglado)
         if ($formatted_price !== '') {
             $og_title = $p_title . ' — ' . $formatted_price . ' | Pixis Informática';
         } else {
@@ -229,11 +301,11 @@ if (isset($_GET['producto'])) {
         // og:image
         $p_image = '';
         if (!empty($found_product['img'])) {
-            $img_parts = explode(',', (string)$found_product['img']);
+            $img_parts = explode(',', (string) $found_product['img']);
             $p_image = trim($img_parts[0]);
         } elseif (!empty($found_product['gallery'])) {
             // Si no hay img pero hay gallery, extraemos la primera imagen de la galería
-            $gallery_parts = explode(',', (string)$found_product['gallery']);
+            $gallery_parts = explode(',', (string) $found_product['gallery']);
             foreach ($gallery_parts as $part) {
                 $trimmed_part = trim($part);
                 if ($trimmed_part !== '') {
@@ -269,8 +341,10 @@ if (!$og_title && isset($_GET['categoria'])) {
                     $cat_id = isset($cat['id']) ? trim($cat['id']) : '';
                     $cat_name_slug = isset($cat['name']) ? get_slug($cat['name']) : '';
 
-                    if (($cat_id !== '' && strcasecmp($cat_id, $categoria_query) === 0) || 
-                        ($cat_name_slug !== '' && strcasecmp($cat_name_slug, $categoria_query) === 0)) {
+                    if (
+                        ($cat_id !== '' && strcasecmp($cat_id, $categoria_query) === 0) ||
+                        ($cat_name_slug !== '' && strcasecmp($cat_name_slug, $categoria_query) === 0)
+                    ) {
                         $found_category = $cat;
                         break;
                     }
@@ -283,7 +357,7 @@ if (!$og_title && isset($_GET['categoria'])) {
         $cat_name = isset($found_category['name']) ? trim($found_category['name']) : '';
         $og_title = $cat_name . " - Pixis Informática";
         $og_description = "Explorá nuestra categoría de " . $cat_name . " en Pixis Informática. Encontrá los mejores precios y hardware de alto rendimiento.";
-        
+
         if (!empty($found_category['customIcon'])) {
             if ($is_facebook) {
                 $og_image = build_og_image_url($domain, $found_category['customIcon']);
@@ -309,16 +383,18 @@ if (!$og_title && isset($_GET['banner'])) {
                 if (isset($site_data['banners']) && is_array($site_data['banners'])) {
                     foreach ($site_data['banners'] as $b_id => $b_info) {
                         $b_title_slug = isset($b_info['t']) ? get_slug($b_info['t']) : '';
-                        if (strcasecmp($b_id, $banner_query) === 0 || 
-                            get_slug($b_id) === get_slug($banner_query) || 
-                            strcasecmp($b_title_slug, $banner_query) === 0) {
+                        if (
+                            strcasecmp($b_id, $banner_query) === 0 ||
+                            get_slug($b_id) === get_slug($banner_query) ||
+                            strcasecmp($b_title_slug, $banner_query) === 0
+                        ) {
                             $found_banner_info = $b_info;
                             $banner_key = $b_id;
                             break;
                         }
                     }
                 }
-                
+
                 $carousels = array_merge(
                     isset($site_data['carouselTop']) && is_array($site_data['carouselTop']) ? $site_data['carouselTop'] : array(),
                     isset($site_data['carouselBottom']) && is_array($site_data['carouselBottom']) ? $site_data['carouselBottom'] : array()
@@ -339,7 +415,7 @@ if (!$og_title && isset($_GET['banner'])) {
         $banner_title = isset($found_banner_info['t']) ? trim($found_banner_info['t']) : '';
         $og_title = "🔥 ¡Equipate Ya! " . $banner_title . " en Pixis Informática";
         $og_description = "¡No dejes pasar esta oportunidad! Descubrí los mejores productos en " . $banner_title . " con envíos a todo el país y el mejor precio local.";
-        
+
         if ($found_banner_img !== '') {
             if ($is_facebook) {
                 // Facebook: canvas 1200×630 sin recortar
@@ -391,21 +467,26 @@ if (isset($_GET['producto']) && isset($found_product)) {
 $canonical_link = '<link rel="canonical" href="' . htmlspecialchars($canonical_url, ENT_QUOTES, 'UTF-8') . '">';
 $template = preg_replace('/(<body[^>]*?>)/is', $canonical_link . PHP_EOL . '$1', $template, 1);
 
-// Robust Modify OG and Twitter Tags using htmlspecialchars
-$template = preg_replace('/(<meta\s+[^>]*?id="meta-og-title"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . htmlspecialchars($og_title, ENT_QUOTES, 'UTF-8') . '${3}', $template);
-$template = preg_replace('/(<meta\s+[^>]*?id="meta-og-desc"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . htmlspecialchars($og_description, ENT_QUOTES, 'UTF-8') . '${3}', $template);
-$template = preg_replace('/(<meta\s+[^>]*?id="meta-og-image"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . htmlspecialchars($og_image, ENT_QUOTES, 'UTF-8') . '${3}', $template);
-$template = preg_replace('/(<meta\s+[^>]*?id="meta-og-url"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . htmlspecialchars($canonical_url, ENT_QUOTES, 'UTF-8') . '${3}', $template);
+// Robust Modify OG and Twitter Tags using htmlspecialchars and escaping $ for preg_replace
+$safe_og_title = str_replace('$', '\\$', htmlspecialchars($og_title, ENT_QUOTES, 'UTF-8'));
+$safe_og_description = str_replace('$', '\\$', htmlspecialchars($og_description, ENT_QUOTES, 'UTF-8'));
+$safe_og_image = str_replace('$', '\\$', htmlspecialchars($og_image, ENT_QUOTES, 'UTF-8'));
+$safe_canonical_url = str_replace('$', '\\$', htmlspecialchars($canonical_url, ENT_QUOTES, 'UTF-8'));
 
-$template = preg_replace('/(<meta\s+[^>]*?id="meta-twitter-title"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . htmlspecialchars($og_title, ENT_QUOTES, 'UTF-8') . '${3}', $template);
-$template = preg_replace('/(<meta\s+[^>]*?id="meta-twitter-desc"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . htmlspecialchars($og_description, ENT_QUOTES, 'UTF-8') . '${3}', $template);
-$template = preg_replace('/(<meta\s+[^>]*?id="meta-twitter-image"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . htmlspecialchars($og_image, ENT_QUOTES, 'UTF-8') . '${3}', $template);
+$template = preg_replace('/(<meta\s+[^>]*?id="meta-og-title"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . $safe_og_title . '${3}', $template);
+$template = preg_replace('/(<meta\s+[^>]*?id="meta-og-desc"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . $safe_og_description . '${3}', $template);
+$template = preg_replace('/(<meta\s+[^>]*?id="meta-og-image"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . $safe_og_image . '${3}', $template);
+$template = preg_replace('/(<meta\s+[^>]*?id="meta-og-url"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . $safe_canonical_url . '${3}', $template);
+
+$template = preg_replace('/(<meta\s+[^>]*?id="meta-twitter-title"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . $safe_og_title . '${3}', $template);
+$template = preg_replace('/(<meta\s+[^>]*?id="meta-twitter-desc"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . $safe_og_description . '${3}', $template);
+$template = preg_replace('/(<meta\s+[^>]*?id="meta-twitter-image"\s+[^>]*?content=")([^"]*)(")/is', '${1}' . $safe_og_image . '${3}', $template);
 
 // Inject JSON-LD structured data for Product
 $injection = '';
 if (isset($_GET['producto']) && isset($found_product)) {
-    $inStock = isset($found_product['inStock']) ? (bool)$found_product['inStock'] : true;
-    $stockNum = isset($found_product['stockNum']) ? (int)$found_product['stockNum'] : null;
+    $inStock = isset($found_product['inStock']) ? (bool) $found_product['inStock'] : true;
+    $stockNum = isset($found_product['stockNum']) ? (int) $found_product['stockNum'] : null;
 
     $schema_availability = "https://schema.org/InStock";
     if ($inStock === false || $stockNum === 0) {
@@ -415,8 +496,24 @@ if (isset($_GET['producto']) && isset($found_product)) {
     $brand_name = "Pixis Informática";
     if ($p_title !== '') {
         $known_brands = array(
-            'MSI', 'Raptor', 'Logitech', 'Corsair', 'Nvidia', 'AMD', 'Asus', 'Patriot', 'Kelyx', 
-            'Adata', 'Gigabyte', 'Mercusys', 'Thermaltake', 'TP-Link', 'Razer', 'Hiksemi', 'JBL', 'Genius'
+            'MSI',
+            'Raptor',
+            'Logitech',
+            'Corsair',
+            'Nvidia',
+            'AMD',
+            'Asus',
+            'Patriot',
+            'Kelyx',
+            'Adata',
+            'Gigabyte',
+            'Mercusys',
+            'Thermaltake',
+            'TP-Link',
+            'Razer',
+            'Hiksemi',
+            'JBL',
+            'Genius'
         );
         foreach ($known_brands as $kb) {
             if (stripos($p_title, $kb) !== false) {
@@ -439,7 +536,7 @@ if (isset($_GET['producto']) && isset($found_product)) {
         ]
     ];
     if ($price_val !== null && $price_val > 0) {
-        $offers["price"] = (string)$price_val;
+        $offers["price"] = (string) $price_val;
     }
 
     $schema = [
