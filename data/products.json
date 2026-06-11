@@ -1,31 +1,5 @@
 [
   {
-    "id": "PROD-MQ5KXPXIUEEJ",
-    "title": "Pad Térmico Liquido Coldium ThermoLink GEL -PRO90 4g",
-    "price": 10500,
-    "priceLocal": 8000,
-    "stock": 30,
-    "inStock": true,
-    "iva": "21,00%",
-    "priceNum": "10500",
-    "cashPrice": "8000",
-    "img": "img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermal-pad-en-pasta-1780964045101.jpg",
-    "gallery": "img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermal-pad-en-pasta-1780964045101.jpg,img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermal-putty-coldium-thermolink-gelpro90-4g-ml-front-3d-1-1780964045195.jpg,img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermolink-gel-pro90-4g-box-2-ml-1780964045353.jpg,img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermolink-gel-pro90-4g-box-4-ml-1780964045487.jpg,img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermolink-gel-pro90-4g-box-7-ml-600x600-1780964045600.jpg,img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermolink-gel-pro90-4g-box-8-ml-600x600-1780964045718.jpg,img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermolink-gel-pro90-4g-box-ml-600x600-1780964045799.jpg",
-    "video": "",
-    "videoUrl": "",
-    "desc": "❄️ Colldium Thermolink Gel Pro90 – 4g  \nSolución líquida avanzada para máxima transferencia térmica.\n\n⚡ Conductividad térmica superior: optimiza la disipación de calor en componentes críticos.\n\n💧 Formato gel líquido: aplicación uniforme y precisa, ideal para superficies irregulares.\n\n📦 Presentación: jeringa de 4 gramos para múltiples usos.\n\n🛡️ Protección confiable: evita el sobrecalentamiento en CPU, GPU y memorias.\n\n🔧 Fácil aplicación: textura fluida que asegura contacto completo con el hardware.\n\n✅ Diseñado para entusiastas y profesionales que buscan rendimiento térmico de nivel superior y mayor durabilidad en sus equipos.",
-    "proximoIngreso": false,
-    "customButtons": [],
-    "banners": [
-      "refrigeracionpremium"
-    ],
-    "subcategoria": "",
-    "category": "refrigeracion",
-    "category2": "",
-    "category3": "nuevos",
-    "excludeFromExport": false
-  },
-  {
     "img": "img/productos/adaptador-bluetooth-5-3-usb-nano-ma530-mercusys/adaptador-bluetooth-1780098473177.jpg",
     "gallery": "img/productos/adaptador-bluetooth-5-3-usb-nano-ma530-mercusys/adaptador-bluetooth-1780098473177.jpg,img\\productos\\MA530 Mercusys Adaptador Bluetooth 5.3 USB Nano (2176)\\000000000041722935266417229--1-.webp,img\\productos\\MA530 Mercusys Adaptador Bluetooth 5.3 USB Nano (2176)\\0000000000417229000235261417229--3-.webp",
     "title": "Adaptador Bluetooth 5.3 USB Nano MA530 Mercusys",
@@ -51,7 +25,7 @@
     "proximoIngreso": false,
     "excludeFromExport": false,
     "iva": "10,50%",
-    "stock": 28
+    "stock": 26
   },
   {
     "id": "PROD-MPEHG5FLALJP",
@@ -72,16 +46,7 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 3
-  },
-  {
-    "id": "prod-adaptador-displayport-hdmi-4k--469",
-    "title": "Adaptador Displayport Hdmi 4k 60hz",
-    "price": 7000,
-    "priceLocal": 5500,
-    "inStock": false,
-    "iva": "21,00%",
-    "stock": 0
+    "stock": 2
   },
   {
     "img": "img/productos/Conversor kelyx hdmi VGa.png",
@@ -102,7 +67,7 @@
     "category2": "",
     "category3": "",
     "iva": "21,00%",
-    "stock": 27
+    "stock": 25
   },
   {
     "id": "PROD-MPPRXRHMP0CO",
@@ -147,57 +112,6 @@
     "category3": "Procesadores",
     "iva": "21,00%",
     "stock": 3
-  },
-  {
-    "img": "img\\productos\\pasta termica arctic mx-4 8g.png",
-    "gallery": "img\\productos\\pasta termica arctic mx-4 8g.png,img\\productos\\Arctic Pasta Termica 8g Metalica Mx-4 Espatula Gris ORIGINAL\\D_NQ_NP_2X_683839-MLA99479916148_112025-F.webp,img\\productos\\Arctic Pasta Termica 8g Metalica Mx-4 Espatula Gris ORIGINAL\\D_NQ_NP_2X_766904-MLA99479876466_112025-F.webp",
-    "title": "Arctic Pasta Termica 8g Metalica Mx-4 Espatula Gris ORIGINAL",
-    "priceVisible": "$19.000",
-    "subcategoria": "Pastas Termicas",
-    "price": 19000,
-    "priceLocal": 17000,
-    "inStock": false,
-    "id": "prod-arctic-pasta-termica-8g-metali-780",
-    "priceNum": "19000",
-    "cashPrice": "17000",
-    "desc": "✅💧 Viscosidad: 870 Poise\n\n✅⚖️ Densidad: 2.50 g/cm³\n\n✅🔧 Conductividad térmica: 8.5 W/(m·K)\n\n✅🌡️ Temperatura de funcionamiento: -50 – 150 ºC\n\n✅⚡ Resistividad volumétrica: 3.8 × 10¹³ ohm·cm\n\n✅🚫 Conductividad eléctrica: No\n\n✅🚫 Efecto capacitivo: No",
-    "customButtons": [],
-    "banners": [],
-    "category": "refrigeracion",
-    "category2": "Procesadores",
-    "category3": "",
-    "excludeFromExport": false,
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "id": "prod-1778110392369",
-    "title": "Auricular Gamer Raptor Inferno PRO RGB 7.1 USB Negro",
-    "img": "img\\productos\\auriculares raptor inferno cable.png",
-    "desc": "🎧 Especificaciones Técnicas:\n\n• 🆔 Modelo: RAP-AURI-RGB-USB-7.1\n\n• 🔌 Modo de conexión: USB\n\n• 🎽 Estilo: Venda (diadema)\n\n• 🔗 Longitud de cable: 2M ± 0,05M\n\n• 🧱 Material: ABS + Aleación de aluminio\n\n• 🔊 Diámetro de altavoz: 50mm\n\n• ⚡ Impedancia del altavoz: 32Ω ± 15%\n\n• 📈 Rango de altavoces: 20Hz – 20KHz\n\n• 🎙️ Tamaño del micrófono: 4,0 × 1,3mm\n\n• 🎚️ Sensibilidad del micrófono: 40 ± 3dB\n\n• 🔌 Impedancia del micrófono: 2,2KΩ\n\n• 🎛️ Controlador USB: Volumen / Silenciar\n\n• 📡 Respuesta de frecuencia del micrófono: 100Hz – 10KHz\n\n• 🌈 Luz: RGB con efectos dinámicos\n\n• 🎮 Sonido envolvente: 7.1 Surround\n\n• 📐 Dimensiones: 200 × 160 × 100 mm\n\n• ⚖️ Peso: 325g",
-    "video": "https://youtube.com/shorts/RNR17CngIVU?si=4bC9A9R3cUE-XDES",
-    "category": "Periféricos",
-    "category2": "",
-    "subcategoria": "Auriculares",
-    "inStock": false,
-    "slug": "auricular-gamer-raptor-inferno-pro-rgb-7-1-usb-negro",
-    "price": 52500,
-    "priceLocal": 49500,
-    "banners": [
-      "perifericos-raptor"
-    ],
-    "priceNum": "51500",
-    "cashPrice": "48000",
-    "gallery": "img\\productos\\auriculares raptor inferno cable.png,img/productos/auricular-gamer-raptor-inferno-pro-rgb-7-1-usb-negro/auriculares-raptor-inferno-cable--2--1778193568733.jpg",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://www.raptor-gaming.com.ar/todos-auricular-gamer-raptor-inferno-pro-rgb-7-1-usb-negro--det--0417612"
-      }
-    ],
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "id": "prod-1778110757189",
@@ -261,89 +175,6 @@
     "stock": 1
   },
   {
-    "id": "prod-1778111074434",
-    "title": "AURICULAR JBL QUANTUM 100M2 GAMING SURROUND NEGRO",
-    "img": "img/productos/auricular-jbl-quantum-100m2-gaming-surround-negro/01-1778167393487.jpg",
-    "desc": "- 📈 Respuesta de frecuencia: 20 Hz – 20 kHz\n\n- ⚡ Entrada de potencia máxima: 20 mW\n\n- 🔉 Sensibilidad: 96 dB SPL a 1 kHz / 1 mW\n\n- 🎚️ Impedancia: 32 Ω\n\n🎤 Micrófono\n\n- 📈 Respuesta de frecuencia: 100 Hz – 10 kHz\n\n- 🎙️ Sensibilidad: –42 dBV a 1 kHz dB/Pa\n\n- 🔧 Tipo: Asta desmontable\n\n- 🎯 Patrón de captación: Direccional",
-    "video": "",
-    "category": "Periféricos",
-    "category2": "",
-    "subcategoria": "Auriculares",
-    "inStock": false,
-    "slug": "auricular-jbl-quantum-100m2-gaming-surround-negro",
-    "price": 0,
-    "priceLocal": 0,
-    "banners": [],
-    "priceNum": "71500",
-    "cashPrice": "68000",
-    "gallery": "img/productos/auricular-jbl-quantum-100m2-gaming-surround-negro/01-1778167393487.jpg,img/productos/auricular-jbl-quantum-100m2-gaming-surround-negro/02-1778167393574.jpg,img/productos/auricular-jbl-quantum-100m2-gaming-surround-negro/04-1778167393643.jpg,img/productos/auricular-jbl-quantum-100m2-gaming-surround-negro/05-1778167393671.jpg,img/productos/auricular-jbl-quantum-100m2-gaming-surround-negro/jbl-quantum-100m2-product-image-angle-black-1778167393691.jpg,img/productos/auricular-jbl-quantum-100m2-gaming-surround-negro/jbl-quantum-100m2-product-image-buttons-black-1778167393723.jpg,img/productos/auricular-jbl-quantum-100m2-gaming-surround-negro/ls-jbl-quantum-100m2-box-image-side-1778167393751.jpg",
-    "customButtons": [],
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img/des/raptor shadow 7.1 des.png",
-    "title": "Auriculares Raptor Shadow Rgb",
-    "desc": "- 📏 Dimensiones: 205 × 100 × 230 mm\n- ⚖️ Peso: 317.5 g\n- 🔊 Configuración de canales: 7.1\n- 🔌 Longitud del cable: 2 m\n- 🌈 Iluminación: RGB\n- 🔗 Interfaz: USB 2.0\n- ⚡ Impedancia:\n- DCR: 32 ±15%\n- ACR: 12 ±15%\n- 📊 Nivel de presión sonora: 130 dB ±3\n- 🔋 Potencia de entrada: 10 mW\n- ⚡ Potencia máxima de entrada: 20 mW\n- 🎤 Micrófono: 6.0 × 5.0 mm, omnidireccional\n- 🌀 Altavoces: 50 mm\n- 🎙️ Sensibilidad del micrófono: –38 dB ±3 dB",
-    "priceVisible": "$31.500",
-    "subcategoria": "Auriculares",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-auriculares-raptor-shadow-rgb-611",
-    "priceNum": "31500",
-    "cashPrice": "31500",
-    "customButtons": [],
-    "banners": [
-      "perifericos-raptor"
-    ],
-    "category": "Periféricos",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img\\des\\razer blackshark v2 des.png",
-    "title": "Auriculares Razer blackshark V2",
-    "desc": "- 🎧 Diafragmas: Razer™ TriForce de 50 mm\n- 🎤 Micrófono: Cardioide Razer™ HyperClear fijo\n- 🔊 Sonido envolvente: 7.1 canales para inmersión total\n- 🔌 Conectividad: Conector analógico de 3,5 mm",
-    "priceVisible": "$87.500",
-    "subcategoria": "Auriculares",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-auriculares-razer-blackshark-v-288",
-    "priceNum": "87500",
-    "cashPrice": "87500",
-    "gallery": "img\\des\\razer blackshark v2 des.png",
-    "customButtons": [],
-    "banners": [],
-    "category": "Periféricos",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "id": "prod-1778167555237",
-    "title": "Blister X5 pilas  Para PC CR2032",
-    "img": "img/productos/blister-x5-pilas-para-pc-cr2032/blistter-pilas-cr2032-bios-1778167519116.jpg",
-    "gallery": "img/productos/blister-x5-pilas-para-pc-cr2032/blistter-pilas-cr2032-bios-1778167519116.jpg",
-    "desc": "✅ Enlace copiado\n- 🔑 Tipo: Litio, 3V\n\n- 📏 Tamaño: 20 mm de diámetro × 3.2 mm de grosor\n\n- ⏳ Larga vida útil y bajo nivel de autodescarga\n\n- ⚙️ Usos comunes: relojes, calculadoras, controles remotos, placas madre (CMOS), básculas digitales, juguetes y más",
-    "video": "",
-    "category": "Placas madres",
-    "category2": "Herramientas",
-    "subcategoria": "pila bios",
-    "inStock": false,
-    "slug": "blister-x5-pilas-para-pc-cr2032",
-    "price": 2000,
-    "priceLocal": 1500,
-    "banners": [],
-    "iva": "10,50%",
-    "stock": 0
-  },
-  {
     "img": "img\\des\\Fichas-UTP-RJ45-Cat-5e.png",
     "title": "Bolsa x 100 Fichas UTP RJ45 Cat 5e",
     "desc": "Ficha RJ45 Cat5e\nConector estándar de 8 pines (8P8C) utilizado para cables de red UTP Cat5e. Fabricado en plástico transparente con contactos metálicos de alta conductividad, Se instala mediante crimpado siguiendo normas de color T568A o T568B, garantizando compatibilidad con routers, switches, PCs y otros dispositivos de red.",
@@ -362,19 +193,6 @@
     "category3": "",
     "iva": "21,00%",
     "stock": 1
-  },
-  {
-    "img": "img/des/Cabezal de iphone  5w des.png",
-    "title": "Cabezal para iphone Certificado 5w",
-    "desc": "\n       Cabezal certificado perfecto para cable lightning",
-    "priceVisible": "$4.000",
-    "subcategoria": "destornilladores",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-cabezal-para-iphone-certificad-348",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "id": "PROD-MPEHAGSOI850",
@@ -417,7 +235,7 @@
     "customButtons": [],
     "category3": "",
     "iva": "21,00%",
-    "stock": 175
+    "stock": 145
   },
   {
     "id": "PROD-MPIEDXZN2G65",
@@ -438,7 +256,7 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 10
+    "stock": 9
   },
   {
     "img": "img\\productos\\Display port 3M 8k.png",
@@ -458,7 +276,7 @@
     "category": "Cables",
     "category2": "",
     "iva": "21,00%",
-    "stock": 8
+    "stock": 7
   },
   {
     "img": "img/productos/hdmi 1.5 1080p.png",
@@ -656,7 +474,7 @@
   {
     "id": "PROD-MPIE02FZTL76",
     "title": "CAMARA DE SEGURIDAD DOMO 360° 2K MC210 Camara IP Mercusys Indoor 2K 3MP 360",
-    "price": 33000,
+    "price": 32500,
     "priceLocal": 29500,
     "inStock": true,
     "priceNum": "33000",
@@ -708,7 +526,7 @@
     "proximoIngreso": false,
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 4,
+    "stock": 3,
     "video": "https://youtube.com/shorts/87hrJVQV1Ko?si=1cSTr9nSQZAK--pC",
     "videoUrl": "https://youtube.com/shorts/87hrJVQV1Ko?si=1cSTr9nSQZAK--pC"
   },
@@ -786,51 +604,7 @@
     "priceLocal": 9000,
     "banners": [],
     "iva": "10,50%",
-    "stock": 14
-  },
-  {
-    "id": "prod-1778164483674",
-    "title": "CH-EX-QFABA Estuche Portatil Para Cable Disco Externo Carry 2,5 Evox Negro",
-    "img": "img/productos/ch-ex-qfaba-estuche-portatil-para-cable-disco-externo-carry-2-5-evox-negro/estuche-disco-2-1778164342044.jpg",
-    "gallery": "img/productos/ch-ex-qfaba-estuche-portatil-para-cable-disco-externo-carry-2-5-evox-negro/estuche-disco-2-1778164342044.jpg,img\\des\\estuche-evox-2.png,img\\des\\estuche-evox.png",
-    "desc": "Estuche portátil rígido para discos externos de 2,5\n\nMaterial: EVA interior acolchado\n\nColor: negro\n\nCierre: cremallera (zipper)\n\nCompartimentos internos: bolsillo con red para cables y accesorios\n\nProtección: resistente a golpes, polvo y salpicaduras\n\nUso: transportar discos externos, cables y pequeños periféricos",
-    "video": "",
-    "category": "Herramientas",
-    "category2": "",
-    "subcategoria": "carry disk",
-    "inStock": true,
-    "slug": "ch-ex-qfaba-estuche-portatil-para-cable-disco-externo-carry-2-5-evox-negro",
-    "price": 7000,
-    "priceLocal": 6000,
-    "banners": [],
-    "iva": "21,00%",
-    "stock": 1
-  },
-  {
-    "id": "PROD-MQ5L1BWZGJWL",
-    "title": "Pasta Térmica Arctic Mx-4 8g Con Espátula Alt o Rendimiento",
-    "price": 18500,
-    "priceLocal": 16500,
-    "stock": 30,
-    "inStock": true,
-    "iva": "21,00%",
-    "priceNum": "18500",
-    "cashPrice": "16500",
-    "img": "img/productos/pasta-termica-arctic-mx-4-8g-con-espatula-alt-o-rendimiento/arctic-8g-1780964356678.jpg",
-    "gallery": "img/productos/pasta-termica-arctic-mx-4-8g-con-espatula-alt-o-rendimiento/arctic-8g-1780964356678.jpg,img/productos/pasta-termica-arctic-mx-4-8g-con-espatula-alt-o-rendimiento/fake-mx-4-video-para-celular-1780964356788.jpg,img/productos/pasta-termica-arctic-mx-4-8g-con-espatula-alt-o-rendimiento/pasta-termica-arctic-mx-4-4g-web-2-1780964356944.jpg,img/productos/pasta-termica-arctic-mx-4-8g-con-espatula-alt-o-rendimiento/pasta-termica-arctic-mx-4-4g-web-3-600x600-1780964357170.jpg,img/productos/pasta-termica-arctic-mx-4-8g-con-espatula-alt-o-rendimiento/pasta-termica-arctic-mx-4-8g-web-front-upscayl-2x-upscayl-lite-4x-1780964357262.jpg",
-    "video": "",
-    "videoUrl": "",
-    "desc": "❄️ Arctic MX-4 – 8g  \nMáxima eficiencia térmica para tu CPU y GPU.\n\n⚡ Alta conductividad térmica: asegura una disipación de calor superior.\n\n🛡️ Seguridad total: libre de metales, no conduce electricidad.\n\n🔧 Aplicación sencilla: textura ideal para un esparcido uniforme.\n\n📦 Presentación: jeringa de 4 gramos, suficiente para múltiples aplicaciones.\n\n⏳ Durabilidad prolongada: rendimiento estable por años sin necesidad de reaplicar.\n\n✅ Una de las pastas térmicas más reconocidas por entusiastas y profesionales, diseñada para mantener tu hardware en temperaturas óptimas y con máxima confiabilidad.",
-    "proximoIngreso": false,
-    "customButtons": [],
-    "banners": [
-      "refrigeracionpremium"
-    ],
-    "subcategoria": "Pastas Termicas",
-    "category": "refrigeracion",
-    "category2": "",
-    "category3": "nuevos",
-    "excludeFromExport": false
+    "stock": 13
   },
   {
     "id": "PROD-MPIE4MSTVTKG",
@@ -864,62 +638,10 @@
     "videoUrl": ""
   },
   {
-    "id": "PROD-MQ5KUB4N7XAR",
-    "title": "Pasta Térmica Coldium Legend 4g Powerful O verclock 15.3w/mk",
-    "price": 10500,
-    "priceLocal": 8500,
-    "stock": 30,
-    "inStock": true,
-    "iva": "21,00%",
-    "priceNum": "10500",
-    "cashPrice": "8500",
-    "img": "img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/legend-4g-1780964437163.jpg",
-    "gallery": "img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/legend-4g-1780964437163.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-1-1-600x400-1780964435949.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-1-1-scaled-1780964436003.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-2-1780964436621.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-8-600x400-1780964436816.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-9-600x400-1780964436896.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-24-1780964436952.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-27-600x600-1780964437070.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/pasta-termica-coldium-legend-promo-ml-v3-600x335-1780964437587.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/premium-thermal-pastes-average-testing-ml-2-1780964437678.jpg",
-    "video": "",
-    "videoUrl": "",
-    "desc": "❄️ Colldium Legend – 2g  \nRendimiento térmico confiable en formato compacto.\n\n⚡ Alta conductividad térmica: mejora la disipación de calor en CPU y GPU.\n\n🛡️ Seguridad garantizada: libre de metales, no conduce electricidad.\n\n🔧 Aplicación sencilla: textura uniforme para un contacto perfecto con el hardware.\n\n📦 Presentación: jeringa de 2 gramos, práctica para varias aplicaciones.\n\n⏳ Durabilidad prolongada: mantiene su rendimiento estable por largo tiempo.\n✅ Una opción ideal para quienes buscan eficiencia térmica y protección confiable en sus equipos.",
-    "proximoIngreso": false,
-    "customButtons": [],
-    "banners": [
-      "refrigeracionpremium"
-    ],
-    "subcategoria": "Pastas Termicas",
-    "category": "refrigeracion",
-    "category2": "Placas de video",
-    "category3": "nuevos",
-    "excludeFromExport": false
-  },
-  {
-    "id": "PROD-MQ5KYV3A3U09",
-    "title": "Pasta Térmica Arctic Mx-4 4g Alto Rendimiento La Original",
-    "price": 11500,
-    "priceLocal": 10000,
-    "stock": 50,
-    "inStock": true,
-    "iva": "21,00%",
-    "priceNum": "11500",
-    "cashPrice": "10000",
-    "img": "img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/arctic-4g-1780964128794.jpg",
-    "gallery": "img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/arctic-4g-1780964128794.jpg,img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/fake-mx-4-video-para-celular-1780964128970.jpg,img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/pasta-termica-arctic-mx-4-4g-con-espatula-font-web-1780964129161.jpg,img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/pasta-termica-arctic-mx-4-4g-con-espatula-font-web-600x600-1780964129320.jpg,img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/pasta-termica-arctic-mx-4-4g-web-2-1780964129386.jpg,img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/pasta-termica-arctic-mx-4-4g-web-4-1780964129692.jpg",
-    "video": "",
-    "videoUrl": "",
-    "desc": "❄️ Arctic MX-4 – 4g  \nMáxima eficiencia térmica para tu CPU y GPU.\n\n⚡ Alta conductividad térmica: asegura una disipación de calor superior.\n\n🛡️ Seguridad total: libre de metales, no conduce electricidad.\n\n🔧 Aplicación sencilla: textura ideal para un esparcido uniforme.\n\n📦 Presentación: jeringa de 4 gramos, suficiente para múltiples aplicaciones.\n\n⏳ Durabilidad prolongada: rendimiento estable por años sin necesidad de reaplicar.\n\n✅ Una de las pastas térmicas más reconocidas por entusiastas y profesionales, diseñada para mantener tu hardware en temperaturas óptimas y con máxima confiabilidad.",
-    "proximoIngreso": false,
-    "customButtons": [],
-    "banners": [
-      "refrigeracionpremium"
-    ],
-    "subcategoria": "",
-    "category": "refrigeracion",
-    "category2": "nuevos",
-    "category3": "Placas de video",
-    "excludeFromExport": false
-  },
-  {
     "id": "PROD-MPIE6ZV70J2D",
     "title": "Control Raptor Apex Wireless p/PC/PS3/Swith/Android White (7619)",
     "price": 42000,
-    "priceLocal": 38000,
+    "priceLocal": 39000,
     "inStock": true,
     "priceNum": "42000",
     "cashPrice": "38000",
@@ -969,26 +691,6 @@
     "video": "https://youtube.com/shorts/qzO2PyATiz4?si=bY_EY2J90Y-FCLUI",
     "videoUrl": "https://youtube.com/shorts/qzO2PyATiz4?si=bY_EY2J90Y-FCLUI",
     "proximoIngreso": false
-  },
-  {
-    "img": "img/productos/Conversor displayport a vga .png",
-    "title": "Conversor displayport a Vga",
-    "desc": "'DISPLAYPORT A VGA' NO 'VGA DISPLAYPORT'\n📝Nota: los conversores de señal solamente se manejan a una frecuencia FHD de 60hz",
-    "priceVisible": "$9.000",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-conversor-displayport-a-vga-961",
-    "priceNum": "9000",
-    "cashPrice": "9000",
-    "customButtons": [],
-    "banners": [],
-    "subcategoria": "Conversores",
-    "category": "Cables",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "img": "img\\productos\\Kelyx dispador cpu.png",
@@ -1041,7 +743,7 @@
     "category2": "gabinetes",
     "category3": "",
     "iva": "21,00%",
-    "stock": 23
+    "stock": 20
   },
   {
     "img": "img\\productos\\raptor cryo.png",
@@ -1069,32 +771,6 @@
     "videoUrl": "https://youtube.com/shorts/N6K0y3tiNQ0?si=g8sihhjinwgAHPQH",
     "proximoIngreso": false,
     "excludeFromExport": false
-  },
-  {
-    "img": "img\\productos\\astria 200.png",
-    "gallery": "img\\productos\\astria 200.png,img\\productos\\CPU Cooler TT ASTRIA 200 ARGB Lighting Intel & AMD (0931)\\cl-p119-al12sw-a_01.jpg,img\\productos\\CPU Cooler TT ASTRIA 200 ARGB Lighting Intel & AMD (0931)\\cl-p119-al12sw-a_02.jpg,img\\productos\\CPU Cooler TT ASTRIA 200 ARGB Lighting Intel & AMD (0931)\\cl-p119-al12sw-a_03.jpg,img\\productos\\CPU Cooler TT ASTRIA 200 ARGB Lighting Intel & AMD (0931)\\cl-p119-al12sw-a_04.jpg,img\\productos\\CPU Cooler TT ASTRIA 200 ARGB Lighting Intel & AMD (0931)\\cl-p119-al12sw-a_06.jpg",
-    "title": "CPU Cooler TT ASTRIA 200 ARGB Lighting Intel & AMD",
-    "priceVisible": "$70.500",
-    "subcategoria": "Cooler cpu Torre",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-cpu-cooler-tt-astria-200-argb--142",
-    "priceNum": "70500",
-    "cashPrice": "68000",
-    "desc": "✅ Enlace copiado\n📐 Dimensiones: 124 × 93 × 160 mm (L × W × H)\n\n🏗️ Material del disipador: Aletas de aluminio & heatpipes de cobre\n\n🔩 Heatpipe: Φ6mm × 4 pcs\n\n🌬️ Ventilador: 120 × 120 × 25 mm\n\n🔄 Cantidad de ventiladores: 1 pcs\n\n⚙️ Velocidad del ventilador: PWM 500 ~ 1800 RPM\n\n🔌 Consumo de energía: LED: 3.25 W | Ventilador: 1.8 W & 1.55 W\n\n💨 Flujo de aire: 65.0 CFM\n\n🔇 Ruido acústico: 26.8 dBA\n\n⏳ Vida útil del ventilador: 40,000 horas\n\n🔗 Conexiones: 5V ARGB y pwm\n\n❄️ Capacidad de enfriamiento: 210 W\n\nLGA 2066/2011/1851/1700/1200/1156/1155/1151/1150\n\nAM5 / AM4",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://es.thermaltake.com/astria-200-argb-lighting-cpu-cooler-white.html"
-      }
-    ],
-    "banners": [],
-    "category": "refrigeracion",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "img": "img\\productos\\thermaltake ux 200.png",
@@ -1144,62 +820,13 @@
     "stock": 2
   },
   {
-    "img": "img/productos/hiksemi-ssd-128gb.png",
-    "title": "Disco SSD hiksemi wave 128GB",
-    "desc": "Capacity 128 GB\nMax. Seq. Read (MB/S) 530 MB/s\nMax. Seq. Write (MB/S) 400 MB/s\nMax. Ran. 4K read IOPS 30K\nMax. Ran. 4K write IOPS 50K\nMax. Power Consumption 1.3W\nTBW 80TB\nStorage Medium 3D NAND\nInterface SATA III\nMTBF 1,500,000 hours\nOperation temperature 0-70 °C\nStorage temperature -40 °C to 85 °C\nWeight = 34.4 g",
-    "priceVisible": "$53.000",
-    "subcategoria": "128GB",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-disco-ssd-hiksemi-wave-128gb-661",
-    "priceNum": "53000",
-    "cashPrice": "49000",
-    "customButtons": [],
-    "banners": [
-      "ssd-hiksemi"
-    ],
-    "category": "almacenamiento",
-    "category2": "",
-    "category3": "",
-    "gallery": "img/productos/hiksemi-ssd-128gb.png",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "id": "PROD-MQ5KEMYA6CU6",
-    "title": "Pad Térmico Coldium Skade 95x55x0.5mm",
-    "price": 8500,
-    "priceLocal": 6500,
-    "stock": 30,
-    "inStock": true,
-    "iva": "21,00%",
-    "priceNum": "8500",
-    "cashPrice": "6500",
-    "img": "img/productos/pad-termico-coldium-skade-95x55x0-5mm/0-1780963942795.jpg",
-    "gallery": "img/productos/pad-termico-coldium-skade-95x55x0-5mm/0-1780963942795.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/dsc02101-scaled-1780963942886.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-coldium-origins-hand-opening-1780963943018.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-coldium-skade-hand-opening-film-1780963943136.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-coldium-ssd-adding-1780963943270.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-termic-coldium-colocacion-600x600-1780963943420.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-termico-coldium-memoria-ram-colocacion-600x600-1780963943487.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-termico-coldium-quita-film-azul-mkt-600x600-1780963943534.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-termico-coldium-ssd-colocacion--1780963943585.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/skade-95x55x0-1780963943694.jpg",
-    "video": "",
-    "videoUrl": "",
-    "desc": "❄️ Pads Térmicos Coldium Skade 0.5mm  \nRefrigeración precisa y confiable para tus componentes.\n\n📏 Espesor: 0.5mm\n\n⚡ Alta conductividad térmica: mejora la disipación de calor.\n\n🛡️ Protección segura: evita el sobrecalentamiento en chips y memorias.\n\n🔧 Instalación sencilla: se adaptan fácilmente a distintas superficies.\n\n🎮 Uso recomendado: GPU, VRAM, SSD y otros componentes sensibles.\n\n✅ Una solución práctica para mantener tu hardware en temperaturas óptimas y con mayor durabilidad.",
-    "proximoIngreso": false,
-    "customButtons": [],
-    "banners": [
-      "refrigeracionpremium"
-    ],
-    "subcategoria": "Thermalpads",
-    "category": "Placas de video",
-    "category2": "refrigeracion",
-    "category3": "nuevos",
-    "excludeFromExport": false
-  },
-  {
     "img": "img\\productos\\hiksemi-ssd-960gb.png",
     "gallery": "img\\productos\\hiksemi-ssd-960gb.png,img\\productos\\ssd sata hiksemi\\ab063b5fda46454599fd0433b73dcd49.jpg,img\\productos\\ssd sata hiksemi\\d1aade924808408baf923c5f32b11c45.jpg",
     "title": "Disco SSD hiksemi wave 960GB",
     "desc": "Capacity 960 GB\nMax. Seq. Read (MB/S) 530 MB/s\nMax. Seq. Write (MB/S) 400 MB/s\nMax. Ran. 4K read IOPS 30K\nMax. Ran. 4K write IOPS 50K\nMax. Power Consumption 1.3W\nTBW 80TB\nStorage Medium 3D NAND\nInterface SATA III\nMTBF 1,500,000 hours\nOperation temperature 0-70 °C\nStorage temperature -40 °C to 85 °C\nWeight = 34.4 g",
     "priceVisible": "$239.500",
     "subcategoria": "1TB",
-    "price": 242500,
+    "price": 242000,
     "priceLocal": 235500,
     "inStock": true,
     "id": "prod-disco-ssd-hiksemi-wave-960gb-255",
@@ -1266,21 +893,12 @@
     "stock": 7
   },
   {
-    "id": "prod-display-port-1-5m-8k-589",
-    "title": "Display port 1.5M 8k",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
     "img": "img/productos/escritorio-gamer-raptor-glow-station-se-rgb-via-usb-c-portavasos-porta-auricular/escritorio-rgb-gamer-raptor-1779125543530.jpg",
     "gallery": "img/productos/escritorio-gamer-raptor-glow-station-se-rgb-via-usb-c-portavasos-porta-auricular/escritorio-rgb-gamer-raptor-1779125543530.jpg,img/productos/escritorio-gamer-raptor-glow-station-se-rgb-via-usb-c-portavasos-porta-auricular/escritorio-rgb-gamer-raptor-des--2--1779125543449.jpg,img/productos/escritorio-gamer-raptor-glow-station-se-rgb-via-usb-c-portavasos-porta-auricular/escritorio-rgb-gamer-raptor-des-2-1779125543502.jpg",
     "title": "Escritorio Gamer Raptor Glow Station SE RGB via USB c/portavasos + porta auricular",
     "priceVisible": "$149.000",
     "subcategoria": "Escritorio",
-    "price": 153000,
+    "price": 152500,
     "priceLocal": 143500,
     "inStock": true,
     "id": "prod-escritorio-gamer-raptor-glow-s-301",
@@ -1300,27 +918,6 @@
     "excludeFromExport": false,
     "iva": "21,00%",
     "stock": 5
-  },
-  {
-    "img": "img\\des\\estabilizador 2200va des.png",
-    "gallery": "img\\productos\\ESTABFORZA\\IMG_20260403_175814776_HDR_PCT.jpg,img\\productos\\ESTABFORZA\\IMG_20260403_175828031_HDR_PCT.jpg",
-    "title": "ESTAB FORZA 2200VA/1100W",
-    "desc": "✅🔌 Modelo: Forza FVR-2202A\n📦 MPN: FVR-2202A\n⚡ Capacidad: 2200VA / 1100W\n🔋 Voltaje: 220V\n🔌 Entrada: IRAM Type I\n🔌 Salidas: 6 × IRAM Type I\n💡 Indicador Visual: Luz LED de estado\n🛡️ Protecciones: Sobretensión | Sobrecarga | Descarga eléctrica | Línea de datos (RJ-45/RJ-11) | Termofusible\n🔥 Material: Plástico ABS retardante de llama\n🎮 Aplicaciones: PCs | Consolas | Periféricos | Routers | Cámaras",
-    "priceVisible": "$60.500",
-    "subcategoria": "Prolongadores",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-estab-forza-2200va-1100w-204",
-    "priceNum": "60500",
-    "cashPrice": "58000",
-    "customButtons": [],
-    "banners": [],
-    "category": "Cables",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "id": "prod-1778170881554",
@@ -1385,7 +982,7 @@
     "category2": "Cables",
     "category3": "",
     "iva": "21,00%",
-    "stock": 268
+    "stock": 264
   },
   {
     "img": "img\\des\\MAGNUMTECH 600W fUENTE GENERICA des.png",
@@ -1406,63 +1003,6 @@
     "category2": "",
     "iva": "21,00%",
     "stock": 3
-  },
-  {
-    "img": "img\\des\\FUENTE GIGABYTE 450 des.png",
-    "title": "Fuente Gigabyte 450w 80plus bronze",
-    "priceVisible": "$61.500",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-fuente-gigabyte-450w-80plus-br-694",
-    "priceNum": "",
-    "cashPrice": "61500",
-    "desc": "",
-    "customButtons": [],
-    "banners": [],
-    "subcategoria": "",
-    "category": "fuentes",
-    "category2": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img\\des\\FUENTE GIGABYTE 550 BLACK des.png",
-    "title": "Fuente Gigabyte 550w 80plus Silver",
-    "priceVisible": "$90.500",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-fuente-gigabyte-550w-80plus-si-634",
-    "priceNum": "",
-    "cashPrice": "90500",
-    "desc": "",
-    "customButtons": [],
-    "banners": [],
-    "subcategoria": "",
-    "category": "fuentes",
-    "category2": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img\\des\\FUENTE GIGABYTE 550 WHITE des.png",
-    "title": "Fuente Gigabyte 550w Ice 80plus Silver",
-    "priceVisible": "$90.500",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-fuente-gigabyte-550w-ice-80plu-17",
-    "priceNum": "",
-    "cashPrice": "90500",
-    "desc": "",
-    "customButtons": [],
-    "banners": [],
-    "subcategoria": "",
-    "category": "fuentes",
-    "category2": "",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "img": "img\\productos\\FUENTE GIGABYTE 750 BLACK.png",
@@ -1507,7 +1047,7 @@
     "gallery": "img\\productos\\fuente 650w msi 80 plus bronze\\fuente msi 650w .png,img\\productos\\fuente 650w msi 80 plus bronze\\fuente msi 650w 2.png,img\\productos\\fuente 650w msi 80 plus bronze\\fuente msi 650w 1.png",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 7
+    "stock": 6
   },
   {
     "img": "img\\productos\\fuente raptor 800w 80 plus gold.png",
@@ -1515,8 +1055,8 @@
     "desc": "Color: Negro\nCertificación de eficiencia: 80 Plus Gold\nDiámetro del ventilador: 12 cm\nFrecuencia: 60 Hz\nTipo de modulación: Modular\nCon funcionamiento silencioso: Sí\nCon iluminación RGB: No\nPotencial: 1000W\nEntrada de CA: 100V-240V\nConectores:24PIN (20+4PIN)SATA + SATA + IDE PCIE 5.1 8PIN (4+4PIN) 8PIN (6+2PIN)",
     "priceVisible": "$132.500",
     "subcategoria": "1000w",
-    "price": 149500,
-    "priceLocal": 136500,
+    "price": 149000,
+    "priceLocal": 136000,
     "inStock": true,
     "id": "prod-fuente-raptor-volt-1000w-461",
     "priceNum": "145500",
@@ -1532,33 +1072,6 @@
     "stock": 1
   },
   {
-    "img": "img/productos/pad termico coldium 15.4w_m-k 1.5mm 50x50.png",
-    "title": "Pad Térmico Coldium Origins 50x50x1.5mm Premium Oc 15.4w/m-k Color Gris",
-    "priceVisible": "$9.500",
-    "subcategoria": "Thermalpads",
-    "price": 9500,
-    "priceLocal": 8500,
-    "inStock": true,
-    "id": "prod-pad-t-rmico-coldium-origins-50-111",
-    "priceNum": "9500",
-    "cashPrice": "8500",
-    "desc": "✅🔧 Conductividad térmica: 15.4 W/m·K\n\n✅🪨 Dureza: 45 – 55 Shore 00\n\n✅⚖️ Densidad: 3.4 g/cc\n\n✅🌡️ Impedancia térmica: @10 psi / 1 mm: 0.124 °C·in²/W\n\n✅⚡ Resistividad volumétrica: 1.8 × 10¹⁵ ohm·cm\n\n✅🎨 Color: gris",
-    "customButtons": [],
-    "banners": [
-      "refrigeracionpremium"
-    ],
-    "category": "refrigeracion",
-    "category2": "",
-    "category3": "nuevos",
-    "iva": "21,00%",
-    "stock": 12,
-    "gallery": "img/productos/pad termico coldium 15.4w_m-k 1.5mm 50x50.png",
-    "video": "",
-    "videoUrl": "",
-    "proximoIngreso": false,
-    "excludeFromExport": false
-  },
-  {
     "id": "prod-1778107250638",
     "title": "Fuente Raptor Volt 500W 80 Plus Bronze",
     "img": "img\\productos\\raptor 650w 80plus bronze.png",
@@ -1569,7 +1082,7 @@
     "subcategoria": "500w",
     "inStock": true,
     "slug": "fuente-raptor-volt-500w-80-plus-bronze",
-    "price": 70000,
+    "price": 69500,
     "priceLocal": 60500,
     "banners": [],
     "priceNum": "70000",
@@ -1594,7 +1107,7 @@
     "subcategoria": "500w",
     "inStock": true,
     "slug": "fuente-raptor-volt-500w-80-plus-silver-blanco",
-    "price": 78000,
+    "price": 77500,
     "priceLocal": 71000,
     "banners": [],
     "priceNum": "78000",
@@ -1619,7 +1132,7 @@
     "subcategoria": "500w",
     "inStock": true,
     "slug": "fuente-raptor-volt-500w-80-plus-silver-negro",
-    "price": 78000,
+    "price": 77500,
     "priceLocal": 71000,
     "banners": [],
     "priceNum": "78000",
@@ -1652,27 +1165,7 @@
     "category2": "",
     "category3": "",
     "iva": "21,00%",
-    "stock": 18
-  },
-  {
-    "img": "img\\des\\fuente raptor 800w 80 plus gold des.png",
-    "gallery": "img\\productos\\Fuente Raptor Volt 800W 80 Plus Gold Full Modular PCIe 5.1 Negra (7589)\\Fuente Raptor Volt 800W 80 Plus Gold Black 02.jpg,img\\productos\\Fuente Raptor Volt 800W 80 Plus Gold Full Modular PCIe 5.1 Negra (7589)\\Fuente Raptor Volt 800W 80 Plus Gold Black 03.jpg,img\\productos\\Fuente Raptor Volt 800W 80 Plus Gold Full Modular PCIe 5.1 Negra (7589)\\Fuente Raptor Volt 800W 80 Plus Gold Black Poster 01.png, img\\productos\\Fuente Raptor Volt 800W 80 Plus Gold Full Modular PCIe 5.1 Negra (7589)\\Fuente Raptor Volt 800W 80 Plus Gold Black Poster 02.png,img\\productos\\Fuente Raptor Volt 800W 80 Plus Gold Full Modular PCIe 5.1 Negra (7589)\\Fuente Raptor Volt 800W 80 Plus Gold Black Poster 03.png",
-    "title": "Fuente Raptor Volt 800W 80 Plus Gold Full Modular PCIe 5.1 Negra",
-    "desc": "Color: Negro\nCertificación de eficiencia: 80 Plus Gold\nDiámetro del ventilador: 12 cm\nFrecuencia: 60 Hz\nTipo de modulación: Modular\nCon funcionamiento silencioso: Sí\nCon iluminación RGB: No\nPotencial: 800W\nEntrada de CA: 100V-240V\nConectores:24PIN (20+4PIN)SATA + SATA + IDE PCIE 5.1 8PIN (4+4PIN) 8PIN (6+2PIN)",
-    "priceVisible": "$132.000",
-    "subcategoria": "800w",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-fuente-raptor-volt-800w-80-plu-20",
-    "priceNum": "132000",
-    "cashPrice": "123000",
-    "customButtons": [],
-    "banners": [],
-    "category": "fuentes",
-    "category2": "",
-    "iva": "21,00%",
-    "stock": 0
+    "stock": 16
   },
   {
     "img": "img\\des\\MLOGIX OBSIDIAN.png",
@@ -1702,75 +1195,7 @@
     "proximoIngreso": false,
     "excludeFromExport": false,
     "iva": "10,50%",
-    "stock": 11
-  },
-  {
-    "img": "img\\des\\gabinete gigabyrte negro des.png",
-    "title": "Gabinete Gigabyte c102 glass Black",
-    "priceVisible": "$65.500",
-    "subcategoria": "ITX/MATX/ATX",
-    "inStock": false,
-    "id": "prod-gabinete-gigabyte-c102-glass-b-206",
-    "price": 0,
-    "priceNum": "",
-    "cashPrice": "",
-    "desc": "",
-    "customButtons": [],
-    "banners": [],
-    "category": "gabinetes",
-    "category2": "",
-    "priceLocal": 0,
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img\\des\\gabinete gigabyrte white des.png",
-    "title": "Gabinete Gigabyte c102 glass White",
-    "priceVisible": "$65.500",
-    "subcategoria": "ITX/MATX/ATX",
-    "inStock": false,
-    "id": "prod-gabinete-gigabyte-c102-glass-w-92",
-    "price": 0,
-    "priceNum": "",
-    "cashPrice": "",
-    "desc": "",
-    "customButtons": [],
-    "banners": [],
-    "category": "gabinetes",
-    "category2": "",
-    "priceLocal": 0,
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img\\productos\\gabinete-mlogix-SWORD-SFTE-RGB DES.png",
-    "gallery": "img\\productos\\gabinete-mlogix-SWORD-SFTE-RGB DES.png,img\\productos\\gabinete-mlogix-SWORD-SFTE-RGB DES2.png,img\\productos\\gabinete-mlogix-SWORD-SFTE-RGB.png",
-    "title": "GABINETE MLOGIX SWORD S/FTE RGB",
-    "priceVisible": "$46.500",
-    "subcategoria": "ITX/MATX/ATX",
-    "price": 46500,
-    "priceLocal": 42500,
-    "inStock": false,
-    "id": "prod-gabinete-mlogix-sword-s-fte-rg-202",
-    "priceNum": "46500",
-    "cashPrice": "42000",
-    "desc": "✅ Enlace copiado\n🛠️ Steel: SPCC\n\n🪟 Panel lateral: Izq. vidrio templado / Der. metal\n\n🖥️ Motherboard: ATX, ITX, M-ATX\n\n🎮 VGA: 300 mm, 7 slots\n\n🌈 Frontal: ABS + tira LED RGB\n\n🌬️ Ventiladores soportados:\n\nFrente: 120 mm ×3\n\nSuperior: 120 mm ×2\n\n📏 Espesor chasis: 0.5 mm\n\n🔌 Puertos: 1×USB3.0 + 2×USB2.0 + HD Audio\n\n💾 Bahías: 2×SSD, 2×HDD, sin ODD\n\n📐 Dimensiones:\n\nChasis: 330×192×450 mm\n\nCase: 365×192×450 mm\n\n🌈 Ventilador incluido: Trasero RGB 120 mm ×1\n\n💧 Soporte water cooling:\n\nFrente: 120 mm / 240 mm\n\nTrasero: 120 mm",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://mlogix.cn/gabinete-sword/"
-      }
-    ],
-    "banners": [
-      "gabinetesmlogix"
-    ],
-    "category": "gabinetes",
-    "category2": "",
-    "category3": "",
-    "proximoIngreso": false,
-    "excludeFromExport": false,
-    "iva": "10,50%",
-    "stock": 0
+    "stock": 10
   },
   {
     "img": "img\\des\\MLOGIX VIEW 270.png",
@@ -1779,7 +1204,7 @@
     "priceVisible": "$59.000",
     "subcategoria": "ITX/MATX/ATX",
     "price": 60000,
-    "priceLocal": 57000,
+    "priceLocal": 56500,
     "inStock": true,
     "id": "prod-gabinete-mlogix-view-max-270-w-226",
     "priceNum": "59500",
@@ -1828,34 +1253,11 @@
     "category2": "",
     "category3": "",
     "iva": "10,50%",
-    "stock": 6,
+    "stock": 5,
     "video": "https://youtube.com/shorts/mXgmT3VHN8w?si=dDFzs6C8V9OM9zek",
     "videoUrl": "https://youtube.com/shorts/mXgmT3VHN8w?si=dDFzs6C8V9OM9zek",
     "proximoIngreso": false,
     "excludeFromExport": false
-  },
-  {
-    "subcategoria": "ITX/MATX/ATX",
-    "title": "Gabinete Raptor Sentinel TG Mid-Tower RGB Fan x4 w/button control",
-    "img": "img/productos/raptor sentinel.png",
-    "priceVisible": "$67.500",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-gabinete-raptor-sentinel-tg-mi-351",
-    "priceNum": "67500",
-    "cashPrice": "67500",
-    "desc": "",
-    "customButtons": [],
-    "banners": [
-      "gabinetes-raptor"
-    ],
-    "category": "gabinetes",
-    "category2": "",
-    "gallery": "img/productos/raptor sentinel.png",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "img": "img\\des\\thunderstrike black.png",
@@ -1864,7 +1266,7 @@
     "priceVisible": "$59.000",
     "subcategoria": "ITX/MATX",
     "price": 60500,
-    "priceLocal": 57000,
+    "priceLocal": 56500,
     "inStock": true,
     "id": "prod-gabinete-raptor-thunder-strike-510",
     "priceNum": "60500",
@@ -1954,79 +1356,6 @@
     "excludeFromExport": false
   },
   {
-    "img": "img/des/rx 7800 xt des.png",
-    "title": "GIGABYTE Radeon™ RX 7800 XT GAMING OC 16G",
-    "desc": "\nRDNA™ 3, Boost Clock hasta 2565 MHz, 3840 Stream Processors, 16 GB GDDR6, 256-bit, PCIe 4.0, Fuente recomendada 700W\n",
-    "priceVisible": "$629.500",
-    "subcategoria": "amd",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-gigabyte-radeon-rx-7800-xt-gam-547",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img/productos/mesh ac1200 x2.png",
-    "gallery": "img\\productos\\Halo H30 Pack de 2 Mesh Mercusys AC1200 Wifi System (0660)\\01_2pack_normal20220728064800.jpg,img\\productos\\Halo H30 Pack de 2 Mesh Mercusys AC1200 Wifi System (0660)\\02_2pack_normal20220728064907.jpg,img\\productos\\Halo H30 Pack de 2 Mesh Mercusys AC1200 Wifi System (0660)\\04_2pack_large20220728065155.jpg,img\\productos\\Halo H30 Pack de 2 Mesh Mercusys AC1200 Wifi System (0660)\\05_2pack_normal20220804033733.jpg,img\\productos\\Halo H30 Pack de 2 Mesh Mercusys AC1200 Wifi System (0660)\\06_2pack_large20220804033822.jpg",
-    "title": "Halo H30 Pack de 2 Mesh Mercusys AC1200 Wifi System",
-    "desc": "- 🔍 802.11k → Optimización de roaming mediante medición de la calidad de señal y reporte de vecinos.\n- 🚦 802.11v → Gestión de red mejorada, permite al AP guiar al dispositivo hacia el mejor punto de acceso disponible.\n- 📶 Roaming inteligente → Dispositivos cambian de AP sin cortes perceptibles.\n- ⚡ Menor latencia → Transiciones más rápidas entre nodos.\n- 🔒 Conexión estable → Mejora la experiencia en redes con múltiples puntos de acceso.\n- 🌐 Ideal para Wi-Fi Mesh → Garantiza cobertura uniforme en toda la red.\n¿Quieres que te arme también una tabla comparativa entre 802.11k y 802.11v con sus funciones principales? Sería una forma clara de mostrar cómo se complementan.",
-    "priceVisible": "$56.500",
-    "subcategoria": "Mesh",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-halo-h30-pack-de-2-mesh-mercus-576",
-    "priceNum": "56500",
-    "cashPrice": "51000",
-    "customButtons": [],
-    "banners": [],
-    "category": "red",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img/productos/mesh ac1200 x3.png",
-    "gallery": "img\\productos\\Halo H30 Pack de 3 Mesh Mercusys AC1200 Wifi System (0745)\\02_3pack_large20220728060330.jpg,img\\productos\\Halo H30 Pack de 3 Mesh Mercusys AC1200 Wifi System (0745)\\06_3pack_large20220728060654.jpg,img\\productos\\Halo H30 Pack de 3 Mesh Mercusys AC1200 Wifi System (0745)\\Halo_H30(3-pack)(EU)_1.0-345x154x131mm-7025500439_normal20240112005413.png",
-    "title": "Halo H30 Pack de 3 Mesh Mercusys AC1200 Wifi System",
-    "desc": "- 🔍 802.11k → Optimización de roaming mediante medición de la calidad de señal y reporte de vecinos.\n- 🚦 802.11v → Gestión de red mejorada, permite al AP guiar al dispositivo hacia el mejor punto de acceso disponible.\n- 📶 Roaming inteligente → Dispositivos cambian de AP sin cortes perceptibles.\n- ⚡ Menor latencia → Transiciones más rápidas entre nodos.\n- 🔒 Conexión estable → Mejora la experiencia en redes con múltiples puntos de acceso.\n- 🌐 Ideal para Wi-Fi Mesh → Garantiza cobertura uniforme en toda la red.\n¿Quieres que te arme también una tabla comparativa entre 802.11k y 802.11v con sus funciones principales? Sería una forma clara de mostrar cómo se complementan.",
-    "priceVisible": "$77.500",
-    "subcategoria": "Mesh",
-    "price": 79500,
-    "priceLocal": 72500,
-    "inStock": false,
-    "id": "prod-halo-h30-pack-de-3-mesh-mercus-147",
-    "priceNum": "77500",
-    "cashPrice": "73000",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://www.mercusys.com/es/product/mesh/halo%20h30/v1/3-pack/"
-      }
-    ],
-    "banners": [],
-    "category": "red",
-    "category2": "",
-    "category3": "",
-    "iva": "10,50%",
-    "stock": 0
-  },
-  {
-    "img": "img/productos/hdmi 10M  kelyx 4k .png",
-    "title": "Hdmi 4k kelyx 10M",
-    "desc": "°1080p (Full HD): hasta 240 Hz\n° 1440p (2K): hasta 144 Hz \n° 2160p (4K): hasta 60 Hz\nCERTIFICACION 2.0",
-    "priceVisible": "$14.000",
-    "subcategoria": "Hdmi",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-hdmi-4k-kelyx-10m-959",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
     "id": "prod-1778111203498",
     "title": "Headset gamer Aimzone camuflado Gris AZ707",
     "img": "img\\productos\\aimzone gris camuflado.png",
@@ -2046,7 +1375,7 @@
     "customButtons": [],
     "category3": "",
     "iva": "21,00%",
-    "stock": 7
+    "stock": 6
   },
   {
     "id": "prod-1778111291760",
@@ -2098,69 +1427,6 @@
     "proximoIngreso": false
   },
   {
-    "img": "img/productos/Kit de destornillador 115.png",
-    "gallery": "img\\productos\\Kit Herramientas Destornilladores Precision 115 En 1\\D_NQ_NP_2X_729904-MLA98730390064_112025-F.webp,img\\productos\\Kit Herramientas Destornilladores Precision 115 En 1\\D_NQ_NP_2X_908878-MLA99208657035_112025-F.webp,img\\productos\\Kit Herramientas Destornilladores Precision 115 En 1\\D_NQ_NP_2X_921647-MLA109899593471_032026-F.webp,img\\productos\\Kit Herramientas Destornilladores Precision 115 En 1\\D_NQ_NP_2X_975546-MLA98730429470_112025-F.webp,img\\productos\\Kit Herramientas Destornilladores Precision 115 En 1\\D_NQ_NP_2X_978500-MLA99208755243_112025-F.webp",
-    "title": "Kit de Destornilladores Precision 115 En 1",
-    "desc": "Kit de destornillador de precision compatible con:\nPc, notebook, consola y telefonos",
-    "priceVisible": "$14.000",
-    "subcategoria": "destornilladores",
-    "price": 14000,
-    "priceLocal": 12500,
-    "inStock": true,
-    "id": "prod-kit-de-destornillador-115-piez-665",
-    "priceNum": "14000",
-    "cashPrice": "12000",
-    "customButtons": [],
-    "banners": [],
-    "category": "Herramientas",
-    "category2": "",
-    "iva": "21,00%",
-    "stock": 1
-  },
-  {
-    "id": "prod-1778195407738",
-    "title": "Kit Limpieza P/ Auriculares Teclado Tablet Celulares 7 En 1 Rosa",
-    "img": "img/productos/kit-limpieza-p-auriculares-teclado-tablet-celulares-7-en-1-rosa/kit-limpieza-p-auriculares-teclado-tablet-celulares-7-en-1-1778195397613.jpg",
-    "gallery": "img/productos/kit-limpieza-p-auriculares-teclado-tablet-celulares-7-en-1-rosa/kit-limpieza-p-auriculares-teclado-tablet-celulares-7-en-1-1778195397613.jpg",
-    "desc": "limpieza",
-    "video": "",
-    "category": "Periféricos",
-    "category2": "Herramientas",
-    "subcategoria": "teclado-mecanico",
-    "inStock": false,
-    "slug": "kit-limpieza-p-auriculares-teclado-tablet-celulares-7-en-1-rosa",
-    "price": 0,
-    "priceLocal": 0,
-    "banners": [],
-    "priceNum": "7500",
-    "cashPrice": "6500",
-    "customButtons": [],
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img/productos/ac1200 pcie mercusys.png",
-    "gallery": "img\\productos\\MA30E P.RedW Mercusys PCIX AC1200 2 Ant (1889)\\01_large20231229055642.jpg,img\\productos\\MA30E P.RedW Mercusys PCIX AC1200 2 Ant (1889)\\02_large20231229055627.jpg,img\\productos\\MA30E P.RedW Mercusys PCIX AC1200 2 Ant (1889)\\04_large20231229055559.jpg,img\\productos\\MA30E P.RedW Mercusys PCIX AC1200 2 Ant (1889)\\07_large20231229055515.jpg",
-    "title": "MA30E P.RedW Mercusys PCIX AC1200 2 Ant",
-    "desc": "⚡ Velocidades WiFi\n🚀 867 Mbps en 5 GHz\n🚀 300 Mbps en 2.4 GHz\n📡 2× Antenas Fijas Omni-Direccionales de Alto Rendimiento\n🌐Bluetooth 5.0 (MA30E)",
-    "priceVisible": "$21.000",
-    "subcategoria": "Adaptador de red",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-ma30e-p-redw-mercusys-pcix-ac1-688",
-    "priceNum": "21000",
-    "cashPrice": "19000",
-    "customButtons": [],
-    "banners": [],
-    "category": "red",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
     "img": "img/productos/Manta antiestatica.png",
     "title": "Manta Antiestatica Soldar Y Reparar Electr Silicona Gamaleds 30 cm x 45 cm 500 °C Celular Color Celeste",
     "desc": "USO FACIL PARA ORGANIZAR \nTUS HERRAMIENTAS DE TRABAJO\nPERFECTO PARA ORGANIZAR TUS TORNILLOS",
@@ -2183,71 +1449,10 @@
     "stock": 13
   },
   {
-    "id": "prod-memoria-ddr4-8-gb-3200-mhz-hik-93",
-    "title": "Memoria Ddr4 8 Gb 3200 MHz Hiksemi Armor",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "id": "PROD-MQ5L5MB6862T",
-    "title": "Pad Térmico Coldium Origins 50x50x0.5mm Premium OC 15.4W/mk",
-    "price": 7000,
-    "priceLocal": 5000,
-    "stock": 1,
-    "inStock": true,
-    "iva": "21,00%",
-    "priceNum": "7000",
-    "cashPrice": "5000",
-    "img": "img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/0-1780964891434.jpg",
-    "gallery": "img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/0-1780964891434.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/dsc02101-scaled-1780964891588.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-coldium-origins-hand-opening-1780964891787.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-coldium-skade-hand-opening-film-1780964891937.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-coldium-ssd-adding-1780964893094.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-termic-coldium-colocacion-600x600-1780964897325.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-termico-coldium-memoria-ram-colocacion-600x600-1780964897622.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-termico-coldium-quita-film-azul-mkt-600x600-1780964897733.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-termico-coldium-ssd-colocacion--1780964898359.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/skade-95x55x0-1780964898632.jpg",
-    "video": "",
-    "videoUrl": "",
-    "desc": "512GB\nPerfecto, te armo una descripción clara y comercial para este PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2 con 512GB NVMe:\n\n🎮 PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2  \nPotencia avanzada y estilo gamer con RGB.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5050 Ventus X2 8GB GDDR6\n\n🔥 Ideal para gamers exigentes y creadores de contenido que buscan máximo rendimiento en juegos modernos, multitarea fluida y estética gamer premium.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nprocesador\namd ryzen 7 5700\nplaca madre\nB550m-k am4\nmemoria ram\nDDR4 HIKSEMI 16Gb 3200 MHz Hiker\nalmacenamiento\nnvme 512gb\nfuente de alimentacion\nfuente 650w 80 plus bronze\ngabinete gamer\npanel vidrio templado\niluminacion rgb\nplaca de video\nrtx 5060 ventus x2 \n8gb gddr7\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 7 5700 + RTX 5060 Ventus X2:\n\n🎮 PC Gamer Ryzen 7 5700 + RTX 5060 Ventus X2  \nRendimiento de última generación con estilo gamer RGB.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5060 Ventus X2 8GB GDDR7\n\n🔥 Ideal para gamers exigentes y creadores de contenido que buscan máxima potencia gráfica, multitarea fluida y estética gamer premium.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nprocesador\namd ryzen 7 5700\nplaca madre\na520m-a pro\nmemoria ram\nDDR4 HIKSEMI 16Gb 3200 MHz Hiker\nalmacenamiento\nnvme 512gb\nfuente de alimentacion\nfuente 650w 80 plus bronze\nplaca de video\nrtx 5060 ventus x2 \n8gb gddr7\nwater cooling\nraptor aqua core 360\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 7 5700 + RTX 5060 Ventus X2 con Water Cooling:\n\n🎮 PC Gamer Ryzen 7 5700 + RTX 5060 Ventus X2  \nMáxima potencia y refrigeración avanzada para gaming extremo.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: MSI A520M-A PRO (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5060 Ventus X2 8GB GDDR7\n\n💧 Refrigeración líquida: Raptor Aqua Core 360 – triple ventilador para máxima disipación térmica\n\n🔥 Ideal para gamers y creadores que buscan rendimiento de última generación, refrigeración eficiente y estética gamer premium con RGB.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nprocesador\namd ryzen 5 5600gt\nplaca madre\na520m-a pro am4\nmemoria ram\nhiksemi hiker 16gb 3200mhz\nalmacenamiento\nssd nvme 256gb\nfuente de alimentacion\nfuente 500w 80 plus silver\ngabinete gamer\npanel vidrio templado\niluminacion rgb\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 5 5600GT:\n\n🖥️ PC Gamer Ryzen 5 5600GT  \nRendimiento confiable y estilo gamer con RGB.\n\n⚙️ Procesador: AMD Ryzen 5 5600GT\n\n🧩 Motherboard: MSI A520M-A PRO (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 256GB ultrarrápido\n\n🔌 Fuente: 500W 80 Plus Silver\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎮 Ideal para quienes buscan un equipo equilibrado para gaming y multitarea, con diseño moderno y componentes eficientes.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nprocesador\namd ryzen 7 5700\nplaca madre\nB550m-K GIGABYTE\nmemoria ram\nDDR4 HIKSEMI 16Gb 3200 MHz Hiker\nalmacenamiento\nnvme 512gb\nfuente de alimentacion\nfuente 650w 80 plus bronze\nplaca de video\nrtx 5050 ventus x2 \n8gb gddr6\nwater cooling\nraptor aqua core 360\nMONITOR\nLG ULTAGEAR 180HZ IPS 24\"\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2 con Water Cooling y Monitor LG UltraGear:\n\n🎮 PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2  \nRendimiento extremo con refrigeración líquida y monitor gamer de alta frecuencia.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: Gigabyte B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5050 Ventus X2 8GB GDDR6\n\n💧 Refrigeración líquida: Raptor Aqua Core 360 – triple ventilador para máxima disipación térmica\n\n🖥️ Monitor: LG UltraGear 24\" IPS, 180Hz – fluidez y colores vibrantes para gaming competitivo\n\n🔥 Una configuración pensada para gamers exigentes y creadores de contenido, con potencia gráfica de última generación, refrigeración avanzada y un monitor de alto rendimiento para aprovechar cada frame.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nprocesador\namd ryzen 7 5700\nplaca madre\nB550m-K GIGABYTE\nmemoria ram\nDDR4 HIKSEMI 16Gb 3200 MHz Hiker\nalmacenamiento\nnvme 512gb\nfuente de alimentacion\nfuente 650w 80 plus bronze\nplaca de video\nrtx 5050 ventus x2 \n8gb gddr6\nwater cooling\nraptor aqua core 360\nMONITOR\nLG ULTAGEAR 180HZ IPS 24\"\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2 con Water Cooling y Monitor LG UltraGear:\n\n🎮 PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2  \nRendimiento extremo con refrigeración líquida y monitor gamer de alta frecuencia.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: Gigabyte B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5050 Ventus X2 8GB GDDR6\n\n💧 Refrigeración líquida: Raptor Aqua Core 360 – triple ventilador para máxima disipación térmica\n\n🖥️ Monitor: LG UltraGear 24\" IPS, 180Hz – fluidez y colores vibrantes para gaming competitivo\n\n🔥 Una configuración pensada para gamers exigentes y creadores de contenido, con potencia gráfica de última generación, refrigeración avanzada y un monitor de alto rendimiento para aprovechar cada frame.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nprocesador\namd ryzen 5 5600gt\nplaca madre\na520m-a pro am4\nmemoria ram\nhiksemi hiker 16gb 3200mhz\nalmacenamiento\nssd nvme 960gb\nfuente de alimentacion\nfuente 500w 80 plus silver\ngabinete gamer\npanel vidrio templado\niluminacion rgb\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 5 5600GT con SSD NVMe 960GB:\n\n🖥️ PC Gamer Ryzen 5 5600GT  \nEquilibrio perfecto entre rendimiento y estilo gamer RGB.\n\n⚙️ Procesador: AMD Ryzen 5 5600GT\n\n🧩 Motherboard: MSI A520M-A PRO (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 960GB ultrarrápido\n\n🔌 Fuente: 500W 80 Plus Silver\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🔥 Ideal para quienes buscan un equipo confiable para gaming y multitarea, con almacenamiento amplio y diseño moderno.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nSSD SATA\nAquí tenés una descripción web clara y comercial para un SSD SATA:\n\n💾 SSD SATA  \nAlmacenamiento rápido y confiable para tu PC.\n\n⚡ Velocidad superior frente a discos mecánicos tradicionales.\n\n🔌 Interfaz SATA III (6Gbps): retrocompatible con SATA II/I.\n\n📂 Capacidad versátil: ideal para sistema operativo, programas y juegos.\n\n🛡️ Mayor seguridad: resistente a golpes y vibraciones.\n\n🎯 Instalación sencilla: compatible con la mayoría de PCs y notebooks.\n\n✅ Perfecto para mejorar el rendimiento general del equipo, con arranques más rápidos y carga instantánea de aplicaciones.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nMA12N\nN300 Wireless Nano USB Adapter\nPlug and Play ���������������� With the built-in inbox driver by Windows operation systems, you just need to plug into your computer and play.\n\nNano Size— A compact, convenient solution to make your device wireless. Much smaller than a regular USB flash drive.\n\nImproved Security — The latest security enhancement, WPA3, provides enhanced protection in personal password safety2\n\n300 Mbps Wi-Fi Speed — For various network activities.\n\nWindows Compatible — Supported operating system: Windows 11, 10 (32/64bit)\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2 con Water Cooling y Monitor LG UltraGear:\n\n🎮 PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2  \nRendimiento extremo con refrigeración líquida y monitor gamer de alta frecuencia.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: Gigabyte B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5050 Ventus X2 8GB GDDR6\n\n💧 Refrigeración líquida: Raptor Aqua Core 360 – triple ventilador para máxima disipación térmica\n\n🖥️ Monitor: LG UltraGear 24\" IPS, 180Hz – fluidez y colores vibrantes para gaming competitivo\n\n🔥 Una configuración pensada para gamers exigentes y creadores de contenido, con potencia gráfica de última generación, refrigeración avanzada y un monitor de alto rendimiento para aprovechar cada frame.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nPASAME DE ESTO \nMA12N\nN300 Wireless Nano USB Adapter\nPlug and Play — With the built-in inbox driver by Windows operation systems, you just need to plug into your computer and play.\n\nNano Size— A compact, convenient solution to make your device wireless. Much smaller than a regular USB flash drive.\n\nImproved Security — The latest security enhancement, WPA3, provides enhanced protection in personal password safety2\n\n300 Mbps Wi-Fi Speed — For various network activities.\n\nWindows Compatible — Supported operating system: Windows 11, 10 (32/64bit)\nAquí tenés una descripción web clara y comercial para el MA12N N300 Wireless Nano USB Adapter:\n\n📡 MA12N N300 Wireless Nano USB Adapter  \nConectividad Wi-Fi rápida y segura en tamaño compacto.\n\n🔌 Plug & Play: instalación automática con drivers integrados en Windows.\n\n📏 Nano Size: diseño ultracompacto, más pequeño que un pendrive.\n\n🔒 Seguridad mejorada: soporte para WPA3, mayor protección de contraseñas.\n\n⚡ Velocidad Wi-Fi: hasta 300 Mbps, ideal para navegación y streaming.\n\n💻 Compatibilidad: Windows 10 y 11 (32/64 bits).\n\n✅ Una solución práctica y portátil para convertir tu PC o notebook en un dispositivo inalámbrico con seguridad avanzada.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nHoy\ndescripcioon fuente raptor volt 500w 80 plus silver\nAquí tenés una descripción clara y comercial para la Fuente Raptor Volt 500W 80 Plus Silver:\n\n🔌 Fuente Raptor Volt 500W 80 Plus Silver  \nEnergía confiable y eficiente para tu PC Gamer.\n\n⚡ Potencia real: 500W, ideal para configuraciones de gama media.\n\n🛡️ Certificación 80 Plus Silver: mayor eficiencia energética y menor consumo.\n\n🔒 Protecciones avanzadas: contra sobrecarga, sobrevoltaje y cortocircuito.\n\n🎮 Diseño gamer: robusto y preparado para largas sesiones de juego.\n\n🔌 Compatibilidad: perfecta para PCs con placas gráficas dedicadas y almacenamiento rápido.\n\n✅ Una opción equilibrada para quienes buscan rendimiento estable, eficiencia y seguridad en su equipo.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nno digas nada del diseño y compatibilidad\nAquí tenés una descripción clara y comercial para la Fuente Raptor Volt 500W 80 Plus Silver, sin mencionar diseño ni compatibilidad:\n\n🔌 Fuente Raptor Volt 500W 80 Plus Silver  \nEnergía confiable y eficiente para tu PC.\n\n⚡ Potencia real: 500W, ideal para configuraciones de gama media.\n\n🛡️ Certificación 80 Plus Silver: mayor eficiencia energética y menor consumo.\n\n🔒 Protecciones avanzadas: contra sobrecarga, sobrevoltaje y cortocircuito.\n\n✅ Una opción segura y eficiente para garantizar rendimiento estable y duradero en tu equipo.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nla misma pero 80 plus bronze, no hables de potencia real\nAquí tenés una descripción clara y comercial para la Fuente Raptor Volt 500W 80 Plus Bronze, sin mencionar potencia real ni compatibilidad:\n\n🔌 Fuente Raptor Volt 500W 80 Plus Bronze  \nEnergía confiable y eficiente para tu PC.\n\n🛡️ Certificación 80 Plus Bronze: mejor eficiencia energética y menor consumo.\n\n🔒 Protecciones avanzadas: contra sobrecarga, sobrevoltaje y cortocircuito.\n\n✅ Una opción segura y eficiente para garantizar rendimiento estable y duradero en tu equipo.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nCable Kelyx HDMI 4K - 5 metros 2.0\nAquí tenés una descripción clara y comercial para el Cable Kelyx HDMI 2.0 4K – 5 metros:\n\n🔌 Cable Kelyx HDMI 2.0 4K – 5m  \nConexión de alta definición con máxima calidad de imagen y sonido.\n\n📺 Resolución 4K Ultra HD: imágenes nítidas y detalladas.\n\n🎶 Transmisión de audio digital: sonido claro y envolvente.\n\n⚡ Estándar HDMI 2.0: mayor ancho de banda para contenido moderno.\n\n📏 Longitud de 5 metros: ideal para instalaciones flexibles en hogar u oficina.\n\n🔒 Construcción confiable: conectores resistentes para uso prolongado.\n\n✅ Perfecto para televisores, monitores, consolas y dispositivos multimedia que requieren imagen y sonido de alta calidad.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\ndescripcion pad termicos colldium origins 2mm\nAquí tenés una descripción clara y comercial para los Pads Térmicos Colldium Origins 2mm:\n\n❄️ Pads Térmicos Colldium Origins 2mm  \nRefrigeración eficiente y confiable para tus componentes.\n\n📏 Espesor: 2mm\n\n⚡ Alta conductividad térmica: optimiza la disipación de calor.\n\n🛡️ Protección segura: evita sobrecalentamiento en chips y memorias.\n\n🔧 Fácil instalación: se adaptan a diferentes superficies.\n\n🎮 Uso recomendado: ideal para GPU, VRAM, SSD y otros componentes sensibles.\n\n✅ Una solución práctica para mantener tu hardware en temperaturas óptimas y con mayor durabilidad.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nahora de 1mm\nAquí tenés una descripción clara y comercial para los Pads Térmicos Colldium Origins 1mm:\n\n❄️ Pads Térmicos Colldium Origins 1mm  \nRefrigeración eficiente y confiable para tus componentes.\n\n📏 Espesor: 0.5mm\n\n⚡ Alta conductividad térmica: optimiza la disipación de calor.\n\n🛡️ Protección segura: evita sobrecalentamiento en chips y memorias.\n\n🔧 Fácil instalación: se adaptan a diferentes superficies.\n\n🎮 Uso recomendado: ideal para GPU, VRAM, SSD y otros componentes sensibles.\n\n✅ Una solución práctica para mantener tu hardware en temperaturas óptimas y con mayor durabilidad.",
-    "proximoIngreso": false,
-    "customButtons": [],
-    "banners": [
-      "refrigeracionpremium"
-    ],
-    "subcategoria": "Thermalpads",
-    "category": "refrigeracion",
-    "category2": "",
-    "category3": "nuevos",
-    "excludeFromExport": false
-  },
-  {
-    "id": "PROD-MQ5KP6S8L4FF",
-    "title": "Pad Térmico Coldium Origins 120x20x2mm",
-    "price": 12500,
-    "priceLocal": 9500,
-    "stock": 8,
-    "inStock": true,
-    "iva": "21,00%",
-    "priceNum": "12500",
-    "cashPrice": "9500",
-    "img": "img/productos/pad-termico-coldium-origins-120x20x2mm/2mm-1780963503397.jpg",
-    "gallery": "img/productos/pad-termico-coldium-origins-120x20x2mm/2mm-1780963503397.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-coldium-origins-hand-opening-1780963503694.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-coldium-skade-hand-opening-film-1780963503970.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-coldium-ssd-adding-1780963504154.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-termic-coldium-colocacion-600x600-1780963504580.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-termico-coldium-memoria-ram-colocacion-600x600-1780963504757.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-termico-coldium-quita-film-azul-mkt-600x600-1780963504836.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-termico-coldium-ssd-colocacion--1780963504869.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/skade-95x55x0-1780963505052.jpg",
-    "video": "",
-    "videoUrl": "",
-    "desc": "❄️ Pads Térmicos Colldium Origins 2mm  \nRefrigeración eficiente y confiable para tus componentes.\n\n📏 Espesor: 2mm\n\n⚡ Alta conductividad térmica: optimiza la disipación de calor.\n\n🛡️ Protección segura: evita sobrecalentamiento en chips y memorias.\n\n🔧 Fácil instalación: se adaptan a diferentes superficies.\n\n🎮 Uso recomendado: ideal para GPU, VRAM, SSD y otros componentes sensibles.\n\n✅ Una solución práctica para mantener tu hardware en temperaturas óptimas y con mayor durabilidad.",
-    "proximoIngreso": false,
-    "customButtons": [],
-    "banners": [
-      "refrigeracionpremium"
-    ],
-    "subcategoria": "Thermalpads",
-    "category": "refrigeracion",
-    "category2": "",
-    "category3": "nuevos",
-    "excludeFromExport": false
-  },
-  {
     "id": "PROD-MPIFGH0RJXMM",
     "title": "Memoria DDR4 HIKSEMI 16Gb 3200 MHz Hiker (7222)",
     "price": 240000,
-    "priceLocal": 236000,
+    "priceLocal": 235500,
     "inStock": true,
     "priceNum": "235000",
     "cashPrice": "231000",
@@ -2286,118 +1491,6 @@
     "stock": 8
   },
   {
-    "img": "img/productos/memoria ram dd4 hiksemi hiker.png",
-    "title": "Memoria DDR4 HIKSEMI 8Gb 3200 MHz Hiker",
-    "desc": "🆔 Modelo:HS-Udimm-HIKER\n📦 Capacidad: 8GB\n🚀 Frecuencia: 3200 MHz\n🔌 Interfaz: DDR4\n🌡️ Temperatura de funcionamiento: 0 °C a 85 °C (32 °F a 185 °F)",
-    "priceVisible": "$135.000",
-    "subcategoria": "DDR4",
-    "price": 139500,
-    "priceLocal": 133500,
-    "inStock": false,
-    "id": "prod-memoria-ddr4-hiksemi-8gb-3200--295",
-    "priceNum": "135000",
-    "cashPrice": "129000",
-    "customButtons": [],
-    "banners": [],
-    "category": "Memorias Ram",
-    "category2": "",
-    "category3": "",
-    "iva": "10,50%",
-    "stock": 0
-  },
-  {
-    "id": "prod-1778109111754",
-    "title": "Memoria DDR5 Corsair 8Gb 5200 MHz",
-    "img": "img\\productos\\MEMORIA VENGEANCE CORSAIR 5200MHZ\\MEMORIA VENGEANCE CORSAIR.png",
-    "desc": "⚡ Velocidad extrema: 5200 MHz para un rendimiento superior en multitarea y gaming.\n\n🧠 Capacidad: 8GB DDR5, ideal para sistemas modernos que buscan fluidez.\n\n🎮 Optimizada para juegos: tiempos de carga más rápidos y mejor respuesta en títulos exigentes.\n\n🔒 Confiabilidad Corsair: componentes de alta calidad y estabilidad garantizada.",
-    "video": "",
-    "category": "Memorias Ram",
-    "category2": "",
-    "subcategoria": "DDR5",
-    "inStock": false,
-    "slug": "memoria-ddr5-corsair-8gb-5200-mhz",
-    "price": 263500,
-    "priceLocal": 247000,
-    "banners": [],
-    "priceNum": "256500",
-    "cashPrice": "241000",
-    "gallery": "img\\productos\\MEMORIA VENGEANCE CORSAIR 5200MHZ\\MEMORIA VENGEANCE CORSAIR.png,img\\productos\\MEMORIA VENGEANCE CORSAIR 5200MHZ\\VENGEANCE_DDR5_BLK_01_1up.avif,img\\productos\\MEMORIA VENGEANCE CORSAIR 5200MHZ\\concepto-20316531.png",
-    "customButtons": [],
-    "category3": "",
-    "excludeFromExport": false,
-    "iva": "10,50%",
-    "stock": 0
-  },
-  {
-    "id": "prod-1778109779891",
-    "title": "Memoria DDR5 HIKSEMI 16Gb 5600 MHz Hiker",
-    "img": "img\\productos\\MEMORIA RAM 16GB DDR5\\MEMORIA HIKSEMI 16GB DDR5.png",
-    "desc": "🆔 Modelo: HS-Udimm-HIKER (Black)\n\n📦 Capacidad: 16GB\n\n🚀 Frecuencia: 5600 MHz\n\n🔌 Interfaz: DDR5\n\n🌡️ Temperatura de funcionamiento: 0 °C a 85 °C (32 °F a 185 °F)",
-    "video": "",
-    "category": "Memorias Ram",
-    "category2": "",
-    "subcategoria": "DDR5",
-    "inStock": false,
-    "slug": "memoria-ddr5-hiksemi-16gb-5600-mhz-hiker",
-    "price": 0,
-    "priceLocal": 0,
-    "banners": [],
-    "priceNum": "369500",
-    "cashPrice": "369500",
-    "gallery": "img\\productos\\MEMORIA RAM 16GB DDR5\\MEMORIA HIKSEMI 16GB DDR5.png",
-    "customButtons": [],
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "title": "Memoria patriot Signature 16gb ddr5",
-    "img": "img/productos/Memoria ram ddr5 16gb 5200mhz.png",
-    "inStock": false,
-    "id": "prod-memoria-patriot-signature-16gb-497",
-    "price": 0,
-    "priceNum": "",
-    "cashPrice": "",
-    "desc": "",
-    "customButtons": [],
-    "banners": [],
-    "subcategoria": "",
-    "category": "Memorias Ram",
-    "category2": "",
-    "category3": "",
-    "priceLocal": 0,
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "id": "prod-memoria-ram-ddr4-16gb-hiksemi--422",
-    "title": "Memoria ram ddr4 16gb hiksemi hiker",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "title": "Memoria ram ddr5 16gb hiksemi armor",
-    "img": "img/productos/memoria ram ddr4 hiksemi armor 8gb 3200mhz.png",
-    "inStock": false,
-    "id": "prod-memoria-ram-ddr5-16gb-hiksemi--779",
-    "price": 0,
-    "priceNum": "",
-    "cashPrice": "",
-    "desc": "",
-    "customButtons": [],
-    "banners": [],
-    "subcategoria": "",
-    "category": "Memorias Ram",
-    "category2": "",
-    "category3": "",
-    "priceLocal": 0,
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
     "id": "PROD-MPIFD44IOATL",
     "title": "Memoria SODIMM DDR4 Corsair 8Gb 3200 MHz 1.2V (0615)",
     "price": 144500,
@@ -2420,24 +1513,12 @@
     "stock": 3
   },
   {
-    "img": "img\\des\\METAL LIQUIDO LK-128 PERFECTO PARA PS5 des.png",
-    "title": "METAL LIQUIDO LK-128",
-    "priceVisible": "$17.500",
-    "subcategoria": "Pastas Termicas",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-metal-liquido-lk-128-949",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
     "img": "img/productos/ryzen 5 8600G.png",
     "title": "MICROPROCESADOR AMD RYZEN 5 8600G AM5 C/VID C/COOL",
     "priceVisible": "$303.000",
     "subcategoria": "AM5",
-    "price": 324500,
-    "priceLocal": 306500,
+    "price": 324000,
+    "priceLocal": 306000,
     "inStock": true,
     "id": "prod-micro-amd-ryzen-5-8600g-am5-c--381",
     "priceNum": "315500",
@@ -2456,78 +1537,6 @@
     "gallery": "img/productos/ryzen 5 8600G.png",
     "iva": "10,50%",
     "stock": 2
-  },
-  {
-    "img": "img\\des\\64Gb NEO c_Adap MicroSD HIKSEMI des.png",
-    "title": "MicroSD HIKSEMI 64Gb NEO c/Adap",
-    "desc": "✅💾 Capacidad: 64 GB\n✅⚡ Velocidad máxima de lectura: 92 MB/s\n✅✍️ Velocidad máxima de escritura: 30 MB/s\n✅🔋 Tipo de memoria: TLC NAND\n✅📀 Clase de velocidad: Clase 10 UHS-I",
-    "priceVisible": "$16.500",
-    "subcategoria": "Microsd",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-microsd-hiksemi-64gb-neo-c-ada-845",
-    "priceNum": "17000",
-    "cashPrice": "16000",
-    "customButtons": [],
-    "banners": [],
-    "category": "almacenamiento",
-    "category2": "",
-    "category3": "",
-    "gallery": "img\\des\\64Gb NEO c_Adap MicroSD HIKSEMI des.png,img\\productos\\64Gb NEO c_Adap MicroSD HIKSEMI.png",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img\\des\\128GB c_Adap Gen3 Canvas S Plus CL10 MicroSD KINGSTON des.png",
-    "gallery": "img\\productos\\MicroSD KINGSTON 128GB cAdap Gen3 150MBs Canvas S Plus CL10 (8453)\\0000000000417601752031.jpg,img\\productos\\MicroSD KINGSTON 128GB cAdap Gen3 150MBs Canvas S Plus CL10 (8453)\\00000000004176010002752843.jpg",
-    "title": "MicroSD KINGSTON 128GB c/Adap Gen3 150MB/s Canvas S Plus CL10",
-    "desc": "- ✅💾 Capacidades disponibles: 128 GB\n- ✅⚡ Velocidad máxima de lectura: hasta 150 MB/s\n- ✅✍️ Velocidad de escritura: variable según capacidad, pero optimizada para Clase 10 UHS-I\n- ✅📀 Clase de velocidad: Clase 10 UHS-I\n- ✅🎥 Compatibilidad: cámaras digitales, smartphones, tablets y consolas como Nintendo Switch",
-    "priceVisible": "$36.000",
-    "subcategoria": "Microsd",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-microsd-kingston-128gb-c-adap--94",
-    "priceNum": "36000",
-    "cashPrice": "36000",
-    "customButtons": [],
-    "banners": [],
-    "category": "almacenamiento",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img\\productos\\Mini pc kelyx 512gb.png",
-    "gallery": "img\\productos\\Mini pc kelyx 512gb.png,img\\productos\\Mini Pc Kelyx Intel Core i3-1215U 8G M.2 256G Win 11 Pro (5499)\\0417807 _2.png,img\\productos\\Mini Pc Kelyx Intel Core i3-1215U 8G M.2 256G Win 11 Pro (5499)\\0417807 _5.jpg,img\\productos\\Mini Pc Kelyx Intel Core i3-1215U 8G M.2 256G Win 11 Pro (5499)\\000000000041780758507Tabla-specs---0417807---MiniPC.png",
-    "title": "Mini Pc Kelyx Intel Core i3-1215U 8G M.2 256G Win 11 Pro",
-    "desc": "- 🧠 CPU: Intel Core i3‑1215U\n- 🧩 Memoria RAM: 8 GB DDR4 SO‑DIMM\n- 💾 Almacenamiento: M.2 PCIe Gen3 – 256 GB\n- 📡 Wi-Fi 5 + Bluetooth 5.1\n- 🔌 Puertos: USB, USB-C, HDMI, DisplayPort, LAN",
-    "priceVisible": "$645.500",
-    "subcategoria": "Mini pc",
-    "price": 669500,
-    "priceLocal": 659000,
-    "inStock": false,
-    "id": "prod-mini-pc-kelyx-intel-core-i3-12-474",
-    "priceNum": "664500",
-    "cashPrice": "654000",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://www.kelyx.com.ar/mini-pc-kelyx-intel-core-i3-1215u-8g-m-2-256g-win-11-pro--det--0417807"
-      }
-    ],
-    "banners": [
-      "notebooks"
-    ],
-    "category": "Notebook",
-    "category2": "",
-    "category3": "",
-    "excludeFromExport": false,
-    "proximoIngreso": false,
-    "iva": "10,50%",
-    "stock": 0
   },
   {
     "img": "img/productos/monitor-asus-22-full-hd-100hz/vp227-1780950267716.jpg",
@@ -2557,7 +1566,7 @@
     "excludeFromExport": false,
     "proximoIngreso": false,
     "iva": "21,00%",
-    "stock": 13,
+    "stock": 12,
     "video": "",
     "videoUrl": ""
   },
@@ -2590,7 +1599,7 @@
     "excludeFromExport": false,
     "proximoIngreso": false,
     "iva": "21,00%",
-    "stock": 4,
+    "stock": 3,
     "videoUrl": "https://www.instagram.com/reel/DZAd4nspvnI/?igsh=MWw1YnVxbHg5dTFwaw=="
   },
   {
@@ -2605,8 +1614,8 @@
     "subcategoria": "200hz",
     "inStock": true,
     "slug": "monitor-gamer-raptor-hawk-eye-27-frameless-ips-fhd-200hz-1ms-hdmi-dp",
-    "price": 278000,
-    "priceLocal": 258500,
+    "price": 277500,
+    "priceLocal": 258000,
     "banners": [
       "moniitores"
     ],
@@ -2656,26 +1665,6 @@
     "iva": "21,00%",
     "stock": 1,
     "videoUrl": "https://www.instagram.com/reel/DZAd4nspvnI/?igsh=MWw1YnVxbHg5dTFwaw=="
-  },
-  {
-    "img": "img/productos/monitor gigabyte 25.png",
-    "title": "Monitor Gigabyte 200hz Ips",
-    "desc": "📏 Tamaño: 24.8 pulgadas\n🖼️ Resolución: 1920 x 1080 (Full HD)\n🌈 Panel: IPS NTSC 72% (CIE1931)\n🧱 Relación de aspecto: 16:9\n💡 Brillo típico: 250 cd/m²\n🔁 Frecuencia de actualización: Hasta 200 Hz\n⚡ Tiempo de respuesta: 5 ms (GtG en modo rápido)\n🔧 Ajuste de posición: Inclinación",
-    "priceVisible": "$189.000",
-    "subcategoria": "200hz",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-monitor-gigabyte-200hz-ips-17",
-    "priceNum": "189000",
-    "cashPrice": "189000",
-    "customButtons": [],
-    "banners": [],
-    "category": "monitores",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "img": "img/productos/monitor-lg-24-led-24ms500-borderless-100-hz-ii/monitor-lg-24-1778193333526.jpg",
@@ -2735,7 +1724,9 @@
     "proximoIngreso": false,
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 5
+    "stock": 5,
+    "video": "https://youtube.com/shorts/waIlVYB3Wm4?si=LJWQYlUuVrOhnM7I",
+    "videoUrl": "https://youtube.com/shorts/waIlVYB3Wm4?si=LJWQYlUuVrOhnM7I"
   },
   {
     "img": "img\\productos\\A620M H GIGABYTE\\A620M H_20260406\\A620M H_01.png",
@@ -2764,18 +1755,9 @@
     "stock": 9
   },
   {
-    "id": "prod-mother-giga-b550m-k-am4-d4-41",
-    "title": "MOTHER GIGA B550M K AM4 D4",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
     "id": "PROD-MPIF4QO77PR1",
     "title": "Mother Gigabyte B550M K DDR4 AM4 (Serie 3000/4000/5000) (2764)",
-    "price": 151000,
+    "price": 150500,
     "priceLocal": 142500,
     "inStock": true,
     "priceNum": "147500",
@@ -2878,26 +1860,6 @@
     "stock": 2
   },
   {
-    "img": "img/productos/Asus a520m-K.png",
-    "desc": "- 🔌 Socket AMD AM4: Listo para procesadores de escritorio Ryzen™ 5000 Series / 4000 G-Series / 3000 Series\n- 🌬️ Enfriamiento completo: Disipador de Chipset y Fan Xpert\n- ⚡ Conectividad ultrarrápida: Compatibilidad con M.2, Ethernet de 1 Gb, USB 3.2 Gen 2 tipo A\n- 🛡️ 5X Protection III: Múltiples protecciones de hardware para la protección integral del sistema",
-    "priceVisible": "$92.000",
-    "subcategoria": "AM4",
-    "title": "Motherboard Prime a520m-K",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-motherboard-prime-a520m-k-799",
-    "priceNum": "92000",
-    "cashPrice": "92000",
-    "customButtons": [],
-    "banners": [],
-    "category": "Placas madres",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
     "id": "prod-1778194836920",
     "title": "Mouse Gamer Raptor Storm Grip Wireless 12800dpi",
     "img": "img/productos/mouse-gamer-raptor-storm-grip-wireless-12800dpi/mouse-raptor-12-1779913903603.jpg",
@@ -2925,37 +1887,7 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "10,50%",
-    "stock": 2
-  },
-  {
-    "id": "prod-1778195022789",
-    "title": "Mouse Gamer Raptor Storm Grip Wireless 7 botones 24000dpi RGB Pixart Sensor White (7558)",
-    "img": "img/productos/mouse-gamer-raptor-storm-grip-wireless-7-botones-24000dpi-rgb-pixart-sensor-white-7558/mouse-raptor-24-1779914008654.jpg",
-    "gallery": "img/productos/mouse-gamer-raptor-storm-grip-wireless-7-botones-24000dpi-rgb-pixart-sensor-white-7558/mouse-raptor-24-1779914008654.jpg,img/productos/mouse-gamer-raptor-storm-grip-wireless-7-botones-24000dpi-rgb-pixart-sensor-white/mouse-raptor-24-1778194991474.jpg",
-    "desc": "Precisión extrema y triple conectividad para tus partidas.\n\n📐 Dimensiones: 125 × 63 × 40.5 mm\n\n⚖️ Peso: 78 g, ligero y cómodo\n\n🎮 Botones: 7 (izq., der., central, adelante, retroceso, ajuste DPI, selector 2.4G/BT/Off)\n\n🌈 Iluminación RGB: 8 efectos diferentes personalizables\n\n🔗 Conectividad: 2.4G inalámbrico, Bluetooth y cable USB-C\n\n🎯 DPI ajustable: de 800 hasta 24000, con memoria y colores asignados\n\n⚡ Polling rate: hasta 1000 Hz (ajustable a 125/250/500/1000 Hz)\n\n🔋 Batería: litio 650 mAh, autonomía prolongada\n\n🖥️ Compatibilidad: Windows XP / Vista / 7 / 8 / 10\n\n📦 Caja: 13.4 × 10.4 × 4.5 cm\n\n🔥 Ideal para gamers que buscan máxima precisión, personalización RGB y versatilidad de conexión en un solo periférico.",
-    "video": "https://youtube.com/shorts/8HIC09VsqSg?si=9wnRI01jWWka-2JM",
-    "category": "Periféricos",
-    "category2": "",
-    "subcategoria": "Mouse",
-    "inStock": false,
-    "slug": "mouse-gamer-raptor-storm-grip-wireless-7-botones-24000dpi-rgb-pixart-sensor-white",
-    "price": 37500,
-    "priceLocal": 34000,
-    "banners": [
-      "perifericos-raptor"
-    ],
-    "priceNum": "36500",
-    "cashPrice": "33000",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://youtube.com/shorts/8HIC09VsqSg?si=t0qAeaMmRQr1h3bQ"
-      }
-    ],
-    "category3": "",
-    "excludeFromExport": false,
-    "iva": "10,50%",
-    "stock": 0
+    "stock": 1
   },
   {
     "id": "prod-1779142645022",
@@ -2983,46 +1915,6 @@
     "category3": "",
     "iva": "10,50%",
     "stock": 4
-  },
-  {
-    "desc": "Teclado de tamaño completo con cable\nTecla de Copilot con IA para activar el asistente de Copilot (para Windows 11 o superior)\nTecla FN multimedia de 12 teclas\nDiseño resistente a derrames\nTecla de perfil bajo\nUSB Plug and play",
-    "subcategoria": "Mouse",
-    "priceVisible": "$11.000",
-    "title": "Mouse Genius Optico",
-    "img": "img/productos/mouse genius.png",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-mouse-genius-optico-55",
-    "priceNum": "3000",
-    "cashPrice": "3000",
-    "customButtons": [],
-    "banners": [],
-    "category": "Periféricos",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img\\des\\optico dX-123 mouse genius BLACK des.png",
-    "title": "MOUSE GENIUS USB DX-120 BLACK",
-    "desc": "✅🔌 Interfaz: USB‑A o USB‑C (según el modelo)\n✅🖱️ Número de botones: 3 (izquierdo, derecho, medio con scroll)\n✅🔦 Motor del sensor: Óptico\n✅🎯 Resolución (DPI): 1200\n✅📏 Longitud del cable: 1.5 m\n✅⚖️ Peso: aprox. 85g",
-    "subcategoria": "mouse",
-    "priceVisible": "$5.000",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-mouse-genius-usb-dx-120-black-259",
-    "priceNum": "5000",
-    "cashPrice": "5000",
-    "customButtons": [],
-    "banners": [],
-    "category": "Periféricos",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "img": "img\\productos\\optico dX-123 mouse genius BLUE.png",
@@ -3103,31 +1995,6 @@
     "stock": 1
   },
   {
-    "id": "prod-1778161292159",
-    "title": "Mouse Logitech G203 Gaming Lightsync White",
-    "img": "img/productos/mouse-logitech-g203-gaming-lightsync-white/g203-white-1778161219418.jpg",
-    "gallery": "img/productos/mouse-logitech-g203-gaming-lightsync-white/g203-white-1778161219418.jpg,img/productos/mouse-logitech-g203-gaming-lightsync-white/logitech-g203-lightsync-2-1778161219441.jpg,img/productos/mouse-logitech-g203-gaming-lightsync-white/logitech-g203-lightsync-3-1778161219463.jpg,img/productos/mouse-logitech-g203-gaming-lightsync-white/logitech-g203-lightsync-4-1778161219483.jpg",
-    "desc": "- 🖱️ Número de botones: 6 botones programables\n\n- 🎯 Resolución: 200 – 8000 dpi\n\n- 🌈 LIGHTSYNC RGB: Sí\n\n- 🔌 Cable:\n\n- Lila, Blanco, Azul: 2,1 m (6,89 pies)\n\n- Negro: 2,1 m\n\n- ⚡ Capacidad de respuesta:\n\n- Formato de datos USB: 16 bits/eje\n\n- Velocidad de respuesta USB: 1000 Hz (1 ms)\n\n- 🧠 Microprocesador: ARM de 32 bits",
-    "video": "https://www.logitechg.com/es-ar/shop/p/g203-lightsync-rgb-gaming-mouse.910-005794",
-    "category": "Periféricos",
-    "category2": "nuevos",
-    "subcategoria": "Mouse",
-    "inStock": false,
-    "slug": "mouse-logitech-g203-gaming-lightsync-white",
-    "price": 34000,
-    "priceLocal": 30500,
-    "banners": [],
-    "iva": "10,50%",
-    "stock": 0,
-    "priceNum": "34000",
-    "cashPrice": "30500",
-    "videoUrl": "https://www.logitechg.com/es-ar/shop/p/g203-lightsync-rgb-gaming-mouse.910-005794",
-    "proximoIngreso": false,
-    "customButtons": [],
-    "category3": "",
-    "excludeFromExport": false
-  },
-  {
     "id": "prod-1778163218334",
     "title": "MOUSE MLOGIX MG10K ARCHER RGB 10000 DPI",
     "img": "img\\productos\\mg10k archer mouse mlogix.png",
@@ -3152,7 +2019,7 @@
     ],
     "category3": "",
     "iva": "10,50%",
-    "stock": 7
+    "stock": 6
   },
   {
     "id": "prod-1778163326896",
@@ -3202,152 +2069,11 @@
     "category3": "",
     "gallery": "img/productos/Mouse pad raptor L.png",
     "iva": "21,00%",
-    "stock": 3,
+    "stock": 2,
     "video": "https://youtube.com/shorts/xADClRr11Zg?si=XBOIxK4vfEd4TXAU",
     "videoUrl": "https://youtube.com/shorts/xADClRr11Zg?si=XBOIxK4vfEd4TXAU",
     "proximoIngreso": false,
     "excludeFromExport": false
-  },
-  {
-    "img": "img/productos/Mouse pad raptor s.png",
-    "title": "Mouse Pad Gamer Raptor Ultra Glide Antideslizante Impermeable S (260x210x3mm)",
-    "desc": "Características:\tBorde cosido, impermeable, antideslizante\n   Material:\tBase de goma\n   Tamaño:      26cmX21cmX3mm",
-    "priceVisible": "$2.500",
-    "subcategoria": "mouse pad",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-mouse-pad-gamer-raptor-ultra-g-72",
-    "priceNum": "2500",
-    "cashPrice": "2500",
-    "customButtons": [],
-    "banners": [
-      "perifericos-raptor"
-    ],
-    "category": "Periféricos",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img/productos/mouse pad talle s.png",
-    "title": "Mouse Pad Gamer Raptor Ultra Glide Antideslizante Impermeable S Rapty Edition",
-    "desc": "Características:\tBorde cosido, impermeable, antideslizante\n   Material:\tBase de goma\n   Tamaño:      26cmX21cmX3mm",
-    "priceVisible": "$2.500",
-    "subcategoria": "mouse pad",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-mouse-pad-gamer-raptor-ultra-g-167",
-    "priceNum": "2500",
-    "cashPrice": "2500",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://youtube.com/shorts/enbM-g2FDA4?si=QhBmLnhzJALgld7J"
-      }
-    ],
-    "banners": [
-      "perifericos-raptor"
-    ],
-    "category": "Periféricos",
-    "category2": "",
-    "category3": "",
-    "gallery": "img/productos/mouse pad talle s.png",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img/productos/Mouse pad Raptor XL.png",
-    "title": "Mouse Pad Gamer Raptor Ultra Glide Antideslizante Impermeable XL (900x400x3mm)",
-    "desc": "Características:\tBorde cosido, impermeable, antideslizante\nMaterial:\tBase de goma\nTamaño:     90cmX400cmX3mm",
-    "priceVisible": "$14.000",
-    "subcategoria": "mouse pad",
-    "price": 14500,
-    "priceLocal": 13000,
-    "inStock": false,
-    "id": "prod-mouse-pad-gamer-raptor-ultra-g-419",
-    "priceNum": "14000",
-    "cashPrice": "13000",
-    "customButtons": [],
-    "banners": [
-      "perifericos-raptor"
-    ],
-    "category": "Periféricos",
-    "category2": "",
-    "category3": "",
-    "gallery": "img/productos/Mouse pad Raptor XL.png",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "id": "prod-1778161513682",
-    "title": "Mouse Razer Deathadder Essential Ergonomic White Edition",
-    "img": "img/productos/mouse-razer-deathadder-essential-ergonomic-white-edition/razer-deathadder-essential-white-1778161380563.jpg",
-    "gallery": "img/productos/mouse-razer-deathadder-essential-ergonomic-white-edition/razer-deathadder-essential-white-1778161380563.jpg,img/productos/mouse-razer-deathadder-essential-ergonomic-white-edition/mouse-gamer-razer-deathadder-essential-white-rz0103850200r3u1-0-1778161380517.jpg,img/productos/mouse-razer-deathadder-essential-ergonomic-white-edition/mouse-gamer-razer-deathadder-essential-white-rz0103850200r3u1-1-1778161380541.jpg",
-    "desc": "- 🖱️ Botones Hyperesponse: 5 programables de manera independiente\n\n- 🎮 Ventaja competitiva: Control avanzado gracias a la personalización de cada botón\n\n- ⏱️ Durabilidad: Hasta 10 millones de clicks con switches mecánicos Razer™ premiados\n\n- 🎯 Sensor óptico: 6,400 DPI reales para movimientos rápidos y precisos\n\n- ⚡ Fiabilidad: Rendimiento estable y vida útil prolongada",
-    "video": "https://www.razer.com/gaming-mice/razer-deathadder-essential",
-    "category": "Periféricos",
-    "category2": "",
-    "subcategoria": "Mouse",
-    "inStock": false,
-    "slug": "mouse-razer-deathadder-essential-ergonomic-white-edition",
-    "price": 0,
-    "priceLocal": 0,
-    "banners": [],
-    "priceNum": "39000",
-    "cashPrice": "36000",
-    "customButtons": [],
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img\\productos\\MU6H High Gain adaptador wifi.png",
-    "gallery": "img\\productos\\MU6H High Gain adaptador wifi.png,img\\productos\\MU6H High Gain P.RedW USB Mercusys Dual Band AC650 (3586)\\120190812124259.jpg",
-    "title": "MU6H High Gain P.RedW USB Mercusys Dual Band AC650",
-    "desc": "📶 Wi-Fi de doble banda de alta velocidad:Compatibilidad con 256-QAM\nVelocidad en banda 2.4 GHz: hasta 200 Mbps\nVelocidad en banda 5 GHz: hasta 433 Mbps\nRendimiento óptimo con AC Wi-Fi\n📡 Antena de alta ganancia:\n5 dBi para mejorar recepción y transmisión",
-    "priceVisible": "$15.000",
-    "subcategoria": "Adaptador de red",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-mu6h-high-gain-p-redw-usb-merc-915",
-    "priceNum": "15000",
-    "cashPrice": "13500",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://www.mercusys.com/ar/product/adapter/mu6h/v1/"
-      }
-    ],
-    "banners": [],
-    "category": "Cables",
-    "category2": "red",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img/productos/adaptadro wifi 150.png",
-    "title": "MW150US Nano P.RedW USB Mercusys 150Mbps",
-    "priceVisible": "$8.000",
-    "subcategoria": "Adaptador de red",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-mw150us-nano-p-redw-usb-mercus-964",
-    "priceNum": "8000",
-    "cashPrice": "6500",
-    "desc": "🔵 Bluetooth 5.3\n\n⚡ Mayor velocidad, 📶 mejor cobertura, 🔒 seguridad reforzada y 🔁 conexión más fiable.\n\n📡 Conectividad inalámbrica estable\n\n🔗 Comunicación fluida entre dispositivos Bluetooth y tu PC o notebook.\n\n📏 Diseño nano\n\n🧳 Ultracompacto para máxima portabilidad con alto rendimiento 💪",
-    "customButtons": [],
-    "banners": [],
-    "category": "red",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "img": "img\\productos\\Notebook Kelyx 15.6_ FHD AMD Ryzen 7-5825U 16Gb M.2 512Gb Win 11 Home Gris Oscuro (5567).png",
@@ -3356,8 +2082,8 @@
     "desc": "- 🧠 Procesador: AMD Barcelo Ryzen 5‑7430U\n- 🎮 Gráficos: Radeon integrados\n- 🧩 Memoria RAM: 8 GB DDR4 Sodimm\n- 💾 Almacenamiento: M.2 2280 256 GB PCIe 3.0 ×4\n- 🖥️ Sistema operativo: Windows 11 Home\n- 📺 Pantalla: 15.6” Full HD IPS\n- 🔋 Batería: Li‑ion 11.4V 5100 mAh",
     "priceVisible": "$818.000",
     "subcategoria": "Notebook",
-    "price": 854500,
-    "priceLocal": 806500,
+    "price": 853500,
+    "priceLocal": 806000,
     "inStock": true,
     "id": "prod-notebook-kelyx-15-6-fhd-amd-ry-211",
     "priceNum": "830500",
@@ -3379,34 +2105,6 @@
     "stock": 1
   },
   {
-    "img": "img\\productos\\Notebook Kelyx 15.6 FHD AMD Ryzen 7-5825U 16Gb M.2 512Gb Win 11 Home Gris Oscuro (5567)\\KLBMR-NB15EPG-R7-5825U1.jpg",
-    "gallery": "img\\productos\\Notebook Kelyx 15.6 FHD AMD Ryzen 7-5825U 16Gb M.2 512Gb Win 11 Home Gris Oscuro (5567)\\KLBMR-NB15EPG-R7-5825U1.jpg,img\\productos\\Notebook Kelyx 15.6 FHD AMD Ryzen 7-5825U 16Gb M.2 512Gb Win 11 Home Gris Oscuro (5567)\\KLBMR-NB15EPG-R7-5825U2.jpg,img\\productos\\Notebook Kelyx 15.6 FHD AMD Ryzen 7-5825U 16Gb M.2 512Gb Win 11 Home Gris Oscuro (5567)\\KLBMR-NB15EPG-R7-5825U3.jpg",
-    "title": "Notebook Kelyx 15.6\" FHD AMD Ryzen 7-5825U 16Gb M.2 512Gb Win 11 Home Gris Oscuro",
-    "desc": "- 🧠 Procesador: AMD Ryzen 7‑5825U\n- 🧩 Memoria RAM: 16 GB (2×8 GB) DDR4 SO‑DIMM\n- 💾 Almacenamiento: M.2 2280 512 GB PCIe 3.0 ×4\n- 🖥️ Sistema operativo: Windows 11 Home\n- 📺 Pantalla: 15.6” Full HD (1920×1080)\n- 🔌 Entradas / Salidas: HDMI ×1, USB 2.0 ×1, USB Type‑C ×1, Ranura MiniSD (hasta 128 GB)\n- 📐 Medidas y peso: 358.6 × 243 × 19 mm – 1.6 kg\n- 🔋 Batería: Li‑ion 11.4 V – 5100 mAh\n- ⏳ Autonomía: 6‑8 horas aprox.\n- 🎮 Gráficos: Radeon Vega 3\n- 📸 Cámara web: 2 MP (1080p)\n- 📡 Conectividad: Wi‑Fi 5 + Bluetooth 5.1\n- 🔊 Parlantes: 2 × 4Ω – 2 W\n- ⌨️ Teclado: Español\n- ⚡ Cargador: DC 19 V – 3.42 A – 65 W",
-    "priceVisible": "$1.027.000",
-    "subcategoria": "Notebook",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-notebook-kelyx-15-6-fhd-amd-ry-513",
-    "priceNum": "1027000",
-    "cashPrice": "1000000",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://www.kelyx.com.ar/notebook-kelyx-15-6-fhd-amd-ryzen-7-5825u-16gb-m-2-512gb-win-11-home-gris-oscuro--det--0418033"
-      }
-    ],
-    "banners": [
-      "notebooks"
-    ],
-    "category": "Notebook",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
     "id": "prod-1778161133173",
     "title": "P4 - JOYSTICK PS4 BOUBLE-MOTOR VIBRATION 4 WIRELESS CONTROLLER",
     "img": "img/productos/p4-joystick-ps4-bouble-motor-vibration-4-wireless-controller/joystick-pcps4-1778161075321.jpg",
@@ -3426,7 +2124,59 @@
     "customButtons": [],
     "category3": "",
     "iva": "21,00%",
-    "stock": 9
+    "stock": 8
+  },
+  {
+    "id": "PROD-MQ5KP6S8L4FF",
+    "title": "Pad Térmico Coldium Origins 120x20x2mm",
+    "price": 12500,
+    "priceLocal": 9500,
+    "stock": 8,
+    "inStock": true,
+    "iva": "21,00%",
+    "priceNum": "12500",
+    "cashPrice": "9500",
+    "img": "img/productos/pad-termico-coldium-origins-120x20x2mm/2mm-1780963503397.jpg",
+    "gallery": "img/productos/pad-termico-coldium-origins-120x20x2mm/2mm-1780963503397.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-coldium-origins-hand-opening-1780963503694.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-coldium-skade-hand-opening-film-1780963503970.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-coldium-ssd-adding-1780963504154.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-termic-coldium-colocacion-600x600-1780963504580.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-termico-coldium-memoria-ram-colocacion-600x600-1780963504757.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-termico-coldium-quita-film-azul-mkt-600x600-1780963504836.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/pad-termico-coldium-ssd-colocacion--1780963504869.jpg,img/productos/pad-termico-coldium-origins-120x20x2mm/skade-95x55x0-1780963505052.jpg",
+    "video": "",
+    "videoUrl": "",
+    "desc": "❄️ Pads Térmicos Colldium Origins 2mm  \nRefrigeración eficiente y confiable para tus componentes.\n\n📏 Espesor: 2mm\n\n⚡ Alta conductividad térmica: optimiza la disipación de calor.\n\n🛡️ Protección segura: evita sobrecalentamiento en chips y memorias.\n\n🔧 Fácil instalación: se adaptan a diferentes superficies.\n\n🎮 Uso recomendado: ideal para GPU, VRAM, SSD y otros componentes sensibles.\n\n✅ Una solución práctica para mantener tu hardware en temperaturas óptimas y con mayor durabilidad.",
+    "proximoIngreso": false,
+    "customButtons": [],
+    "banners": [
+      "refrigeracionpremium"
+    ],
+    "subcategoria": "Thermalpads",
+    "category": "refrigeracion",
+    "category2": "",
+    "category3": "nuevos",
+    "excludeFromExport": false
+  },
+  {
+    "id": "PROD-MQ5L5MB6862T",
+    "title": "Pad Térmico Coldium Origins 50x50x0.5mm Premium OC 15.4W/mk",
+    "price": 7000,
+    "priceLocal": 5000,
+    "stock": 1,
+    "inStock": true,
+    "iva": "21,00%",
+    "priceNum": "7000",
+    "cashPrice": "5000",
+    "img": "img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/0-1780964891434.jpg",
+    "gallery": "img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/0-1780964891434.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/dsc02101-scaled-1780964891588.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-coldium-origins-hand-opening-1780964891787.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-coldium-skade-hand-opening-film-1780964891937.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-coldium-ssd-adding-1780964893094.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-termic-coldium-colocacion-600x600-1780964897325.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-termico-coldium-memoria-ram-colocacion-600x600-1780964897622.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-termico-coldium-quita-film-azul-mkt-600x600-1780964897733.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/pad-termico-coldium-ssd-colocacion--1780964898359.jpg,img/productos/pad-termico-coldium-origins-50x50x0-5mm-premium-oc-15-4w-mk/skade-95x55x0-1780964898632.jpg",
+    "video": "",
+    "videoUrl": "",
+    "desc": "512GB\nPerfecto, te armo una descripción clara y comercial para este PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2 con 512GB NVMe:\n\n🎮 PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2  \nPotencia avanzada y estilo gamer con RGB.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5050 Ventus X2 8GB GDDR6\n\n🔥 Ideal para gamers exigentes y creadores de contenido que buscan máximo rendimiento en juegos modernos, multitarea fluida y estética gamer premium.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nprocesador\namd ryzen 7 5700\nplaca madre\nB550m-k am4\nmemoria ram\nDDR4 HIKSEMI 16Gb 3200 MHz Hiker\nalmacenamiento\nnvme 512gb\nfuente de alimentacion\nfuente 650w 80 plus bronze\ngabinete gamer\npanel vidrio templado\niluminacion rgb\nplaca de video\nrtx 5060 ventus x2 \n8gb gddr7\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 7 5700 + RTX 5060 Ventus X2:\n\n🎮 PC Gamer Ryzen 7 5700 + RTX 5060 Ventus X2  \nRendimiento de última generación con estilo gamer RGB.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5060 Ventus X2 8GB GDDR7\n\n🔥 Ideal para gamers exigentes y creadores de contenido que buscan máxima potencia gráfica, multitarea fluida y estética gamer premium.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nprocesador\namd ryzen 7 5700\nplaca madre\na520m-a pro\nmemoria ram\nDDR4 HIKSEMI 16Gb 3200 MHz Hiker\nalmacenamiento\nnvme 512gb\nfuente de alimentacion\nfuente 650w 80 plus bronze\nplaca de video\nrtx 5060 ventus x2 \n8gb gddr7\nwater cooling\nraptor aqua core 360\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 7 5700 + RTX 5060 Ventus X2 con Water Cooling:\n\n🎮 PC Gamer Ryzen 7 5700 + RTX 5060 Ventus X2  \nMáxima potencia y refrigeración avanzada para gaming extremo.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: MSI A520M-A PRO (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5060 Ventus X2 8GB GDDR7\n\n💧 Refrigeración líquida: Raptor Aqua Core 360 – triple ventilador para máxima disipación térmica\n\n🔥 Ideal para gamers y creadores que buscan rendimiento de última generación, refrigeración eficiente y estética gamer premium con RGB.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nprocesador\namd ryzen 5 5600gt\nplaca madre\na520m-a pro am4\nmemoria ram\nhiksemi hiker 16gb 3200mhz\nalmacenamiento\nssd nvme 256gb\nfuente de alimentacion\nfuente 500w 80 plus silver\ngabinete gamer\npanel vidrio templado\niluminacion rgb\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 5 5600GT:\n\n🖥️ PC Gamer Ryzen 5 5600GT  \nRendimiento confiable y estilo gamer con RGB.\n\n⚙️ Procesador: AMD Ryzen 5 5600GT\n\n🧩 Motherboard: MSI A520M-A PRO (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 256GB ultrarrápido\n\n🔌 Fuente: 500W 80 Plus Silver\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎮 Ideal para quienes buscan un equipo equilibrado para gaming y multitarea, con diseño moderno y componentes eficientes.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nprocesador\namd ryzen 7 5700\nplaca madre\nB550m-K GIGABYTE\nmemoria ram\nDDR4 HIKSEMI 16Gb 3200 MHz Hiker\nalmacenamiento\nnvme 512gb\nfuente de alimentacion\nfuente 650w 80 plus bronze\nplaca de video\nrtx 5050 ventus x2 \n8gb gddr6\nwater cooling\nraptor aqua core 360\nMONITOR\nLG ULTAGEAR 180HZ IPS 24\"\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2 con Water Cooling y Monitor LG UltraGear:\n\n🎮 PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2  \nRendimiento extremo con refrigeración líquida y monitor gamer de alta frecuencia.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: Gigabyte B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5050 Ventus X2 8GB GDDR6\n\n💧 Refrigeración líquida: Raptor Aqua Core 360 – triple ventilador para máxima disipación térmica\n\n🖥️ Monitor: LG UltraGear 24\" IPS, 180Hz – fluidez y colores vibrantes para gaming competitivo\n\n🔥 Una configuración pensada para gamers exigentes y creadores de contenido, con potencia gráfica de última generación, refrigeración avanzada y un monitor de alto rendimiento para aprovechar cada frame.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nprocesador\namd ryzen 7 5700\nplaca madre\nB550m-K GIGABYTE\nmemoria ram\nDDR4 HIKSEMI 16Gb 3200 MHz Hiker\nalmacenamiento\nnvme 512gb\nfuente de alimentacion\nfuente 650w 80 plus bronze\nplaca de video\nrtx 5050 ventus x2 \n8gb gddr6\nwater cooling\nraptor aqua core 360\nMONITOR\nLG ULTAGEAR 180HZ IPS 24\"\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2 con Water Cooling y Monitor LG UltraGear:\n\n🎮 PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2  \nRendimiento extremo con refrigeración líquida y monitor gamer de alta frecuencia.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: Gigabyte B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5050 Ventus X2 8GB GDDR6\n\n💧 Refrigeración líquida: Raptor Aqua Core 360 – triple ventilador para máxima disipación térmica\n\n🖥️ Monitor: LG UltraGear 24\" IPS, 180Hz – fluidez y colores vibrantes para gaming competitivo\n\n🔥 Una configuración pensada para gamers exigentes y creadores de contenido, con potencia gráfica de última generación, refrigeración avanzada y un monitor de alto rendimiento para aprovechar cada frame.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nprocesador\namd ryzen 5 5600gt\nplaca madre\na520m-a pro am4\nmemoria ram\nhiksemi hiker 16gb 3200mhz\nalmacenamiento\nssd nvme 960gb\nfuente de alimentacion\nfuente 500w 80 plus silver\ngabinete gamer\npanel vidrio templado\niluminacion rgb\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 5 5600GT con SSD NVMe 960GB:\n\n🖥️ PC Gamer Ryzen 5 5600GT  \nEquilibrio perfecto entre rendimiento y estilo gamer RGB.\n\n⚙️ Procesador: AMD Ryzen 5 5600GT\n\n🧩 Motherboard: MSI A520M-A PRO (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 960GB ultrarrápido\n\n🔌 Fuente: 500W 80 Plus Silver\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🔥 Ideal para quienes buscan un equipo confiable para gaming y multitarea, con almacenamiento amplio y diseño moderno.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nSSD SATA\nAquí tenés una descripción web clara y comercial para un SSD SATA:\n\n💾 SSD SATA  \nAlmacenamiento rápido y confiable para tu PC.\n\n⚡ Velocidad superior frente a discos mecánicos tradicionales.\n\n🔌 Interfaz SATA III (6Gbps): retrocompatible con SATA II/I.\n\n📂 Capacidad versátil: ideal para sistema operativo, programas y juegos.\n\n🛡️ Mayor seguridad: resistente a golpes y vibraciones.\n\n🎯 Instalación sencilla: compatible con la mayoría de PCs y notebooks.\n\n✅ Perfecto para mejorar el rendimiento general del equipo, con arranques más rápidos y carga instantánea de aplicaciones.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nMA12N\nN300 Wireless Nano USB Adapter\nPlug and Play ���������������� With the built-in inbox driver by Windows operation systems, you just need to plug into your computer and play.\n\nNano Size— A compact, convenient solution to make your device wireless. Much smaller than a regular USB flash drive.\n\nImproved Security — The latest security enhancement, WPA3, provides enhanced protection in personal password safety2\n\n300 Mbps Wi-Fi Speed — For various network activities.\n\nWindows Compatible — Supported operating system: Windows 11, 10 (32/64bit)\nAquí tenés una descripción web clara y comercial para este PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2 con Water Cooling y Monitor LG UltraGear:\n\n🎮 PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2  \nRendimiento extremo con refrigeración líquida y monitor gamer de alta frecuencia.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: Gigabyte B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5050 Ventus X2 8GB GDDR6\n\n💧 Refrigeración líquida: Raptor Aqua Core 360 – triple ventilador para máxima disipación térmica\n\n🖥️ Monitor: LG UltraGear 24\" IPS, 180Hz – fluidez y colores vibrantes para gaming competitivo\n\n🔥 Una configuración pensada para gamers exigentes y creadores de contenido, con potencia gráfica de última generación, refrigeración avanzada y un monitor de alto rendimiento para aprovechar cada frame.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nPASAME DE ESTO \nMA12N\nN300 Wireless Nano USB Adapter\nPlug and Play — With the built-in inbox driver by Windows operation systems, you just need to plug into your computer and play.\n\nNano Size— A compact, convenient solution to make your device wireless. Much smaller than a regular USB flash drive.\n\nImproved Security — The latest security enhancement, WPA3, provides enhanced protection in personal password safety2\n\n300 Mbps Wi-Fi Speed — For various network activities.\n\nWindows Compatible — Supported operating system: Windows 11, 10 (32/64bit)\nAquí tenés una descripción web clara y comercial para el MA12N N300 Wireless Nano USB Adapter:\n\n📡 MA12N N300 Wireless Nano USB Adapter  \nConectividad Wi-Fi rápida y segura en tamaño compacto.\n\n🔌 Plug & Play: instalación automática con drivers integrados en Windows.\n\n📏 Nano Size: diseño ultracompacto, más pequeño que un pendrive.\n\n🔒 Seguridad mejorada: soporte para WPA3, mayor protección de contraseñas.\n\n⚡ Velocidad Wi-Fi: hasta 300 Mbps, ideal para navegación y streaming.\n\n💻 Compatibilidad: Windows 10 y 11 (32/64 bits).\n\n✅ Una solución práctica y portátil para convertir tu PC o notebook en un dispositivo inalámbrico con seguridad avanzada.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nHoy\ndescripcioon fuente raptor volt 500w 80 plus silver\nAquí tenés una descripción clara y comercial para la Fuente Raptor Volt 500W 80 Plus Silver:\n\n🔌 Fuente Raptor Volt 500W 80 Plus Silver  \nEnergía confiable y eficiente para tu PC Gamer.\n\n⚡ Potencia real: 500W, ideal para configuraciones de gama media.\n\n🛡️ Certificación 80 Plus Silver: mayor eficiencia energética y menor consumo.\n\n🔒 Protecciones avanzadas: contra sobrecarga, sobrevoltaje y cortocircuito.\n\n🎮 Diseño gamer: robusto y preparado para largas sesiones de juego.\n\n🔌 Compatibilidad: perfecta para PCs con placas gráficas dedicadas y almacenamiento rápido.\n\n✅ Una opción equilibrada para quienes buscan rendimiento estable, eficiencia y seguridad en su equipo.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nno digas nada del diseño y compatibilidad\nAquí tenés una descripción clara y comercial para la Fuente Raptor Volt 500W 80 Plus Silver, sin mencionar diseño ni compatibilidad:\n\n🔌 Fuente Raptor Volt 500W 80 Plus Silver  \nEnergía confiable y eficiente para tu PC.\n\n⚡ Potencia real: 500W, ideal para configuraciones de gama media.\n\n🛡️ Certificación 80 Plus Silver: mayor eficiencia energética y menor consumo.\n\n🔒 Protecciones avanzadas: contra sobrecarga, sobrevoltaje y cortocircuito.\n\n✅ Una opción segura y eficiente para garantizar rendimiento estable y duradero en tu equipo.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nla misma pero 80 plus bronze, no hables de potencia real\nAquí tenés una descripción clara y comercial para la Fuente Raptor Volt 500W 80 Plus Bronze, sin mencionar potencia real ni compatibilidad:\n\n🔌 Fuente Raptor Volt 500W 80 Plus Bronze  \nEnergía confiable y eficiente para tu PC.\n\n🛡️ Certificación 80 Plus Bronze: mejor eficiencia energética y menor consumo.\n\n🔒 Protecciones avanzadas: contra sobrecarga, sobrevoltaje y cortocircuito.\n\n✅ Una opción segura y eficiente para garantizar rendimiento estable y duradero en tu equipo.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nCable Kelyx HDMI 4K - 5 metros 2.0\nAquí tenés una descripción clara y comercial para el Cable Kelyx HDMI 2.0 4K – 5 metros:\n\n🔌 Cable Kelyx HDMI 2.0 4K – 5m  \nConexión de alta definición con máxima calidad de imagen y sonido.\n\n📺 Resolución 4K Ultra HD: imágenes nítidas y detalladas.\n\n🎶 Transmisión de audio digital: sonido claro y envolvente.\n\n⚡ Estándar HDMI 2.0: mayor ancho de banda para contenido moderno.\n\n📏 Longitud de 5 metros: ideal para instalaciones flexibles en hogar u oficina.\n\n🔒 Construcción confiable: conectores resistentes para uso prolongado.\n\n✅ Perfecto para televisores, monitores, consolas y dispositivos multimedia que requieren imagen y sonido de alta calidad.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\ndescripcion pad termicos colldium origins 2mm\nAquí tenés una descripción clara y comercial para los Pads Térmicos Colldium Origins 2mm:\n\n❄️ Pads Térmicos Colldium Origins 2mm  \nRefrigeración eficiente y confiable para tus componentes.\n\n📏 Espesor: 2mm\n\n⚡ Alta conductividad térmica: optimiza la disipación de calor.\n\n🛡️ Protección segura: evita sobrecalentamiento en chips y memorias.\n\n🔧 Fácil instalación: se adaptan a diferentes superficies.\n\n🎮 Uso recomendado: ideal para GPU, VRAM, SSD y otros componentes sensibles.\n\n✅ Una solución práctica para mantener tu hardware en temperaturas óptimas y con mayor durabilidad.\n\n¿Querés que te lo prepare también en tabla de especificaciones técnicas para catálogo web, o en versión compacta con emojis para WhatsApp?\n\nahora de 1mm\nAquí tenés una descripción clara y comercial para los Pads Térmicos Colldium Origins 1mm:\n\n❄️ Pads Térmicos Colldium Origins 1mm  \nRefrigeración eficiente y confiable para tus componentes.\n\n📏 Espesor: 0.5mm\n\n⚡ Alta conductividad térmica: optimiza la disipación de calor.\n\n🛡️ Protección segura: evita sobrecalentamiento en chips y memorias.\n\n🔧 Fácil instalación: se adaptan a diferentes superficies.\n\n🎮 Uso recomendado: ideal para GPU, VRAM, SSD y otros componentes sensibles.\n\n✅ Una solución práctica para mantener tu hardware en temperaturas óptimas y con mayor durabilidad.",
+    "proximoIngreso": false,
+    "customButtons": [],
+    "banners": [
+      "refrigeracionpremium"
+    ],
+    "subcategoria": "Thermalpads",
+    "category": "refrigeracion",
+    "category2": "",
+    "category3": "nuevos",
+    "excludeFromExport": false
   },
   {
     "id": "PROD-MQ5KIP2JI7LY",
@@ -3481,46 +2231,83 @@
     "excludeFromExport": false
   },
   {
-    "img": "img/productos/pad termico Uranus 0.5mm 50x50.png",
-    "title": "Pad Térmico Uranus Tp-u1 50x50x0.5mm 12w/mk Alto Rendimiento",
-    "priceVisible": "$8.500",
-    "subcategoria": "Thermalpads",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-pad-t-rmico-uranus-tp-u1-50x50-47",
-    "priceNum": "8500",
-    "cashPrice": "7000",
-    "desc": "CARACTERISTICAS:\n\nTRANSFERENCIA TERMICA: 12W/M-K\n\nGROSOR: 0.5MM\n\nDIMENSION: 50MM X 50MM\n\nTEMPERATURAS DE TRABAJO: -40°/250°C",
-    "customButtons": [],
-    "banners": [],
-    "category": "refrigeracion",
-    "category2": "Placas de video",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img/productos/pad termico Uranus 1mm 90x50.png",
-    "title": "Pad Térmico Uranus Tp-u1 90x50x1.0mm 12w/mk Alto Rendimiento",
+    "img": "img/productos/pad termico coldium 15.4w_m-k 1.5mm 50x50.png",
+    "title": "Pad Térmico Coldium Origins 50x50x1.5mm Premium Oc 15.4w/m-k Color Gris",
     "priceVisible": "$9.500",
     "subcategoria": "Thermalpads",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-pad-t-rmico-uranus-tp-u1-90x50-171",
-    "priceNum": "",
-    "cashPrice": "",
-    "desc": "CARACTERISTICAS:\n\nTRANSFERENCIA TERMICA: 12W/M-K\n\nGROSOR: 1MM\n\nDIMENSION: 90MM X 50MM\n\nTEMPERATURAS DE TRABAJO: -40°/250°C",
+    "price": 9500,
+    "priceLocal": 8500,
+    "inStock": true,
+    "id": "prod-pad-t-rmico-coldium-origins-50-111",
+    "priceNum": "9500",
+    "cashPrice": "8500",
+    "desc": "✅🔧 Conductividad térmica: 15.4 W/m·K\n\n✅🪨 Dureza: 45 – 55 Shore 00\n\n✅⚖️ Densidad: 3.4 g/cc\n\n✅🌡️ Impedancia térmica: @10 psi / 1 mm: 0.124 °C·in²/W\n\n✅⚡ Resistividad volumétrica: 1.8 × 10¹⁵ ohm·cm\n\n✅🎨 Color: gris",
     "customButtons": [],
-    "banners": [],
+    "banners": [
+      "refrigeracionpremium"
+    ],
     "category": "refrigeracion",
     "category2": "",
-    "category3": "Placas de video",
-    "gallery": "img/productos/pad termico Uranus 1mm 90x50.png",
-    "excludeFromExport": false,
+    "category3": "nuevos",
     "iva": "21,00%",
-    "stock": 0
+    "stock": 12,
+    "gallery": "img/productos/pad termico coldium 15.4w_m-k 1.5mm 50x50.png",
+    "video": "",
+    "videoUrl": "",
+    "proximoIngreso": false,
+    "excludeFromExport": false
+  },
+  {
+    "id": "PROD-MQ5KEMYA6CU6",
+    "title": "Pad Térmico Coldium Skade 95x55x0.5mm",
+    "price": 8500,
+    "priceLocal": 6500,
+    "stock": 30,
+    "inStock": true,
+    "iva": "21,00%",
+    "priceNum": "8500",
+    "cashPrice": "6500",
+    "img": "img/productos/pad-termico-coldium-skade-95x55x0-5mm/0-1780963942795.jpg",
+    "gallery": "img/productos/pad-termico-coldium-skade-95x55x0-5mm/0-1780963942795.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/dsc02101-scaled-1780963942886.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-coldium-origins-hand-opening-1780963943018.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-coldium-skade-hand-opening-film-1780963943136.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-coldium-ssd-adding-1780963943270.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-termic-coldium-colocacion-600x600-1780963943420.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-termico-coldium-memoria-ram-colocacion-600x600-1780963943487.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-termico-coldium-quita-film-azul-mkt-600x600-1780963943534.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/pad-termico-coldium-ssd-colocacion--1780963943585.jpg,img/productos/pad-termico-coldium-skade-95x55x0-5mm/skade-95x55x0-1780963943694.jpg",
+    "video": "",
+    "videoUrl": "",
+    "desc": "❄️ Pads Térmicos Coldium Skade 0.5mm  \nRefrigeración precisa y confiable para tus componentes.\n\n📏 Espesor: 0.5mm\n\n⚡ Alta conductividad térmica: mejora la disipación de calor.\n\n🛡️ Protección segura: evita el sobrecalentamiento en chips y memorias.\n\n🔧 Instalación sencilla: se adaptan fácilmente a distintas superficies.\n\n🎮 Uso recomendado: GPU, VRAM, SSD y otros componentes sensibles.\n\n✅ Una solución práctica para mantener tu hardware en temperaturas óptimas y con mayor durabilidad.",
+    "proximoIngreso": false,
+    "customButtons": [],
+    "banners": [
+      "refrigeracionpremium"
+    ],
+    "subcategoria": "Thermalpads",
+    "category": "Placas de video",
+    "category2": "refrigeracion",
+    "category3": "nuevos",
+    "excludeFromExport": false
+  },
+  {
+    "id": "PROD-MQ5KXPXIUEEJ",
+    "title": "Pad Térmico Liquido Coldium ThermoLink GEL -PRO90 4g",
+    "price": 10500,
+    "priceLocal": 8000,
+    "stock": 30,
+    "inStock": true,
+    "iva": "21,00%",
+    "priceNum": "10500",
+    "cashPrice": "8000",
+    "img": "img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermal-pad-en-pasta-1780964045101.jpg",
+    "gallery": "img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermal-pad-en-pasta-1780964045101.jpg,img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermal-putty-coldium-thermolink-gelpro90-4g-ml-front-3d-1-1780964045195.jpg,img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermolink-gel-pro90-4g-box-2-ml-1780964045353.jpg,img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermolink-gel-pro90-4g-box-4-ml-1780964045487.jpg,img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermolink-gel-pro90-4g-box-7-ml-600x600-1780964045600.jpg,img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermolink-gel-pro90-4g-box-8-ml-600x600-1780964045718.jpg,img/productos/pad-termico-liquido-coldium-thermolink-gel-pro90-4g/thermolink-gel-pro90-4g-box-ml-600x600-1780964045799.jpg",
+    "video": "",
+    "videoUrl": "",
+    "desc": "❄️ Colldium Thermolink Gel Pro90 – 4g  \nSolución líquida avanzada para máxima transferencia térmica.\n\n⚡ Conductividad térmica superior: optimiza la disipación de calor en componentes críticos.\n\n💧 Formato gel líquido: aplicación uniforme y precisa, ideal para superficies irregulares.\n\n📦 Presentación: jeringa de 4 gramos para múltiples usos.\n\n🛡️ Protección confiable: evita el sobrecalentamiento en CPU, GPU y memorias.\n\n🔧 Fácil aplicación: textura fluida que asegura contacto completo con el hardware.\n\n✅ Diseñado para entusiastas y profesionales que buscan rendimiento térmico de nivel superior y mayor durabilidad en sus equipos.",
+    "proximoIngreso": false,
+    "customButtons": [],
+    "banners": [
+      "refrigeracionpremium"
+    ],
+    "subcategoria": "",
+    "category": "refrigeracion",
+    "category2": "",
+    "category3": "nuevos",
+    "excludeFromExport": false
   },
   {
     "id": "prod-1778165654143",
@@ -3538,7 +2325,7 @@
     "priceLocal": 6500,
     "banners": [],
     "iva": "21,00%",
-    "stock": 2,
+    "stock": 1,
     "priceNum": "8000",
     "cashPrice": "6500",
     "videoUrl": "",
@@ -3548,59 +2335,56 @@
     "excludeFromExport": false
   },
   {
-    "img": "img/productos/Pasta termica arctic 4G.png",
-    "title": "Pasta Térmica Arctic Mx-4 4grs Alto Rendimiento Jeringa",
-    "priceVisible": "$11.500",
-    "subcategoria": "Pastas Termicas",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-pasta-t-rmica-arctic-mx-4-4grs-862",
+    "id": "PROD-MQ5KYV3A3U09",
+    "title": "Pasta Térmica Arctic Mx-4 4g Alto Rendimiento La Original",
+    "price": 11500,
+    "priceLocal": 10000,
+    "stock": 49,
+    "inStock": true,
+    "iva": "21,00%",
     "priceNum": "11500",
     "cashPrice": "10000",
-    "desc": "✅💧 Viscosidad: 870 Poise\n\n✅⚖️ Densidad: 2.50 g/cm³\n\n✅🔧 Conductividad térmica: 8.5 W/(m·K)\n\n✅🌡️ Temperatura de funcionamiento: -50 – 150 ºC\n\n✅⚡ Resistividad volumétrica: 3.8 × 10¹³ ohm·cm\n\n✅🚫 Conductividad eléctrica: No\n\n✅🚫 Efecto capacitivo: No\n\n✅🛠️ Espátula: Si",
+    "img": "img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/arctic-4g-1780964128794.jpg",
+    "gallery": "img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/arctic-4g-1780964128794.jpg,img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/fake-mx-4-video-para-celular-1780964128970.jpg,img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/pasta-termica-arctic-mx-4-4g-con-espatula-font-web-1780964129161.jpg,img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/pasta-termica-arctic-mx-4-4g-con-espatula-font-web-600x600-1780964129320.jpg,img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/pasta-termica-arctic-mx-4-4g-web-2-1780964129386.jpg,img/productos/pasta-termica-arctic-mx-4-4g-alto-rendimiento-la-original/pasta-termica-arctic-mx-4-4g-web-4-1780964129692.jpg",
+    "video": "",
+    "videoUrl": "",
+    "desc": "❄️ Arctic MX-4 – 4g  \nMáxima eficiencia térmica para tu CPU y GPU.\n\n⚡ Alta conductividad térmica: asegura una disipación de calor superior.\n\n🛡️ Seguridad total: libre de metales, no conduce electricidad.\n\n🔧 Aplicación sencilla: textura ideal para un esparcido uniforme.\n\n📦 Presentación: jeringa de 4 gramos, suficiente para múltiples aplicaciones.\n\n⏳ Durabilidad prolongada: rendimiento estable por años sin necesidad de reaplicar.\n\n✅ Una de las pastas térmicas más reconocidas por entusiastas y profesionales, diseñada para mantener tu hardware en temperaturas óptimas y con máxima confiabilidad.",
+    "proximoIngreso": false,
     "customButtons": [],
-    "banners": [],
+    "banners": [
+      "refrigeracionpremium"
+    ],
+    "subcategoria": "",
     "category": "refrigeracion",
-    "category2": "Herramientas",
-    "category3": "Procesadores",
-    "gallery": "img/productos/Pasta termica arctic 4G.png",
-    "iva": "21,00%",
-    "stock": 0
+    "category2": "nuevos",
+    "category3": "Placas de video",
+    "excludeFromExport": false
   },
   {
-    "img": "img/productos/pasta termica coldium alaskan 4g.png",
-    "gallery": "img\\productos\\Pasta Térmica Coldium Alaskan 4g Low Viscosity Oc 13.8wm-k Gris Oscuro\\664155-MLA106968715046_022026-F (1).jpg,img\\productos\\Pasta Térmica Coldium Alaskan 4g Low Viscosity Oc 13.8wm-k Gris Oscuro\\664155-MLA106968715046_022026-F.jpg,img\\productos\\Pasta Térmica Coldium Alaskan 4g Low Viscosity Oc 13.8wm-k Gris Oscuro\\852556-MLA106730181504_022026-F.jpg",
-    "title": "Pasta Térmica Coldium Alaskan 4g Low Viscosity Oc 13.8w/m-k Gris Oscuro",
-    "priceVisible": "$10.500",
-    "subcategoria": "Pastas Termicas",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-pasta-t-rmica-coldium-alaskan--489",
+    "id": "PROD-MQ5L1BWZGJWL",
+    "title": "Pasta Térmica Arctic Mx-4 8g Con Espátula Alt o Rendimiento",
+    "price": 18500,
+    "priceLocal": 16500,
+    "stock": 30,
+    "inStock": true,
     "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img\\productos\\PASTA-TERMICA-COLDIUM-LEGEND-2G.png",
-    "gallery": "img\\productos\\PASTA-TERMICA-COLDIUM-LEGEND-2G.png,img\\productos\\coldium legend\\D_NQ_NP_2X_823277-MLA80215207481_102024-F.webp,img\\productos\\coldium legend\\D_NQ_NP_2X_972026-MLA80215207487_102024-F.webp,img\\productos\\coldium legend\\D_Q_NP_942291-MLU78470281438_082024-F.webp,img\\productos\\coldium legend\\D_Q_NP_949531-MLU75828707176_042024-F.webp",
-    "title": "Pasta térmica Coldium Legend 2g alto rendimiento 15.3w/mK",
-    "priceVisible": "$10.000",
-    "subcategoria": "Pastas Termicas",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-pasta-t-rmica-coldium-legend-2-955",
-    "priceNum": "10000",
-    "cashPrice": "8000",
-    "desc": "⚖️ Cantidad: 2 G\n\n🔥 Conductividad Térmica: 15.3 W/m·K\n\n🎨 Color: Gris claro\n\n🌀 Viscosidad: 2360 Cps\n\n📦 Densidad: 2.85 g/cc\n\n🌍 Gravedad Específica: 2.7 g/cm³\n\n🌡️ Temperatura de Operación: -220 °C / +380 °C",
+    "priceNum": "18500",
+    "cashPrice": "16500",
+    "img": "img/productos/pasta-termica-arctic-mx-4-8g-con-espatula-alt-o-rendimiento/arctic-8g-1780964356678.jpg",
+    "gallery": "img/productos/pasta-termica-arctic-mx-4-8g-con-espatula-alt-o-rendimiento/arctic-8g-1780964356678.jpg,img/productos/pasta-termica-arctic-mx-4-8g-con-espatula-alt-o-rendimiento/fake-mx-4-video-para-celular-1780964356788.jpg,img/productos/pasta-termica-arctic-mx-4-8g-con-espatula-alt-o-rendimiento/pasta-termica-arctic-mx-4-4g-web-2-1780964356944.jpg,img/productos/pasta-termica-arctic-mx-4-8g-con-espatula-alt-o-rendimiento/pasta-termica-arctic-mx-4-4g-web-3-600x600-1780964357170.jpg,img/productos/pasta-termica-arctic-mx-4-8g-con-espatula-alt-o-rendimiento/pasta-termica-arctic-mx-4-8g-web-front-upscayl-2x-upscayl-lite-4x-1780964357262.jpg",
+    "video": "",
+    "videoUrl": "",
+    "desc": "❄️ Arctic MX-4 – 8g  \nMáxima eficiencia térmica para tu CPU y GPU.\n\n⚡ Alta conductividad térmica: asegura una disipación de calor superior.\n\n🛡️ Seguridad total: libre de metales, no conduce electricidad.\n\n🔧 Aplicación sencilla: textura ideal para un esparcido uniforme.\n\n📦 Presentación: jeringa de 4 gramos, suficiente para múltiples aplicaciones.\n\n⏳ Durabilidad prolongada: rendimiento estable por años sin necesidad de reaplicar.\n\n✅ Una de las pastas térmicas más reconocidas por entusiastas y profesionales, diseñada para mantener tu hardware en temperaturas óptimas y con máxima confiabilidad.",
+    "proximoIngreso": false,
     "customButtons": [],
-    "banners": [],
+    "banners": [
+      "refrigeracionpremium"
+    ],
+    "subcategoria": "Pastas Termicas",
     "category": "refrigeracion",
-    "category2": "Procesadores",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
+    "category2": "",
+    "category3": "nuevos",
+    "excludeFromExport": false
   },
   {
     "id": "PROD-MQ5KSOH3TPKY",
@@ -3629,25 +2413,30 @@
     "excludeFromExport": false
   },
   {
-    "img": "img/productos/Pasta Raptor Ice 4g.png",
-    "title": "Pasta termica Raptor ICE",
-    "priceVisible": "$9.500",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-pasta-termica-raptor-ice-796",
-    "priceNum": "10000",
-    "cashPrice": "9500",
-    "gallery": "img/productos/Pasta Raptor Ice 4g.png",
-    "desc": "",
+    "id": "PROD-MQ5KUB4N7XAR",
+    "title": "Pasta Térmica Coldium Legend 4g Powerful O verclock 15.3w/mk",
+    "price": 10500,
+    "priceLocal": 8500,
+    "stock": 29,
+    "inStock": true,
+    "iva": "21,00%",
+    "priceNum": "10500",
+    "cashPrice": "8500",
+    "img": "img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/legend-4g-1780964437163.jpg",
+    "gallery": "img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/legend-4g-1780964437163.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-1-1-600x400-1780964435949.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-1-1-scaled-1780964436003.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-2-1780964436621.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-8-600x400-1780964436816.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-9-600x400-1780964436896.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-24-1780964436952.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/1-27-600x600-1780964437070.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/pasta-termica-coldium-legend-promo-ml-v3-600x335-1780964437587.jpg,img/productos/pasta-termica-coldium-legend-4g-powerful-o-verclock-15-3w-mk/premium-thermal-pastes-average-testing-ml-2-1780964437678.jpg",
+    "video": "",
+    "videoUrl": "",
+    "desc": "❄️ Colldium Legend – 2g  \nRendimiento térmico confiable en formato compacto.\n\n⚡ Alta conductividad térmica: mejora la disipación de calor en CPU y GPU.\n\n🛡️ Seguridad garantizada: libre de metales, no conduce electricidad.\n\n🔧 Aplicación sencilla: textura uniforme para un contacto perfecto con el hardware.\n\n📦 Presentación: jeringa de 2 gramos, práctica para varias aplicaciones.\n\n⏳ Durabilidad prolongada: mantiene su rendimiento estable por largo tiempo.\n✅ Una opción ideal para quienes buscan eficiencia térmica y protección confiable en sus equipos.",
+    "proximoIngreso": false,
     "customButtons": [],
-    "banners": [],
+    "banners": [
+      "refrigeracionpremium"
+    ],
     "subcategoria": "Pastas Termicas",
     "category": "refrigeracion",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
+    "category2": "Placas de video",
+    "category3": "nuevos",
+    "excludeFromExport": false
   },
   {
     "img": "img\\des\\cable-utp-3mts-cat5e.png",
@@ -3670,79 +2459,13 @@
     "stock": 6
   },
   {
-    "id": "prod-pc-raptor-thunderstrike-white--287",
-    "title": "PC RAPTOR THUNDERSTRIKE WHITE R5 5600GT",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "id": "prod-pc-raptor-vortex-r5-5600gt-694",
-    "title": "PC RAPTOR VORTEX R5 5600GT",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img/productos/Pen drive 128gb 3.0.png",
-    "title": "Pen Drive HIKSEMI 128Gb M200 Classic USB 3.0",
-    "desc": "Capacidad\n128 GB\nInterfaz\nUSB 3.0\nVelocidad máxima de lectura (USB 2.0)\n10-20 MB/s\nVelocidad máxima de lectura (USB 3.0)\n30-80 MB/s\nVelocidad máxima de escritura (USB 2.0)\n3-10 MB/s\nVelocidad máxima de escritura (USB 3.0)\n15-25 MB/s\nColor\nMetal\nDimensiones\n38 mm x 12 mm x 4,5 mm\nPeso\n8 gramos",
-    "priceVisible": "$26.000",
-    "subcategoria": "Pen drive",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-pen-drive-hiksemi-128gb-m200-c-594",
-    "priceNum": "26000",
-    "cashPrice": "26000",
-    "customButtons": [],
-    "banners": [],
-    "category": "almacenamiento",
-    "category2": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "id": "prod-1778108906292",
-    "title": "Pen Drive HIKSEMI 32Gb M200 Classic USB 3.0",
-    "img": "img\\productos\\hiksemi classic pen drive 32gb 3.0\\pen drive classic 32gb  3.0.png",
-    "desc": "Capacidad\n\n32 GB\n\nInterfaz\n\nUSB 3.0\n\nVelocidad máxima de lectura (USB 2.0)\n\n10-20 MB/s\n\nVelocidad máxima de lectura (USB 3.0)\n\n30-80 MB/s\n\nVelocidad máxima de escritura (USB 2.0)\n\n3-10 MB/s\n\nVelocidad máxima de escritura (USB 3.0)\n\n15-25 MB/s\n\nColor\n\nMetal\n\nDimensiones\n\n38 mm x 12 mm x 4,5 mm\n\nPeso\n\n8 gramos",
-    "video": "",
-    "category": "almacenamiento",
-    "category2": "nuevos",
-    "subcategoria": "Pen drive",
-    "inStock": true,
-    "slug": "pen-drive-hiksemi-32gb-m200-classic-usb-3-0",
-    "price": 18500,
-    "priceLocal": 16500,
-    "banners": [
-      "ssd-hiksemi"
-    ],
-    "priceNum": "18000",
-    "cashPrice": "16000",
-    "gallery": "img\\productos\\hiksemi classic pen drive 32gb 3.0\\pen drive classic 32gb  3.0.png,img\\productos\\pen drive 32gb.png",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://www.hiksemitech.com/en/hiksemi/all-products/external-storage/usb-drives/hs-usb-m200.html"
-      }
-    ],
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 1
-  },
-  {
     "img": "img/productos/Pen drive 64gb 3.0.png",
     "title": "Pen Drive HIKSEMI 64Gb M200 Classic USB 3.0",
     "desc": "Capacidad\n64 GB\nInterfaz\nUSB 3.0\nVelocidad máxima de lectura (USB 2.0)\n10-20 MB/s\nVelocidad máxima de lectura (USB 3.0)\n30-80 MB/s\nVelocidad máxima de escritura (USB 2.0)\n3-10 MB/s\nVelocidad máxima de escritura (USB 3.0)\n15-25 MB/s\nColor\nMetal\nDimensiones\n38 mm x 12 mm x 4,5 mm\nPeso\n8 gramos",
     "priceVisible": "$22.000",
     "subcategoria": "Pen drive",
     "price": 23000,
-    "priceLocal": 22000,
+    "priceLocal": 21500,
     "inStock": true,
     "id": "prod-pen-drive-hiksemi-64gb-m200-cl-881",
     "priceNum": "22000",
@@ -3770,7 +2493,7 @@
     "inStock": true,
     "slug": "pen-drive-kingston-128gb-usb-3-2-dtxs",
     "price": 34500,
-    "priceLocal": 31000,
+    "priceLocal": 30500,
     "banners": [],
     "iva": "21,00%",
     "stock": 1
@@ -3791,7 +2514,7 @@
     "priceLocal": 500,
     "banners": [],
     "iva": "10,50%",
-    "stock": 37
+    "stock": 34
   },
   {
     "img": "img/productos/Ryzen 5 5600gt.png",
@@ -3822,8 +2545,8 @@
   {
     "id": "PROD-MPIFPUNPKK00",
     "title": "Proces. AMD Ryzen 5 8400F AM5 SIN VIDEO CON COOLER (6736)",
-    "price": 299000,
-    "priceLocal": 282500,
+    "price": 298500,
+    "priceLocal": 282000,
     "inStock": true,
     "priceNum": "299000",
     "cashPrice": "282500",
@@ -3852,7 +2575,7 @@
     "id": "PROD-MPIF8YN3FUNE",
     "title": "Proces. AMD Ryzen 7 5700 AM4 SIN VIDEO CON COOLER (7856)",
     "price": 298500,
-    "priceLocal": 282000,
+    "priceLocal": 281500,
     "inStock": true,
     "priceNum": "298500",
     "cashPrice": "282000",
@@ -3871,65 +2594,6 @@
     "video": "",
     "videoUrl": "",
     "proximoIngreso": false
-  },
-  {
-    "img": "img/productos/Prolongador 4 tomas  NORMALIZADO.png",
-    "title": "Prolongador Kelyx 4 tomas 220V c/proteccion 1.5mts",
-    "desc": "⚡ Energía segura y potente\n🔌 Conectá hasta 4 dispositivos al mismo tiempo\n🏠 Ideal para hogar u oficina\n💪 Potencia máxima: 2200W\n🛡️ Protección IP20 para tu tranquilidad\n📏 Diseño compacto y confiable\n👉 ¡La solución práctica para mantener tus espacios energizados con seguridad y estilo!",
-    "priceVisible": "$12.000",
-    "subcategoria": "Prolongadores",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-prolongador-kelyx-4-tomas-220v-538",
-    "priceNum": "12000",
-    "cashPrice": "12000",
-    "customButtons": [],
-    "banners": [
-      "prolongadores"
-    ],
-    "category": "Cables",
-    "category2": "",
-    "gallery": "img/productos/Prolongador 4 tomas  NORMALIZADO.png",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img/productos/Prolongador 6 tomas NORMALIZADO.png",
-    "title": "Prolongador Kelyx 6 tomas 220V c/proteccion 1.5mts",
-    "desc": "⚡ Energía segura y potente\n🔌 Conectá hasta 6 dispositivos al mismo tiempo\n🏠 Ideal para hogar u oficina\n💪 Potencia máxima: 2200W\n🛡️ Protección IP20 para tu tranquilidad\n📏 Diseño compacto y confiable\n👉 ¡La solución práctica para mantener tus espacios energizados con seguridad y estilo!",
-    "priceVisible": "$14.000",
-    "subcategoria": "Prolongadores",
-    "price": 14500,
-    "priceLocal": 12500,
-    "inStock": false,
-    "id": "prod-prolongador-kelyx-6-tomas-220v-148",
-    "priceNum": "14000",
-    "cashPrice": "12500",
-    "customButtons": [],
-    "banners": [
-      "prolongadores"
-    ],
-    "category": "Cables",
-    "category2": "",
-    "category3": "",
-    "gallery": "img/productos/Prolongador 6 tomas NORMALIZADO.png",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img/des/rx 7600 8gb shappire des.png",
-    "title": "PULSE AMD Radeon™ RX 7600 8GB",
-    "desc": "\nArquitectura AMD RDNA™ 3, Boost Clock hasta 2755 MHz, 2048 Stream Processors, 32 CU, 8 GB GDDR6, PCIe 4.0 x8, 4 pantallas máximas, Fuente recomendada 550W\n",
-    "priceVisible": "$629.500",
-    "subcategoria": "amd",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-pulse-amd-radeon-rx-7600-8gb-377",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "img": "img\\des\\pulsera-antiestatica-tecnico-des2.png",
@@ -3971,32 +2635,6 @@
     "category3": "",
     "iva": "21,00%",
     "stock": 37
-  },
-  {
-    "img": "img\\productos\\silla raptor s10 blanca.png",
-    "title": "Silla Raptor throne S10 blanca",
-    "priceVisible": "$14.500",
-    "subcategoria": "Diseño Ergonomico",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-silla-raptor-throne-s10-blanca-567",
-    "priceNum": "187500",
-    "cashPrice": "187500",
-    "desc": "🎨 Color: Blanco\n🪑 Tapizado: Tela\n🛠️ Estructura: Metal\n☁️ Relleno: Algodón espuma\n📏 Dimensiones:\n\nRespaldo: 80 × 60 cm\n\nAsiento: Profundidad 35 cm · Ancho 48 cm\n\nAltura total: 82–128 cm\n\nPiso–asiento: 42–52 cm\n⚖️ Peso neto: 15.5 kg\n🏋️ Soporta hasta: 130 kg\n🔄 Respaldo reclinable: 90°–145°\n🦵 Reposapiés: Sí\n💺 Ergonómica y giratoria: Sí\n🌬️ Soporte lumbar: Ajustable 3 cm\n🛏️ Apoyacabezas: Giratorio 180° y ajustable 3 cm\n⬆️ Altura regulable: Sí · Elevador de gas Clase 3\n🖐️ Apoyabrazos: Sí\n🛞 Con ruedas: Sí\n📦 Caja: 59 × 58 × 33 cm\n🔧 Requiere ensamblado: Sí",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://www.raptor-gaming.com.ar/todos-silla-gamer-raptor-throne-s10-white--det--0417930"
-      }
-    ],
-    "banners": [],
-    "category": "Sillas y Escritorios Gamer",
-    "category2": "",
-    "category3": "",
-    "gallery": "img\\productos\\silla raptor s10 blanca.png,img/productos/silla-raptor-throne-s10-blanca/silla-gamer-raptor-throne-s10-white-01-1779125955161.jpg,img/productos/silla-raptor-throne-s10-blanca/silla-gamer-raptor-throne-s10-white-02-1779125955332.jpg,img/productos/silla-raptor-throne-s10-blanca/silla-gamer-raptor-throne-s10-white-03-1779125955727.jpg,img/productos/silla-raptor-throne-s10-blanca/silla-gamer-raptor-throne-s10-white-04-1779125956116.jpg,img/productos/silla-raptor-throne-s10-blanca/silla-gamer-raptor-throne-s10-white-05-1779125956471.jpg,img/productos/silla-raptor-throne-s10-blanca/silla-gamer-raptor-throne-s10-white-06-1779125956848.jpg",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "id": "prod-1778159782040",
@@ -4061,51 +2699,7 @@
     "category3": "",
     "gallery": "img\\productos\\ssd p210 256gb patriot (2).png,img/productos/ssd-patriot-256gb-p210-sata-2-5/p210-image-a-1779124745229.jpg,img/productos/ssd-patriot-256gb-p210-sata-2-5/p210-image-b-1779124745313.jpg,img/productos/ssd-patriot-256gb-p210-sata-2-5/p210-image-c-1779124745399.jpg,img/productos/ssd-patriot-256gb-p210-sata-2-5/p210-image-d-1779124745461.jpg,img/productos/ssd-patriot-256gb-p210-sata-2-5/p210-image-e-1779124745546.jpg,img/productos/ssd-patriot-256gb-p210-sata-2-5/p210-package-a-1779124745678.jpg,img/productos/ssd-patriot-256gb-p210-sata-2-5/p210-package-b-1779124745744.jpg,img/productos/ssd-patriot-256gb-p210-sata-2-5/p210-package-c-1779124745803.jpg",
     "iva": "10,50%",
-    "stock": 13
-  },
-  {
-    "img": "img\\productos\\ssd p210 512 patriot.png",
-    "title": "SSD PATRIOT 512GB P210 SATA 2.5",
-    "desc": "Capacidad 512 GB\nÚltimo controlador SATA III\nInterfaz: SATA III 6Gb/s\nComando de recorte compatible\nTemperatura de funcionamiento: 0~70°C",
-    "priceVisible": "$136.000",
-    "subcategoria": "512GB",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-ssd-patriot-512gb-p210-sata-2--31",
-    "priceNum": "136000",
-    "cashPrice": "136000",
-    "customButtons": [],
-    "banners": [],
-    "category": "almacenamiento",
-    "category2": "",
-    "category3": "",
-    "gallery": "img\\productos\\ssd p210 512 patriot.png,img/productos/ssd-patriot-512gb-p210-sata-2-5/p210-image-a-1779124862043.jpg,img/productos/ssd-patriot-512gb-p210-sata-2-5/p210-image-b-1779124862120.jpg,img/productos/ssd-patriot-512gb-p210-sata-2-5/p210-image-c-1779124862180.jpg,img/productos/ssd-patriot-512gb-p210-sata-2-5/p210-image-d-1779124862245.jpg,img/productos/ssd-patriot-512gb-p210-sata-2-5/p210-image-e-1779124862325.jpg,img/productos/ssd-patriot-512gb-p210-sata-2-5/p210-package-a-1779124862429.jpg,img/productos/ssd-patriot-512gb-p210-sata-2-5/p210-package-b-1779124862487.jpg,img/productos/ssd-patriot-512gb-p210-sata-2-5/p210-package-c-1779124862545.jpg",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img/productos/hiksemi-ssd-240gb.png",
-    "title": "SSD SATA 240GB 2.5 HIKSEMI",
-    "desc": "Capacity 240 GB\nMax. Seq. Read (MB/S) 530 MB/s\nMax. Seq. Write (MB/S) 400 MB/s\nMax. Ran. 4K read IOPS 30K\nMax. Ran. 4K write IOPS 50K\nMax. Power Consumption 1.3W\nTBW 80TB\nStorage Medium 3D NAND\nInterface SATA III\nMTBF 1,500,000 hours\nOperation temperature 0-70 °C\nStorage temperature -40 °C to 85 °C\nWeight = 34.4 g",
-    "priceVisible": "$86.000",
-    "subcategoria": "240GB",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-ssd-sata-240gb-2-5-hiksemi-817",
-    "priceNum": "86000",
-    "cashPrice": "86000",
-    "customButtons": [],
-    "banners": [
-      "ssd-hiksemi"
-    ],
-    "category": "almacenamiento",
-    "category2": "",
-    "category3": "",
-    "gallery": "img/productos/hiksemi-ssd-240gb.png",
-    "iva": "21,00%",
-    "stock": 0
+    "stock": 12
   },
   {
     "img": "img/productos/hiksemi nvme 512gb 3.0.png",
@@ -4113,7 +2707,7 @@
     "desc": "Capacidad: 512GB.\nInterfaz: PCIe Gen 3.0 NVMe (80mm x 22mm x 2.4mm).\nTipo de Dispositivo: Unidad de Estado Solido Interno (SSD)\nConsumo de energía (MAX) (W): 4.5W\nTemperatura no operativa: -40 °C a 85 °C\nTemperatura de funcionamiento: 0 °C a 70 °C\nLectura secuencial Maxima: 3520 MB/s\nEscritura secuencial Maxima: 2900 MB/s\nTamaño: 80 x 22 x 2,4 mm\nPeso: 7g",
     "priceVisible": "$142.000",
     "subcategoria": "512GB",
-    "price": 148500,
+    "price": 148000,
     "priceLocal": 140000,
     "inStock": true,
     "id": "prod-ssd-wave-p-512gb-m2-pcie-3-0-h-352",
@@ -4202,61 +2796,6 @@
     "stock": 37
   },
   {
-    "id": "prod-1778158810879",
-    "title": "Teclado Gamer Raptor Fireclaw M68 Mecanico Retroiluminado Switch Red Outemu White",
-    "img": "img/productos/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white/m68-white-1780958425648.jpg",
-    "gallery": "img/productos/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white/m68-white-1780958425648.jpg,img/productos/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white-des-1778158749018.jpg",
-    "desc": "⚡ Rendimiento de Teclas\n\n- Respuesta rápida para juegos competitivos 🏆\n\n- Entrada sin conflictos de teclas ➡️ máxima eficiencia y estabilidad\n\n🔌 Conexión\n\n- Cableado mediante USB extraíble 🔗\n\n- Inalámbrico: No ❌\n\n💻 Compatibilidad\n\n- Windows 7 / 8 / 10 🖥️\n\n- macOS 🍎\n\n✨ Características de la Iluminación Rainbow\n\n- Efecto arcoíris dinámico: los colores recorren el teclado en ondas o transiciones suaves.",
-    "video": "",
-    "category": "Periféricos",
-    "category2": "",
-    "subcategoria": "teclado-mecanico",
-    "inStock": true,
-    "slug": "teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white",
-    "price": 38000,
-    "priceLocal": 34000,
-    "banners": [
-      "perifericos-raptor"
-    ],
-    "priceNum": "38000",
-    "cashPrice": "34000",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://www.raptor-gaming.com.ar/todos-teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white--det--0417782"
-      }
-    ],
-    "category3": "",
-    "iva": "10,50%",
-    "stock": 1,
-    "videoUrl": "",
-    "proximoIngreso": false,
-    "excludeFromExport": false
-  },
-  {
-    "img": "img\\des\\Teclado-Gamer-Raptor-Fireclaw-M68-Mecanico-Retroiluminado-Switch-Red-Outemu-des (2).png",
-    "gallery": "img\\des\\Teclado-Gamer-Raptor-Fireclaw-M68-Mecanico-Retroiluminado-Switch-Red-Outemu-des (2).png,img\\des\\Teclado-Gamer-Raptor-Fireclaw-M68-Mecanico-Retroiluminado-Switch-Red-Outemu-des.png",
-    "title": "Teclado Gamer Raptor Fireclaw M68 Mecanico Retroiluminado Switch Red Outemu wirelees",
-    "priceVisible": "$36.500",
-    "subcategoria": "teclado-mecanico",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-teclado-gamer-raptor-fireclaw--391",
-    "priceNum": "36500",
-    "cashPrice": "34000",
-    "desc": "",
-    "customButtons": [],
-    "banners": [
-      "perifericos-raptor"
-    ],
-    "category": "Periféricos",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
     "id": "prod-1778111498074",
     "title": "Teclado Gamer Raptor Fireclaw M87 Mecanico Retroiluminado Switch Red Outemu",
     "img": "img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu/m87-black-1780958399016.jpg",
@@ -4278,34 +2817,10 @@
     "customButtons": [],
     "category3": "",
     "iva": "10,50%",
-    "stock": 8,
+    "stock": 7,
     "videoUrl": "https://youtube.com/shorts/ygparS80Ahg?si=bNyQfIo1m11gJgN9",
     "proximoIngreso": false,
     "excludeFromExport": false
-  },
-  {
-    "id": "prod-1778158513082",
-    "title": "Teclado Gamer Raptor Fireclaw M87 Mecanico Retroiluminado Switch Red Outemu White",
-    "img": "img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu-white/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu-white-des2-1778158455093.jpg",
-    "gallery": "img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu-white/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu-white-des2-1778158455093.jpg,img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu-white/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white-des2-1778158454985.jpg,img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu-white/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu-white-des-1778158455026.jpg",
-    "desc": "- 📏 Dimensiones: 352 × 125 × 35 mm\n\n- ⚖️ Peso: 600 g\n\n- ⌨️ Número de teclas: 87\n\n- 🧩 Material: ABS\n\n- 🎨 Tipo de teclas: Inyección de doble color + grabado láser\n\n- 🔴 Switches: Outemu Red Switches\n\n- 🔌 Cable: 1,5 m\n\n- 🌈 Iluminación: 17 modos LED\n\n- ⏱️ Durabilidad: +50 millones de pulsaciones\n\n- 🛡️ Anti-ghosting: 26 teclas\n\n- 🔗 Puerto: USB 2.0 (rendimiento máximo)\n\n- 💻 Compatibilidad: Windows® XP / Vista / 7 (32/64 bit)",
-    "video": "",
-    "category": "Periféricos",
-    "category2": "",
-    "subcategoria": "teclado-mecanico",
-    "inStock": false,
-    "slug": "teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu-white",
-    "price": 0,
-    "priceLocal": 0,
-    "banners": [
-      "perifericos-raptor"
-    ],
-    "priceNum": "38000",
-    "cashPrice": "35000",
-    "customButtons": [],
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "img": "img\\productos\\SCORPION GAMING KB K12 TECLADO GENIUS.png",
@@ -4360,36 +2875,6 @@
     "stock": 6
   },
   {
-    "id": "prod-1778159153127",
-    "title": "TECLADO GENIUS USB KB-113 BLACK SP",
-    "img": "img/productos/teclado-genius-usb-kb-113-black-sp/teclado-genius-1778159129411.jpg",
-    "gallery": "img/productos/teclado-genius-usb-kb-113-black-sp/teclado-genius-1778159129411.jpg",
-    "desc": "Teclado de tamaño completo con cable\n\nTecla de Copilot con IA para activar el asistente de Copilot (para Windows 11 o superior)\n\nTecla FN multimedia de 12 teclas\n\nDiseño resistente a derrames\n\nTecla de perfil bajo\n\nUSB Plug and play",
-    "video": "",
-    "category": "Periféricos",
-    "category2": "",
-    "subcategoria": "teclado",
-    "inStock": true,
-    "slug": "teclado-genius-usb-kb-113-black-sp",
-    "price": 10500,
-    "priceLocal": 10000,
-    "banners": [],
-    "priceNum": "10500",
-    "cashPrice": "10000",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://www.geniusnet.com/es/products/view/kb_113"
-      }
-    ],
-    "category3": "",
-    "excludeFromExport": false,
-    "iva": "10,50%",
-    "stock": 1,
-    "videoUrl": "",
-    "proximoIngreso": false
-  },
-  {
     "id": "prod-1778159030799",
     "title": "Teclado Mecanico Gamer Raptor Fireclaw M68 Mecanico Retroiluminado Switch Red Outemu",
     "img": "img/productos/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-des--2--1778158948439.jpg",
@@ -4416,7 +2901,7 @@
     ],
     "category3": "",
     "iva": "10,50%",
-    "stock": 9
+    "stock": 7
   },
   {
     "img": "img\\productos\\MK104 RAINBOW TECLADO MLOGIX.png",
@@ -4442,7 +2927,7 @@
     "category3": "",
     "gallery": "img\\productos\\MK104 RAINBOW TECLADO MLOGIX.png,img\\des\\MK104 RAINBOW TECLADO MLOGIX des.png",
     "iva": "10,50%",
-    "stock": 10,
+    "stock": 9,
     "video": "https://youtube.com/shorts/TcYTw1wkGKE?si=c63mU47PGM-vkRwY",
     "videoUrl": "https://youtube.com/shorts/TcYTw1wkGKE?si=c63mU47PGM-vkRwY",
     "proximoIngreso": false,
@@ -4521,8 +3006,8 @@
     "desc": "🎮 GPU: GeForce RTX™ 5050\n⚡ Reloj central: 2632 MHz (ref. 2572 MHz)\n🧮 Núcleos CUDA®: 2560\n💾 Memoria: 8 GB GDDR6\n🚀 Velocidad de memoria: 20 Gbps\n📐 Bus de memoria: 128 bits\n🔌 Interfaz: PCI-E 5.0\n🖥️ Resolución máxima digital: 7680×4320 (8K)",
     "priceVisible": "$615.000",
     "subcategoria": "nvidia",
-    "price": 635000,
-    "priceLocal": 614000,
+    "price": 634500,
+    "priceLocal": 613500,
     "inStock": true,
     "id": "prod-vga-gigabyte-geforce-rtx-5050--811",
     "priceNum": "621500",
@@ -4552,7 +3037,7 @@
     "priceVisible": "$576.000",
     "subcategoria": "nvidia",
     "price": 601500,
-    "priceLocal": 579500,
+    "priceLocal": 579000,
     "inStock": true,
     "id": "prod-vga-msi-geforce-rtx-5050-ventu-538",
     "priceNum": "589000",
@@ -4575,44 +3060,14 @@
     "stock": 1
   },
   {
-    "img": "img\\productos\\rtx 5060 shadow.png",
-    "gallery": "img\\productos\\rtx 5060 shadow.png,img\\productos\\VGA MSI GeForce RTX 5060 8G SHADOW 2X OC (4234)\\dualFan-core-pipes.png,img\\productos\\VGA MSI GeForce RTX 5060 8G SHADOW 2X OC (4234)\\dualFan-reinforcing-baseplate.png,img\\productos\\VGA MSI GeForce RTX 5060 8G SHADOW 2X OC (4234)\\product_1744775268f984f8ff5e971a138d46c5cce81d2f74.webp,img\\productos\\VGA MSI GeForce RTX 5060 8G SHADOW 2X OC (4234)\\product_1744775270625fca332081bfa2aeec3574e09927cd (1).webp,img\\productos\\VGA MSI GeForce RTX 5060 8G SHADOW 2X OC (4234)\\product_1744775272102cd271d092f6be7c5c03abd6f8b5c6.webp",
-    "title": "VGA MSI GeForce RTX 5060 8G SHADOW 2X OC",
-    "desc": "PCI Express® Gen 5 x16, 2535 MHz, 3840 CUDA Cores, 28 Gbps, 8GB GDDR7, 128-bit, DisplayPort x3, HDMI x1, Fuente mínima 550W",
-    "priceVisible": "$710.500",
-    "subcategoria": "nvidia",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-vga-msi-geforce-rtx-5060-8g-sh-536",
-    "priceNum": "",
-    "cashPrice": "",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-8G-SHADOW-2X-OC/Overview"
-      }
-    ],
-    "banners": [
-      "geforcertxseries50"
-    ],
-    "category": "Placas de video",
-    "category2": "",
-    "category3": "",
-    "proximoIngreso": false,
-    "excludeFromExport": false,
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
     "img": "img\\productos\\rtx 5060 ventus white.png",
     "gallery": "img\\productos\\rtx 5060 ventus white.png,img\\productos\\VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE (4296)\\msi-8g-ventus-2x-oc-thermal-heat-pipes.png,img\\productos\\VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE (4296)\\msi-ventus-thermal-torx-fan.png,img\\productos\\VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE (4296)\\product_1745313867fc830217de0b3be0638273c1c09fe9d2 (1).webp,img\\productos\\VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE (4296)\\product_17453138693d3261cc10c4389ca376e5d822c605cc.webp",
     "title": "VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE",
     "desc": "PCI Express® Gen 5 x16, 2535 MHz, 3840 CUDA Cores, 28 Gbps, 8GB GDDR7, 128-bit, DisplayPort x3, HDMI x1, Fuente mínima 550W",
     "priceVisible": "$728.500",
     "subcategoria": "nvidia",
-    "price": 751000,
-    "priceLocal": 717500,
+    "price": 750500,
+    "priceLocal": 717000,
     "inStock": true,
     "id": "prod-vga-msi-geforce-rtx-5060-8g-ve-357",
     "priceNum": "735000",
@@ -4635,60 +3090,12 @@
     "stock": 1
   },
   {
-    "img": "img\\des\\msi a13 240 des.png",
-    "title": "Water cooling Msi A13 240",
-    "priceVisible": "$126.000",
-    "subcategoria": "Water cooling",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-water-cooling-msi-a13-240-12",
-    "priceNum": "126000",
-    "cashPrice": "126000",
-    "desc": "",
-    "customButtons": [],
-    "banners": [],
-    "category": "refrigeracion",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
-    "img": "img\\productos\\raptor 240 water.png",
-    "gallery": "img\\productos\\raptor 240 water.png,img\\productos\\Water Cooling Raptor Aqua Core 240 2x CPU Cooler 240mm Negro (7718)\\000000000041790517296RAP-WC-240BL1.jpg,img\\productos\\Water Cooling Raptor Aqua Core 240 2x CPU Cooler 240mm Negro (7718)\\Water Cooling Raptor Aqua Core 240 2X 01.png,img\\productos\\Water Cooling Raptor Aqua Core 240 2x CPU Cooler 240mm Negro (7718)\\Water Cooling Raptor Aqua Core 240 2X 02.jpg,img\\productos\\Water Cooling Raptor Aqua Core 240 2x CPU Cooler 240mm Negro (7718)\\Water Cooling Raptor Aqua Core 240 2X Poster 03.png,img\\productos\\Water Cooling Raptor Aqua Core 240 2x CPU Cooler 240mm Negro (7718)\\Water Cooling Raptor Aqua Core 240 2X Poster 04.png,img\\productos\\Water Cooling Raptor Aqua Core 240 2x CPU Cooler 240mm Negro (7718)\\Water Cooling Raptor Aqua Core 240 2X Poster 05.png,img\\productos\\Water Cooling Raptor Aqua Core 240 2x CPU Cooler 240mm Negro (7718)\\Water Cooling Raptor Aqua Core 240 2X Poster 06.png",
-    "title": "Water Cooling Raptor Aqua Core 240 2x CPU Cooler 240mm Negro",
-    "priceVisible": "$96.000",
-    "subcategoria": "Water cooling",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-water-cooling-raptor-aqua-core-134",
-    "priceNum": "96000",
-    "cashPrice": "88500",
-    "desc": "⚡ Potencia:250 W\n\n📏 Tamaño del producto: 272 x 120 x 27mm\n\n🧱 Materiales: Cobre + Aluminio\n\n🌬️ Cantidad de ventiladores: 2\n\n🎨 Color: Negro\n\n📐 Dimensiones: 120 x 120 x 25mm*2\n\n🚀 Velocidad: 800 – 1800 RPM ±10%\n\n🔧 Tipo de rodamiento: Hidráulico\n\n💨 Flujo de aire: 75 CFM ±10%\n\n📊 Presión estática: 1.97 mmH₂O\n\n🔋 Voltaje: 12 VDC / 5 VDC\n\n⚙️ Potencia: 3.3 W\n\n🌈retroiluminación: argb",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://www.raptor-gaming.com.ar/todos-water-cooling-raptor-aqua-core-240-2x-cpu-cooler-240mm-negro--det--0417905"
-      }
-    ],
-    "banners": [
-      "refrigeracion-raptor"
-    ],
-    "category": "refrigeracion",
-    "category2": "",
-    "category3": "",
-    "iva": "21,00%",
-    "stock": 0
-  },
-  {
     "img": "img\\productos\\Water Cooling Raptor Aqua Core 360 3x CPU Cooler 360mm Negro (7701)\\Water Cooling Raptor Aqua Core 360 3X 01.png",
     "gallery": "img\\productos\\Water Cooling Raptor Aqua Core 360 3x CPU Cooler 360mm Negro (7701)\\Water Cooling Raptor Aqua Core 360 3X 01.png,img\\productos\\Water Cooling Raptor Aqua Core 360 3x CPU Cooler 360mm Negro (7701)\\Water Cooling Raptor Aqua Core 360 3X Poster 02.png,img\\productos\\Water Cooling Raptor Aqua Core 360 3x CPU Cooler 360mm Negro (7701)\\Water Cooling Raptor Aqua Core 360 3X Poster 03.png,img\\productos\\Water Cooling Raptor Aqua Core 360 3x CPU Cooler 360mm Negro (7701)\\Water Cooling Raptor Aqua Core 360 3X Poster 04.png,img\\productos\\Water Cooling Raptor Aqua Core 360 3x CPU Cooler 360mm Negro (7701)\\Water Cooling Raptor Aqua Core 360 3X Poster 06.png",
     "title": "Water Cooling Raptor Aqua Core 360 3x CPU Cooler 360mm Negro",
     "priceVisible": "$105.000",
     "subcategoria": "Water cooling",
-    "price": 107000,
+    "price": 106500,
     "priceLocal": 94500,
     "inStock": true,
     "id": "prod-water-cooling-raptor-aqua-core-315",
@@ -4709,29 +3116,6 @@
     "category3": "",
     "iva": "10,50%",
     "stock": 2
-  },
-  {
-    "img": "img/productos/water-cooling-raptor-aqua-pro-240-display-2x-cpu-cooler-240mm-negro/water-cooling-raptor-aqua-pro-240-01-1778945354674.jpg",
-    "title": "Water Cooling Raptor Aqua Pro 240 Display 2x CPU Cooler 240mm Negro",
-    "priceVisible": "$111.000",
-    "subcategoria": "Water cooling",
-    "price": 0,
-    "priceLocal": 0,
-    "inStock": false,
-    "id": "prod-water-cooling-raptor-aqua-pro--800",
-    "priceNum": "111000",
-    "cashPrice": "111000",
-    "desc": "⚡ Potencia:250 W\n📏 Tamaño del producto: 272 x 120 x 27mm\n🧱 Materiales: Cobre + Aluminio\n🌬️ Cantidad de ventiladores: 2\n🎨 Color: Negro\n📐 Dimensiones: 120 x 120 x 25mm*2\n🚀 Velocidad: 800 – 1800 RPM ±10%\n🔧 Tipo de rodamiento: Hidráulico\n💨 Flujo de aire: 75 CFM ±10%\n📊 Presión estática: 1.97 mmH₂O\n🔋 Voltaje: 12 VDC / 5 VDC\n⚙️ Potencia: 3.3 W\n🌈retroiluminación: argb",
-    "customButtons": [],
-    "banners": [
-      "refrigeracion-raptor"
-    ],
-    "category": "refrigeracion",
-    "category2": "",
-    "category3": "",
-    "gallery": "img/productos/water-cooling-raptor-aqua-pro-240-display-2x-cpu-cooler-240mm-negro/water-cooling-raptor-aqua-pro-240-01-1778945354674.jpg,img/productos/water-cooling-raptor-aqua-pro-240-display-2x-cpu-cooler-240mm-negro/water-cooling-raptor-aqua-pro-240-02-1778945354876.jpg,img/productos/water-cooling-raptor-aqua-pro-240-display-2x-cpu-cooler-240mm-negro/water-cooling-raptor-aqua-pro-240-03-1778945355047.jpg,img/productos/water-cooling-raptor-aqua-pro-240-display-2x-cpu-cooler-240mm-negro/water-cooling-raptor-aqua-pro-240-poster-01-1778945355208.jpg,img/productos/water-cooling-raptor-aqua-pro-240-display-2x-cpu-cooler-240mm-negro/water-cooling-raptor-aqua-pro-240-poster-02-1778945355338.jpg,img/productos/water-cooling-raptor-aqua-pro-240-display-2x-cpu-cooler-240mm-negro/water-cooling-raptor-aqua-pro-240-poster-03-1778945355456.jpg,img/productos/water-cooling-raptor-aqua-pro-240-display-2x-cpu-cooler-240mm-negro/water-cooling-raptor-aqua-pro-240-poster-04-1778945355562.jpg,img/productos/water-cooling-raptor-aqua-pro-240-display-2x-cpu-cooler-240mm-negro/water-cooling-raptor-aqua-pro-240-poster-05-1778945355689.jpg",
-    "iva": "21,00%",
-    "stock": 0
   },
   {
     "img": "img\\productos\\Water Cooling Raptor Aqua Pro 360 Display 3x CPU Cooler 360mm Negro (7688)\\Water Cooling Raptor Aqua Pro 360 01.png",
@@ -4773,17 +3157,19 @@
     "subcategoria": "PC",
     "inStock": true,
     "slug": "pc-gamer-raptor-thunder-white-r7-5700-rtx-5050-ventus-512gb",
-    "price": 1588500,
-    "priceLocal": 1520500,
+    "price": 1587500,
+    "priceLocal": 1519000,
     "banners": [
       "pccombo"
     ],
-    "priceNum": "1588500",
-    "cashPrice": "1520500",
+    "priceNum": "1587500",
+    "cashPrice": "1519000",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
-    "proximoIngreso": false
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "iva": ""
   },
   {
     "id": "prod-1780011383023",
@@ -4797,41 +3183,45 @@
     "subcategoria": "PC",
     "inStock": true,
     "slug": "pc-gamer-eclypse-r7-5700-rtx5050-monitor-16gb-512gb",
-    "price": 1997500,
-    "priceLocal": 1903000,
+    "price": 1996000,
+    "priceLocal": 1901500,
     "banners": [
       "pccombo"
     ],
-    "priceNum": "1997500",
-    "cashPrice": "1903000",
+    "priceNum": "1996000",
+    "cashPrice": "1901500",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
-    "proximoIngreso": false
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "iva": ""
   },
   {
     "id": "prod-1779232411747",
     "title": "KIT DE ACTUALIZACION AM4 8GB",
     "img": "img\\productos\\KIT Y PC\\TECH\\kit de actualizacion ryzen 5 5600gt 8gb de ram.png",
     "gallery": "img\\productos\\KIT Y PC\\TECH\\kit de actualizacion ryzen 5 5600gt 8gb de ram.png,img/productos/kit-de-actualizacion-am4-8gb/kit-de-actualizacion-ryzen-5-5600gt-8gb-de-ram-des-1779232236674.jpg",
-    "desc": "🧩 Motherboard: MSI A520M PRO\n\n⚙️ Procesador: AMD Ryzen 5 5600GT\n\n💾 Memoria: Hiksemi Hiker 8GB DDR4 3200MHz",
+    "desc": "🧩 Motherboard: MSI A520M A PRO\n\n⚙️ Procesador: AMD Ryzen 5 5600GT\n\n💾 Memoria: Hiksemi Hiker 8GB DDR4 3200MHz",
     "video": "",
     "category": "Notebook",
     "category2": "",
     "subcategoria": "KIT",
     "inStock": true,
     "slug": "kit-de-actualizacion-am4-8gb",
-    "price": 524000,
-    "priceLocal": 507000,
+    "price": 522500,
+    "priceLocal": 504000,
     "banners": [
       "kitryzen"
     ],
-    "priceNum": "524000",
-    "cashPrice": "507000",
+    "priceNum": "522500",
+    "cashPrice": "504000",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
-    "proximoIngreso": false
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "iva": ""
   },
   {
     "id": "prod-1779232900220",
@@ -4845,17 +3235,19 @@
     "subcategoria": "KIT",
     "inStock": true,
     "slug": "kit-de-actualizacion-am4-16gb",
-    "price": 622500,
-    "priceLocal": 608500,
+    "price": 621000,
+    "priceLocal": 605000,
     "banners": [
       "kitryzen"
     ],
-    "priceNum": "622500",
-    "cashPrice": "608500",
+    "priceNum": "621000",
+    "cashPrice": "605000",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
-    "proximoIngreso": false
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "iva": ""
   },
   {
     "id": "prod-1779233193503",
@@ -4915,17 +3307,19 @@
     "subcategoria": "KIT",
     "inStock": true,
     "slug": "kit-de-actualizacion-am4-8gb-armor",
-    "price": 583000,
+    "price": 582500,
     "priceLocal": 561000,
     "banners": [
       "kitryzen"
     ],
-    "priceNum": "583000",
+    "priceNum": "582500",
     "cashPrice": "561000",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
-    "proximoIngreso": false
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "iva": ""
   },
   {
     "id": "prod-1779234697172",
@@ -4939,17 +3333,19 @@
     "subcategoria": "PC",
     "inStock": true,
     "slug": "pc-raptor-vortex-8gb",
-    "price": 730000,
+    "price": 730500,
     "priceLocal": 690500,
     "banners": [
       "pccombo"
     ],
-    "priceNum": "730000",
+    "priceNum": "730500",
     "cashPrice": "690500",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
-    "proximoIngreso": false
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "iva": ""
   },
   {
     "id": "prod-1779235106225",
@@ -5055,17 +3451,19 @@
     "subcategoria": "PC",
     "inStock": true,
     "slug": "pc-gamer-eclypse-rtx-5050",
-    "price": 1658500,
-    "priceLocal": 1586500,
+    "price": 1657000,
+    "priceLocal": 1585000,
     "banners": [
       "pccombo"
     ],
-    "priceNum": "1658500",
-    "cashPrice": "1586500",
+    "priceNum": "1657000",
+    "cashPrice": "1585000",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
-    "proximoIngreso": false
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "iva": ""
   },
   {
     "id": "prod-1780001319370",
@@ -5079,17 +3477,19 @@
     "subcategoria": "PC",
     "inStock": true,
     "slug": "pc-gamer-raptor-white-r7-5700-rtx-5050-ventus-256gb",
-    "price": 1532500,
-    "priceLocal": 1469000,
+    "price": 1532000,
+    "priceLocal": 1467500,
     "banners": [
       "pccombo"
     ],
-    "priceNum": "1532500",
-    "cashPrice": "1469000",
+    "priceNum": "1532000",
+    "cashPrice": "1467500",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
-    "proximoIngreso": false
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "iva": ""
   },
   {
     "id": "prod-1780002042641",
@@ -5103,17 +3503,19 @@
     "subcategoria": "PC",
     "inStock": true,
     "slug": "pc-gamer-eclypse-r7-5700-rtx5060-16gb-3200mhz",
-    "price": 1774500,
-    "priceLocal": 1690000,
+    "price": 1773000,
+    "priceLocal": 1688500,
     "banners": [
       "pccombo"
     ],
-    "priceNum": "1774500",
-    "cashPrice": "1690000",
+    "priceNum": "1773000",
+    "cashPrice": "1688500",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
-    "proximoIngreso": false
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "iva": ""
   },
   {
     "id": "prod-1780002335132",
@@ -5127,17 +3529,19 @@
     "subcategoria": "PC",
     "inStock": true,
     "slug": "pc-gamer-con-water-cooling",
-    "price": 1881500,
-    "priceLocal": 1784500,
+    "price": 1879500,
+    "priceLocal": 1783000,
     "banners": [
       "pccombo"
     ],
-    "priceNum": "1881500",
-    "cashPrice": "1784500",
+    "priceNum": "1879500",
+    "cashPrice": "1783000",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
-    "proximoIngreso": false
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "iva": ""
   },
   {
     "id": "prod-1780004391228",
@@ -5151,17 +3555,19 @@
     "subcategoria": "PC",
     "inStock": true,
     "slug": "pc-gamer-raptor-thunder-am4-r5-5600gt-16gb-256gb",
-    "price": 831500,
-    "priceLocal": 820000,
+    "price": 849000,
+    "priceLocal": 819500,
     "banners": [
       "pccombo"
     ],
-    "priceNum": "831500",
-    "cashPrice": "820000",
+    "priceNum": "849000",
+    "cashPrice": "819500",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
-    "proximoIngreso": false
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "iva": ""
   },
   {
     "id": "prod-1780004591071",
@@ -5175,17 +3581,19 @@
     "subcategoria": "PC",
     "inStock": true,
     "slug": "pc-gamer-raptor-thunder-am5-r5-5600gt-16gb-512gb",
-    "price": 905500,
-    "priceLocal": 871500,
+    "price": 904500,
+    "priceLocal": 871000,
     "banners": [
       "pccombo"
     ],
-    "priceNum": "905500",
-    "cashPrice": "871500",
+    "priceNum": "904500",
+    "cashPrice": "871000",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
-    "proximoIngreso": false
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "iva": ""
   },
   {
     "id": "prod-1780011746243",
@@ -5199,16 +3607,18 @@
     "subcategoria": "PC",
     "inStock": true,
     "slug": "pc-gamer-eclypse-r7-5700-rtx5050-monitor-32gb",
-    "price": 2237500,
+    "price": 2236000,
     "priceLocal": 2139000,
     "banners": [
       "pccombo"
     ],
-    "priceNum": "2237500",
+    "priceNum": "2236000",
     "cashPrice": "2139000",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
-    "proximoIngreso": false
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "iva": ""
   }
 ]

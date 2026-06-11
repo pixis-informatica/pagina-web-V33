@@ -126,7 +126,7 @@
       "t": "refrigeracion premium"
     }
   },
-  "cacheVersion": 1781218539457,
+  "cacheVersion": 1781221620588,
   "tasasCuotas": [
     1.13,
     1.31,
@@ -174,10 +174,10 @@
     "gamerCardBgColor": "#0e0016",
     "gamerModalBgColor": "#0e0016",
     "oficinaCardBgColor": "#ffffff",
-    "oficinaModalBgColor": "#ffffff",
+    "oficinaModalBgColor": "#808080",
     "gamerModalTextColor": "#ffffff",
     "gamerModalPriceColor": "#00ffa6",
-    "oficinaModalTextColor": "#cb1010",
+    "oficinaModalTextColor": "#000000",
     "oficinaModalPriceColor": "#008a3d",
     "headerBgTypeGamer": "image",
     "headerBgValueGamer": "img/uploads/fondo_1781217572449_2.png",
