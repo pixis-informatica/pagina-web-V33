@@ -1555,7 +1555,7 @@
     "category": "fuentes",
     "category2": "nuevos",
     "subcategoria": "500w",
-    "inStock": false,
+    "inStock": true,
     "slug": "fuente-raptor-volt-500w-80-plus-bronze",
     "price": 70000,
     "priceLocal": 60500,

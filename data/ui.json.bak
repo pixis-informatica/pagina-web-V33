@@ -171,22 +171,22 @@
   },
   "images": {
     "section#nuevosIngresosSection > div > div > div > a:nth-of-type(5) > picture > img": {
-      "src": "http://localhost:8080/img/carrusel/banner-raptor-monitor-pc-2-1778942603711.jpg",
+      "src": "img/carrusel/banner-raptor-monitor-pc-2-1778942603711.jpg",
       "alt": "Promo",
       "href": "?banner=monitores-raptor"
     },
     "section#nuevosIngresosSection > div > div > div > a > picture > img": {
-      "src": "http://localhost:8080/img/des/actegorias.svg",
+      "src": "img/des/actegorias.svg",
       "alt": "Promo",
       "href": "?banner=ssdhikesmi"
     },
     "section#nuevosIngresosSection > div > div > div > a:nth-of-type(4) > picture > img": {
-      "src": "http://localhost:8080/img/des/perifericos-raptor-pc.svg",
+      "src": "img/des/perifericos-raptor-pc.svg",
       "alt": "Promo",
       "href": "?banner=perifericos-raptor"
     },
     "body#top > header > div:nth-of-type(2) > a > img": {
-      "src": "http://localhost:8080/img/uploads/img-1779581904446.png",
+      "src": "img/uploads/img-1779581904446.png",
       "alt": "PIXIS InformÃ¡tica",
       "href": "index.html",
       "style": {
