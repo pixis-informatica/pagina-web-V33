@@ -927,7 +927,7 @@
     "category2": "nuevos",
     "category3": "destacados",
     "excludeFromExport": false,
-    "proximoIngreso": true,
+    "proximoIngreso": false,
     "videoUrl": "",
     "stock": 3,
     "iva": "21,00%",
