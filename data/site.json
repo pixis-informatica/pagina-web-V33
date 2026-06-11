@@ -10,6 +10,11 @@
   "whatsappLink": "https://wa.me/message/EYUUSVNG5HPNF1",
   "carouselTop": [
     {
+      "imgPc": "img/carrusel/banner-refirgeracion-premium-1781218515253.jpg",
+      "imgMobile": "img/carrusel/banner-refirgeracion-premium-movile-1781218522885.jpg",
+      "bannerId": "refrigeracionpremium"
+    },
+    {
       "imgPc": "img/carrusel/caracol-1780094855042.jpg",
       "imgMobile": "img/carrusel/apex-movil-1780094738451.jpg",
       "bannerId": "joysticksraptorapex"
@@ -115,9 +120,13 @@
     "moniitores": {
       "f": "moniitores",
       "t": "MONITORES GAMING"
+    },
+    "refrigeracionpremium": {
+      "f": "refrigeracionpremium",
+      "t": "refrigeracion premium"
     }
   },
-  "cacheVersion": 1781217112519,
+  "cacheVersion": 1781218539457,
   "tasasCuotas": [
     1.13,
     1.31,
@@ -134,11 +143,11 @@
     "rgbSpeed": 4,
     "borderColorGamer": "#00ffff",
     "borderColorOficina": "gold",
-    "backgroundTypeGamer": "solid",
-    "backgroundValueGamer": "#17011e",
+    "backgroundTypeGamer": "image",
+    "backgroundValueGamer": "img/uploads/fondo_1781217563769_3.png",
     "backgroundTypeOficina": "image",
-    "backgroundValueOficina": "img/uploads/fondo_1781204272636_fondo_tem_tico_de_pascua_o_la_primavera_madera_vieja_y_los_huevos_coloreados_alineados_38090539.webp",
-    "rgbCardsDisabled": false,
+    "backgroundValueOficina": "img/uploads/fondo_1781217408418_22.png",
+    "rgbCardsDisabled": true,
     "rgbCardsSpeed": 4,
     "rgbBannersDisabled": false,
     "rgbBannersSpeed": 5,
@@ -166,14 +175,14 @@
     "gamerModalBgColor": "#0e0016",
     "oficinaCardBgColor": "#ffffff",
     "oficinaModalBgColor": "#ffffff",
-    "gamerModalTextColor": "#d0bfff",
+    "gamerModalTextColor": "#ffffff",
     "gamerModalPriceColor": "#00ffa6",
     "oficinaModalTextColor": "#cb1010",
     "oficinaModalPriceColor": "#008a3d",
     "headerBgTypeGamer": "image",
-    "headerBgValueGamer": "img/uploads/fondo_1781047699153_black_modern_material_header_with_diagonal_silver_lines_banner_for_your_business_abstract_widescreen_background_vector.jpg",
+    "headerBgValueGamer": "img/uploads/fondo_1781217572449_2.png",
     "headerBgTypeOficina": "image",
-    "headerBgValueOficina": "img/uploads/fondo_1781047708779_black_modern_material_header_with_diagonal_silver_lines_banner_for_your_business_abstract_widescreen_background_vector.jpg",
+    "headerBgValueOficina": "img/uploads/fondo_1781217433672_3.png",
     "gamerGlobalH1Color": "#ffffff",
     "gamerGlobalH2Color": "#ffffff",
     "gamerHeaderTopColor": "#ffffff",
@@ -186,7 +195,7 @@
     "oficinaGlobalH2Color": "#222222",
     "oficinaHeaderTopColor": "#111111",
     "oficinaLinea1Color": "#10b981",
-    "oficinaUbicacionColor": "#333333",
+    "oficinaUbicacionColor": "#ffffff",
     "oficinaRedesTitleColor": "#0066cc",
     "oficinaBtnVerCuotasColor": "#7c3aed",
     "oficinaBtnVolverColor": "#6d28d9"
